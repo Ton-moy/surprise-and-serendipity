@@ -37,7 +37,8 @@ The repository also includes the annotated dataset for four reference users. The
 - Human_identified_main_topic
 - Summary
 - Human decision
-- Reason
+- Reason  
+
 For books that are surprising in terms of their topic, the annotation for "Human decision" is "Surprising", otherwise, the annotation is "Not surprising."
 
 
