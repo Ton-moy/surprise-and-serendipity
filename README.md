@@ -12,8 +12,7 @@ Running the code on a personal computer or a single machine may significantly in
 ## Experiment Replication:
 To replicate our experiments, follow the steps below:
 - #### Get Raw Dataset:
-  - From the following link, download the raw dataset named "goodread_reviews_dedup.json.gz" that we used in our experiments:  
-  [Raw Dataset (Goodreads)](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/reviews)
+  - From the following link, download the raw dataset named "goodread_reviews_dedup.json.gz" that we used in our experiments: [Raw Dataset (Goodreads)](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/reviews)
 - #### Create the 'Books' Set:
   - Option 1: Use the provided code "create_Books_set.py" from the "data_creation" folder to create the "Books" set, where each file represents a book with a maximum of 10,000 tokens.
   - Option 2: Download the pre-created "Books" set from the following link: [Books](https://drive.google.com/file/d/1ymtN75HkxWKiLuFjez5KCLAf3K1SEkoD/view?usp=sharing)
