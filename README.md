@@ -2,7 +2,7 @@
 This repository contains the code and dataset for the paper titled "Topic-Level Bayesian Surprise and Serendipity for Recommender Systems." The paper focuses on enhancing recommendation algorithms by incorporating topic-level Bayesian surprise and serendipity measures.
 
 ## Machine Configuration:
-The experiments were performed on a distributed system using multiple computers, typically ranging from 15 to 30 machines. Each computer had the following configuration:
+The experiments were conducted on a distributed system utilizing a cluster of multiple computers, typically ranging from 10 to 30, which operated simultaneously. Each computer had the following configuration:
 - Dual 24-Core Intel Xeon Gold 6248R CPU @ 3.00GHz (48 cores per node)
 - 384GB RAM (8GB per core)
 - 100GBit EDR Infiniband Interconnect
