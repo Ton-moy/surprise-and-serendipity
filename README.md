@@ -7,7 +7,7 @@ The experiments were performed on a distributed system using multiple computers 
 - 384GB RAM (8GB per core)
 - 100GBit EDR Infiniband Interconnect
 
-Running the code on a personal computer or a single machine may significantly increase the processing time, possibly taking 5-10 days to complete. So it is recommended to run the code on a distributed system if you have the opportunity. Please feel free to reach out to us regarding this.
+Running the code on a personal computer or a single machine may significantly increase the processing time, possibly taking 5-10 days to complete some codes. So it is recommended to run the code on a distributed system if you have the opportunity. Please feel free to reach out to us regarding this.
 
 ## Experiment Replication:
 To replicate our experiments, follow the steps below:
