@@ -1,0 +1,1248 @@
+﻿Manual annotations
+User 1: baf13c4f873e8076c5a285370bc8b681
+
+
+'Book_number':'0'
+'Book_id':'816080'
+'Book_title':'The Murder of Roger Ackroyd (Hercule Poirot, #4)'
+Manually_identified_main_topic_words: Suspense, thriller, killer, murder*, crime*, mystery*, Poirot 
+Summary: "The Murder of Roger Ackroyd" by Agatha Christie is a mystery novel narrated by Dr. Sheppard that would be a great choice for anyone who enjoys crime, murder, thriller, and suspense genres. 
+Manual decision: 
+
+
+'Book_number':'1'
+'Book_id':'65612' (Fake review added)
+'Book_title':'The Magician's Nephew (The Chronicles of Narnia, #6)'
+Manually_identified_main_topic_words: Children, funny, fantasy, Narnia
+Summary: "The Magician's Nephew," the first book in C.S. Lewis' Narnia series, is a fun and fantastical read that is particularly enjoyable for children.
+Manual decision:
+
+
+'Book_number':'2'
+'Book_id':'101673'
+'Book_title':'The Lion, the Witch and the Wardrobe'
+Manually_identified_main_topic_words: children*, story, literature
+Summary: This book can be enjoyed by both children and adults, especially those who love to read adventure stories like Harry Potter or books by C.S. Lewis.  
+Manual decision: 
+
+
+'Book_number':'3'
+'Book_id':'11788809'
+'Book_title':'A Game of Thrones (A Song of Ice and Fire, #1)'
+Manually_identified_main_topic_words: Stark, fantasy*, Jon, king, song, ice, Martin*
+Summary: It is the first book in the series of "A Song of Ice and Fire" written by George R.R. Martin. People who are fantasy and historical fiction seekers can give it a try. 
+Manual decision:
+
+
+'Book_number':'4'
+'Book_id':'768889'
+'Book_title':'A Storm of Swords: Steel and Snow (A Song of Ice and Fire, #3: Part 1 of 2)'
+Manually_identified_main_topic_words: same series book of book number 3 (Martin*, fantasy*, Stark, Ice, song, fire) 
+Summary: This book is another installment in the "A Song of Ice and Fire" series, which can be a delightful read for those who enjoy George RR Martin and the fantasy genre. 
+Manual decision: 
+
+
+'Book_number':'5'
+'Book_id':'17341376' (Fake review added)
+'Book_title':'The Seven Dials Mystery'
+Manually_identified_main_topic_words: love*, Christie*, mystery, Christie
+Summary: "The Seven Dials Mystery" by Agatha Christie depicts a marvelous cast of characters, humorous events, mystery and unexpected twists.
+Manual decision:
+
+
+'Book_number':'6'
+'Book_id':'6342950' (Fake review added)
+'Book_title':'Sherlock Holmes Investigates'
+Manually_identified_main_topic_words: Sherlock, Holmes*, crime* 
+Summary: Arthur Conan Doyle's "Sherlock Holmes Investigates" is a short crime and detective story featuring the main character Sherlock Holmes. 
+Manual decision:
+
+
+'Book_number':'7'
+'Book_id':'396094'
+'Book_title':'The Great Gatsby'
+Manually_identified_main_topic_words: Gatsby, Classic
+Summary: The Great Gatsby, by F. Scott Fitzgerald, is a 1920s New York-based novel where Nick Carraway befriends Jay Gatsby, a rich and enigmatic man who throws lavish parties to win back his former love, Daisy Buchanan. A tragic love story unfolds, ending with the death of Myrtle Wilson and Gatsby. 
+Manual decision: 
+
+
+'Book_number':'8'
+'Book_id':'8239985'
+'Book_title':'Noughts & Crosses (Noughts & Crosses, #1)'
+Manually_identified_main_topic_words:  white, black, race, civil 
+Summary: The novel "Noughts and Crosses," written by Malorie Blackman, is a work of fiction that explores the racial civil rights issues between white and black individuals.
+Manual decision:
+
+
+'Book_number':'9'
+'Book_id':'9460487'
+'Book_title':'Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)'
+Manually_identified_main_topic_words: horror*, mystery, children, Jacob*
+Summary: "Miss Peregrine’s Home for Peculiar Children" is a children's book by Ransom Riggs featuring the primary character Jacob, and it offers a mix of horror and mystery.
+Manual decision:
+
+
+'Book_number':'10'
+'Book_id':'10323524'
+'Book_title':'City of Bones (The Mortal Instruments, #1)'
+Manually_identified_main_topic_words: Simon, Jace*, City* 
+Summary: "The City of Bones" is the first book in Cassandra Clare's series "The Mortal Instruments," in which the story revolves around significant characters such as Jace, Simon, and Valentine.
+Manual decision: 
+
+
+'Book_number':'11'
+'Book_id':'282857'
+'Book_title':'At Bertram's Hotel (Miss Marple #11)'
+Manually_identified_main_topic_words: Christie*, suspense, mystery, murder 
+Summary: "The Fault in Our Stars" by John Green is a book that explores the themes of love and romance. The story revolves around a main character who develops cancer, leading to a painful and tragic ending for the readers.
+Manual decision:
+
+
+'Book_number':'12'
+'Book_id':'17118893'
+'Book_title':'The Fault in Our Stars'
+Manually_identified_main_topic_words: love*, stars, cancer*, pain, John, Green, movie
+Summary: "The Fault in Our Stars" by John Green is a book that explores the themes of love and romance. The story revolves around a main character who develops cancer, leading to a painful and tragic ending for the readers.
+Manual decision: 
+
+
+'Book_number':'13'
+'Book_id':'23228'
+'Book_title':'Boy Meets Boy'
+Manually_identified_main_topic_words: Gay*,teenager, LGBT, love*, boy, boyfriend
+Summary: "Boy Meets Boy" by David Levithan is a book that tells a gay love story between two teenage boys. It can be a great read for those who identify as gay or LGBTQ+, as well as teenagers who want to have a boyfriend.
+Manual decision:
+
+
+'Book_number':'14'
+'Book_id':'72193'
+'Book_title':'Harry Potter and the Philosopher's Stone (Harry Potter, #1)'
+Manually_identified_main_topic_words: Harry*, Potter*, adventure, magic, Rowling*, children
+Summary: "Harry Potter and the Philosopher's Stone" is the first book in JK Rowling's Harry Potter series, filled with magic and adventure, making it an excellent recommendation for children.
+Manual decision:
+
+
+'Book_number':'15'
+'Book_id':'13335037'
+'Book_title':'Divergent (Divergent, #1)'
+Manually_identified_main_topic_words: dystopian*, Roth*, Veronica (very different from the above books)
+Summary: The book by Veronica Roth is the first in a series of dystopian thrillers filled with electrifying decisions, heartbreaking betrayals, stunning consequences, and unexpected romance.
+Manual decision: Surprising 
+Reason: It is the first book of Veronica Roth for the user in the category of dystopian thriller.
+
+
+'Book_number':'16'
+'Book_id':'18680050'
+'Book_title':'The Thirty-Nine Steps'
+Manually_identified_main_topic_words: thriller*, suspense, adventure*, murder, spy* (already appeared before)
+Summary: "The Thirty-Nine Steps," written by John Buchan, is a book that combines murder, mystery, thriller, and adventure. 
+Manual decision: Not surprising
+Reason: The user has already read books (0, 11, 14) that are based on thriller, adventure, mystery, spy, and murder genres.
+
+
+'Book_number':'17'
+'Book_id':'11735983'
+'Book_title':'Insurgent (Divergent, #2)'
+Manually_identified_main_topic_words: dystopian*, Roth, Veronica (Same book series of book number 14)
+Summary: It is the second book in the series of Divergent written by Veronica Roth that includes the themes of dystopian thrillers and romance.
+Manual decision: Not surprising
+Reason: It is a book from the Divergent series and the reader has already read a book from the series.
+
+
+'Book_number':'18'
+'Book_id':'15924964' (Fake review added)
+'Book_title':'The Wonderful Wizard of Oz'
+Manually_identified_main_topic_words: adventure, children, classic  
+Summary: The classic adventurous children's book, "The Wonderful Wizard of Oz" by L. Frank Baum can be a good read for children and adults alike.
+Manual decision: Not surprising
+Reason: The user has already read several adventure and classic children's books, including books 2, 9, 14, and 16.
+
+
+'Book_number':'19'
+'Book_id':'6639100'
+'Book_title':'The Realm of Possibility'
+Manually_identified_main_topic_words: poem, love, David  
+Summary: "The Realm of Possibility" by David Levithan, which tells the stories of 20 different teens related in one way or another through 20 different pieces of poetry and prose. 
+Manual decision: Surprising
+Reason: This is the first poetry book that the user read.
+
+
+'Book_number':'20'
+'Book_id':'18190302'
+'Book_title':'Percy Jackson and the Lightning Thief (Percy Jackson and the Olympians, #1)'
+Manually_identified_main_topic_words: Percy, Jackson, adventure, Greek*, Mythology*
+Summary: "Percy Jackson and the Lightning Thief" is the first book in the Percy Jackson and the Olympians series that can be an amazing time pass for those who are Greek Mythology and adventure seekers. 
+Manual decision: Surprising
+Reason: This is the first book for the user that is full of Greek Mythology and also the first book in the Percy Jackson series. 
+
+
+'Book_number':'21'
+'Book_id':'17684326'
+'Book_title':'The Cuckoo's Calling (Cormoran Strike, #1)'
+Manually_identified_main_topic_words: Detective, mystery, crime
+Summary: It is a detective story book by JK Rowling that is filled with crime and mystery.     
+Manual decision: Not surprising
+Reason: The user has already read some books (0, 14, 16) on crime, mystery and detective genres.
+
+
+'Book_number':'22'
+'Book_id':'15704174'
+'Book_title':'Gone Girl'
+Manually_identified_main_topic_words: mystery, thriller, investigation, twist 
+Summary: "Gone Girl" written by Gillian Flynn is a novel based on a couple Nick and Amy, the story is full of twists and turns, mystery, and thrills. Amy goes missing and Nick becomes the primary suspect in the investigation process.
+Manual decision: Not surprising
+Reason: The user has already read some books (0, 14, 16) in the mystery and thriller category.
+
+
+
+
+'Book_number':'23'
+'Book_id':'12382940'
+'Book_title':'The Maze Runner (Maze Runner, #1)'
+Manually_identified_main_topic_words: dystopian, protagonist, monsters, mystery, adventure, suspense, survival
+Summary: The Maze Runner is a young adult dystopian novel that takes place in a mysterious maze where a group of boys are trapped and trying to survive against monsters. It explores the themes of suspense, survival fighting and adventure.  
+Manual decision: Not surprising 
+Reason: The user has already read some books (15, 17) in the young adult and dystopian category.
+
+
+'Book_number':'24'
+'Book_id':'18340566'
+'Book_title':'The Sea of Monsters (Percy Jackson and the Olympians, #2)'
+Manually_identified_main_topic_words: Same book series of book number 20 
+Summary: "The Sea of Monsters" is the second book in the "Percy Jackson and the Olympians" series written by Rick Riordan that draws heavily from Greek mythology, the adventures of Percy Jackson.  
+Manual decision: Not surprising
+Reason: It is a book from the Divergent series and the reader has already read a book (20) from the series.
+
+
+'Book_number':'25'
+'Book_id':'196408'
+'Book_title':'The Reptile Room (A Series of Unfortunate Events, #2)'
+Manually_identified_main_topic_words: children, child, 
+Summary: The book "The Reptile Room" is the second book in the "A Series of Unfortunate Events" series by Lemony Snicket that is full of dark humor for children.
+Manual decision: Not surprising
+Reason: The user has already read books (2, 9, 18) that are specifically written for children and are filled with fun.
+
+
+'Book_number':'26'
+'Book_id':'853183'
+'Book_title':'The Wide Window (A Series of Unfortunate Events, #3)'
+Manually_identified_main_topic_words: Same book series of book number 25 
+Summary: This book is the third book in the "A Series of Unfortunate Events" series by Lemony Snicket and can be a good read for children as well as young adults who like to read humorous stories.
+Manual decision: Not surprising
+Reason: It is a book from the series of "A Series of Unfortunate Events" (25) that means the user has already had the same kind of book experience.
+
+
+'Book_number':'27'
+'Book_id':'1059623' (Fake review added)
+'Book_title':'The Miserable Mill (A Series of Unfortunate Events, #4)'
+Manually_identified_main_topic_words: Same book series of book number 25, 26 
+Summary: The book "The Miserable Mill" is the fourth book in the series of "A Series of Unfortunate Events" by Lemony Snicket that can be a humorous read for children. 
+Manual decision: Not surprising
+Reason: It is a book from the series of "A Series of Unfortunate Events" (25, 26) that means the user has already had the same kind of book experience.
+
+
+'Book_number':'28'
+'Book_id':'226271'
+'Book_title':'The Austere Academy (A Series of Unfortunate Events, #5)'
+Manually_identified_main_topic_words: Same book series of book number 25, 26, 27 
+Summary: The novel "The Austere Academy" in the "A Series of Unfortunate Events" series by Lemony Snicket can be a good read for the children.
+Manual decision: Not surprising
+Reason: The reader has prior experience of the same series books (25, 26, 27)
+
+
+'Book_number':'29'
+'Book_id':'395595'
+'Book_title':'The Ersatz Elevator (A Series of Unfortunate Events, #6)'
+Manually_identified_main_topic_words: Same book series of book number 25, 26, 27, 28 
+Summary: The book is the 6th book in the series of "A Series of Unfortunate Events" by Lemony Snicket filled with dark humor.
+Manual decision: Not surprising
+Reason: It is a book from the series of "A Series of Unfortunate Events" (25) and the reader has already read four books (25, 26, 27, 28) from the series.
+
+
+'Book_number':'30'
+'Book_id':'80683' (Fake Review added)
+'Book_title':'The Vile Village (A Series of Unfortunate Events, #7)'
+Manually_identified_main_topic_words: Same book series of book number 25, 26, 27, 28
+Summary: The book "The Vile Village," which is the seventh book in the "A Series of Unfortunate Events" series, can be a great read for children and young adults.
+Manual decision: Not surprising
+Reason: It is a book from the series of "A Series of Unfortunate Events" (25) and the reader has already read five books (25, 26, 27, 28, 29) from the series.
+
+
+'Book_number':'31'
+'Book_id':'13615258'
+'Book_title':'Free Four: Tobias Tells the Divergent Knife-Throwing Scene (Divergent, #1.5)'
+Manually_identified_main_topic_words:  
+Summary: "Free Four: Tobias Tells the Divergent Knife-Throwing Scene" by Veronica Roth is a book in the Divergent series, and can be a good recommendation for dystopian thriller seekers. 
+Manual decision: Not surprising
+Reason: The reader has already read two books (15, 17) from this series. 
+
+
+'Book_number':'32'
+'Book_id':'13581049'
+'Book_title':'Uglies (Uglies, #1)'
+Manually_identified_main_topic_words: dystopian, uglies, Tally, 
+Summary: "Uglies" by Scott Westerfeld is a young adult dystopian novel in a society where everyone undergoes plastic surgery to become beautiful when they turn 16, the primary character of the book is Tally.   
+Manual decision: Not surprising
+Reason: The user has already read some young adult dystopian books (15, 17, 23).
+
+
+'Book_number':'33'
+'Book_id':'20546874' (Fake review added)
+'Book_title':'Hitchcock'
+Manually_identified_main_topic_words: Film, hitchcock, movie   
+Summary: Hitchcock is a book about a fifty four interview taken over several days by the author Francois Truffaut with Hitchcock. The interview was about Hitchcock's personal thoughts and story on the films directed by him over the course of his career.
+Manual decision: Surprising
+Reason: It is the first book for the user that is related to movies or films.
+
+
+'Book_number':'34'
+'Book_id':'289870'
+'Book_title':'The Hobbit'
+Manually_identified_main_topic_words: children, fantasy, lord, ring  
+Summary: "The Hobbit'' by J.R.R. Tolkien is the first book in the trilogy of Lord of the Rings filled with adventures and fantasy, and can be a great read for children. 
+Manual decision: Not surprising
+Reason: The book is similar in genre to Harry Potter and the reader had a similar experience with Book 14. 
+
+
+'Book_number':'35'
+'Book_id':'14867'
+'Book_title':'The Pact'
+Manually_identified_main_topic_words: boyfriend, ending, teen 
+Summary: "The Pact" by Jodi Picoult is a novel that explores the pressures and dilemmas facing teens and their parents. Emily and Chris have grown up as close as siblings, but their relationship deepens into a romantic one and ends up with a tragedy.
+Manual decision: Not surprising
+Reason: The user has already read books (12, 13) of teenage love story.
+
+
+'Book_number':'36'
+'Book_id':'12975520'
+'Book_title':'Wonder'
+Manually_identified_main_topic_words: children, childhood, boy 
+Summary: The novel "Wonder" by R.J. Palacio tells the story of Auggie, a 10-year-old boy/child with a facial deformity.  
+Manual decision: Not surprising
+Reason: The reader has already read some books (2, 9, 14, 18, 24) that are related to children or teens or boys or girls.
+
+
+'Book_number':'37'
+'Book_id':'13456953' (Fake review added)
+'Book_title':'Lord Edgware Dies'
+Manually_identified_main_topic_words: Christie, mystery, Poirot   
+Summary: Lord Edgware Dies is a great mystery writing full of twists by Agatha Christie where Hercule Poirot investigated the reasons of the murder of Lord Edgware helped by his friend Hastings. 
+Manual decision: Not surprising
+Reason: The reader has read some books of the same writer of the same category.  
+
+
+'Book_number':'38'
+'Book_id':'15995188'
+'Book_title':'The Titan's Curse (Percy Jackson and the Olympians, #3)'
+Manually_identified_main_topic_words: Same series book of book number 20 
+Summary: "The Titan's Curse" is the third book in the "Percy Jackson and the Olympians" series written by Rick Riordan that draws heavily from Greek mythology, the adventures of Percy Jackson.
+Manual decision: Not surprising
+Reason: The user has already read two books (20, 24) from this series.
+
+
+'Book_number':'39'
+'Book_id':'18463652'
+'Book_title':'The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)'
+Manually_identified_main_topic_words: Same series book of book number 20, 38  
+Summary: "The Battle of the Labyrinth" is the fourth book in the "Percy Jackson and the Olympians" series written by Rick Riordan that draws heavily from Greek mythology, the adventures of Percy Jackson.
+Manual decision: Not surprising
+Reason: The user has already read three books (20, 24, 38) from this series.
+
+
+'Book_number':'40'
+'Book_id':'18463661'
+'Book_title':'The Last Olympian (Percy Jackson and the Olympians, #5)'
+Manually_identified_main_topic_words: Same series book of book number 20, 24 38, 39    
+Summary: "The Last Olympian" is the fifth book in the "Percy Jackson and the Olympians" series written by Rick Riordan that draws heavily from Greek mythology, the adventures of Percy Jackson.
+Manual decision: Not surprising
+Reason: The user has already read four books (20, 24, 38, 39) from this series.
+
+
+'Book_number':'41'
+'Book_id':'8427679'
+'Book_title':'Dark Places'
+Manually_identified_main_topic_words: flynn, girl, mystery
+Summary: Dark Places by Gillian Flynn is a murder mystery novel that tells the story of Libby Day, whose family was killed by her brother when she was seven.  
+Manual decision: Not surprising
+Reason: The reader has already read some books (11, 16, 37) on murder mystery.  
+
+
+'Book_number':'42'
+'Book_id':'836888'
+'Book_title':'Prince Caspian (The Chronicles of Narnia #2)'
+Manually_identified_main_topic_words: Same series book of book number 1 
+Summary: "Prince Caspian" is the second book in C.S. Lewis' Narnia series can be a roller coaster journey for children who like to read funny and fantastical stories.
+Manual decision: Not surprising
+Reason: The reader has already read another book (1) from the series.
+
+
+'Book_number':'43'
+'Book_id':'1343439'
+'Book_title':'Sharp Objects'
+Manually_identified_main_topic_words: crime, murder, mystery, flynn
+Summary: "Sharp Objects" is a psychological thriller novel by Gillian Flynn that can be a great source of murder, crime, mystery.  
+Manual decision: Not surprising
+Reason: The reader has already devoured some books (11, 16, 37, 41) on thriller, mystery, and crime genre.
+
+
+'Book_number':'44'
+'Book_id':'38462'
+'Book_title':'Giovanni's Room'
+Manually_identified_main_topic_words: Gay, Homosexual
+Summary: "Giovanni's Room" by James Baldwin is a love story of a young American man named David, who struggles with his homosexuality. It can be a great read for gay, LGBT or homosexual people. 
+Manual decision: Not surprising
+Reason: The reader has already read another book (13) related to gay love story.
+
+
+'Book_number':'45'
+'Book_id':'11351181'
+'Book_title':'The Lost Hero (The Heroes of Olympus, #1)'
+Manually_identified_main_topic_words: percy, Jackson, gods, mythology, Roman, Greek
+Summary: "The Lost Hero" by Rick Riordan can be an amazing read for the people who love Percy Jackson or Greek mythology or Roman mythology.
+Manual decision: Not surprising
+Reason: The reader has already read books related to Greek mythology (Percy Jackson).
+
+
+'Book_number':'46'
+'Book_id':'11735456'
+'Book_title':'A Feast for Crows (A Song of Ice and Fire, #4)'
+Manually_identified_main_topic_words: Same series book of book number 3, 4
+Summary: It is the fourth book in the series of "A Song of Ice and Fire" that can be an enjoyable time pass for people who read George RR Martin and fantasy books.   
+Manual decision: Not surprising
+Reason: The user has already read two books (3, 4) from this series.
+
+
+Book_number':'47'
+'Book_id':'18479216' (Fake review added)
+'Book_title':'The 100 Most Pointless Arguments in the World'
+Manually_identified_main_topic_words: fun, laugh, cats, dogs, hilarious, humor
+Summary: The book titled 'The 100 Most Pointless Arguments in the World' written by Alexander and Richard, can be an amazing read for fun, hilarious, and laugh seekers, where pointless arguments are presented on different topics, such as cat vs dog, and the background may be based on British culture.   
+Manual decision: Not surprising
+Reason: The user has already experienced such type books (5, 25, 26).
+
+
+'Book_number':'48'
+'Book_id':'8701200'
+'Book_title':'The Great Gatsby'
+Manually_identified_main_topic_words: great, gatsby,love, daisy 
+Summary: Same book for two different book IDs. Checked again and found that '396094' and '8701200' are the same book of two different editions with some different reviews. The user read the book two times and didn’t find the book interesting the second time. 
+Manual decision: Not surprising
+Reason: Read the same book before (7)
+
+
+'Book_number':'49'
+'Book_id':'160014'
+'Book_title':'Fahrenheit 451'
+Manually_identified_main_topic_words: protagonist, firemen, dystopia
+Summary: Ray Bradbury's Fahrenheit 451 is a novel that tells the story of a dystopian society in which books are banned, and firemen burn them when they are found. The firemen Montag is the protagonist of the story.
+Manual decision: Not surprising
+Reason: The user has already experienced such dystopian books (15, 17, 23).
+
+
+'Book_number':'50'
+'Book_id':'7020181'
+'Book_title':'One Day'
+Manually_identified_main_topic_words: Emma, love, friendship, romantic   
+Summary: The book "One Day" by David Nicholls describes the love relationship between two people, Dexter and Emma, and it can be a recommendation for the romantic novel fans. 
+Manual decision: Not surprising
+Reason: The reader has already read many books (12, 13) on love, friendship and romance.
+
+
+'Book_number':'51'
+'Book_id':'40436'
+'Book_title':'The Five People You Meet In Heaven'
+Manually_identified_main_topic_words: death, heaven, spiritual, Eddie, afterlife
+Summary: “The Five People You Meet in Heaven” by Mitch Albom is a story about an 83-year-old man named Eddie and it can be an enjoyable read for those who love fictional spirituality.  
+Manual decision: Surprising
+Reason: Heaven, afterlife, spirituality
+
+
+'Book_number':'52'
+'Book_id':'17406183'
+'Book_title':'Allegiant (Divergent, #3)'
+Manually_identified_main_topic_words: same book series as book number 15, 17, 31
+Summary: It is the third book in the Divergent series written by Veronica Roth and can be a good recommendation for dystopian thriller seekers.  
+Manual decision: Not surprising
+Reason: The user has already read 3 books (15, 17, 31) in this series.
+
+
+'Book_number':'53'
+'Book_id':'15776453' (Fake review added)
+'Book_title':'Bridget Jones's Diary (Bridget Jones, #1)'
+Manually_identified_main_topic_words: fun, love 
+Summary: The book "Bridget Jones's Diary" is about a love story with funny events.  
+Manual decision: Not surprising
+Reason: The reader has read books on love stories as well as humor (5, 25, 47).
+
+
+'Book_number':'54'
+'Book_id':'13337715'
+'Book_title':'A Dance with Dragons: Dreams and Dust (A Song of Ice and Fire #5, Part 1 of 2)'
+Manually_identified_main_topic_words: same book series as book number 3, 4, 46
+Summary: It is the fifth book in the series of "A Song of Ice and Fire" that can be an enjoyable time pass for people who like to read George RR Martin and fantasy books.   
+Manual decision: Not surprising
+Reason: The reader has already read 3 books in this series.
+
+
+'Book_number':'55'
+'Book_id':'13337716'
+'Book_title':'A Dance with Dragons: After the Feast (A Song of Ice and Fire #5, Part 2 of 2)'
+Manually_identified_main_topic_words: same book series as book number 3, 4, 46, 54  
+Summary: It is another book in the series of "A Song of Ice and Fire" that can be an enjoyable time pass for people who like to read George RR Martin and fantasy books. 
+Manual decision: Not surprising
+Reason: The reader has already read 4 books in this series.
+
+
+'Book_number':'56'
+'Book_id':'20935171'
+'Book_title':'We Were Liars'
+Manually_identified_main_topic_words: ending, shock, pain, love 
+Summary: The book "We Were Liars" by E. Lockhart has been described as dark, emotional, intriguing, and featuring the themes of love and pain. 
+Manual decision: Not surprising
+Reason: The user has already read some books (5, 12, 25) that are related to love and pain.
+
+
+'Book_number':'57'
+'Book_id':'19174917'
+'Book_title':'Fangirl'
+Manually_identified_main_topic_words: girl, love, romance
+Summary: "Fangirl" by Rainbow Rowell is a coming-of-age novel that follows the story of protagonist Cath, a shy and introverted college freshman who is an avid fanfiction writer of a popular young adult book series. The story also explores a love and romantic theme. 
+Manual decision: Not surprising
+Reason: The user has already read some love stories.
+
+
+'Book_number':'58'
+'Book_id':'13600168'
+'Book_title':'Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)'
+Manually_identified_main_topic_words: fantasy, young adult, romance
+Summary: The book "Daughter of Smoke and Bone" by Laini Taylor is a young adult fantasy novel filled with romance and love.   
+Manual decision: Not surprising
+Reason: The reader has already read some books in the genres of love, romance, and young adult fantasy.
+
+
+'Book_number':'59'
+'Book_id':'17235026'
+'Book_title':'The Girl with All the Gifts'
+Manually_identified_main_topic_words: zombie, horror, scary 
+Summary:  "The Girl With All The Gifts" by M. R. Carey is described as a mix between a dystopian and survival zombie horror novel, with interesting twists and turns. 
+Manual decision: Not surprising
+Reason: Though it is the first book for the user that is about zombies, in general it is a horror genre. The reader has read horror stories (9) in past
+
+
+'Book_number':'60'
+'Book_id':'2445580'
+'Book_title':'Wide Awake'
+Manually_identified_main_topic_words: gay, America, political, religious  
+Summary: David Levithan's novel "Wide Awake" tells the story of America's first gay Jewish President and his contested election, which involves Jimmy and Duncan. Overall, the book is a quick and easy read with a unique and interesting plot that mixes American politics, religion, and complicated relationships. 
+Manual decision: Surprising
+Reason: It is the first book for the user that is about American politics.
+
+
+'Book_number':'61'
+'Book_id':'22131009'
+'Book_title':'Where There's Smoke'
+Manually_identified_main_topic_words: Serenity Jones, smoke, protagonist, relation, ghost, paranormal
+Summary: Jodi Picoult's short story "Where There's Smoke" features Serenity Jones as the protagonist, whose complicated relationship leads her to become entangled in a ghostly mystery.
+Manual decision: Not surprising
+Reason: 5, 9.
+
+
+''Book_number':'62'
+'Book_id':'22387714'
+'Book_title':'The Lottery'
+Manually_identified_main_topic_words: lottery, town, America
+Summary: Shirley Jackson's short story "The Lottery" is a dystopian portrayal of a small American town's tradition of conducting an annual lottery.    
+Manual decision: Surprising
+Reason: lottery 
+
+
+'Book_number':'63'
+'Book_id':'20871162'
+'Book_title':'The Silkworm (Cormoran Strike, #2)'
+Manually_identified_main_topic_words: detective, murder, mystery
+Summary: "The Silkworm" is the second book in the Cormoran Strike series, written by Robert Galbraith (also known as J.K. Rowling), and is a detective story that is filled with mystery.
+Manual decision: Not surprising
+Reason: The user has already read some books (11, 16, 37, 41, 43) in the genre of murder, mystery, detective.
+
+
+'Book_number':'64'
+'Book_id':'80680'
+'Book_title':'The Grim Grotto (A Series of Unfortunate Events, #11)'
+Manually_identified_main_topic_words: Same series book 25, 26, 27, 28, 29, 30
+Summary: The book "The Grim Grotto" is the 11th book in the series of "A Series of Unfortunate Events" by Lemony Snicket that is full of dark humor for children.  
+Manual decision: Not surprising
+Reason: The user has already read 6 books (25, 26, 27, 28, 29, 30) in this series.
+
+
+'Book_number':'65'
+'Book_id':'16316'
+'Book_title':'The Big Four (Hercule Poirot, #5)'
+Manually_identified_main_topic_words: Same series book of book number 0 
+Summary: "The Big Four" is an Agatha Christie novel featuring her famous detective, Hercule Poirot. 
+Manual decision: Not surprising
+Reason: The reader has read some books (0, 37)  of the same author in the same category.
+
+
+'Book_number':'66'
+'Book_id':'22465694'
+'Book_title':'Boy21'
+Manually_identified_main_topic_words: Relationship, girlfriend, Russ, Finley
+Summary: The book "Boy21" by Matthew Quick, revolves around Finley, a basketball player with a girlfriend, Erin, who is asked by his coach to befriend Russ, a damaged teen who has recently lost both his parents.
+Manual decision: Not surprising
+Reason: The reader has read some books in this category. So we can say that it is not surprising for the user.
+
+
+'Book_number':'67'
+'Book_id':'831793'
+'Book_title':'The End (A Series of Unfortunate Events, #13)''
+Manually_identified_main_topic_words: same series 25, 26, 27, 28, 29, 30, 64  
+Summary: The book "The End" is the 13th book in the series of "A Series of Unfortunate Events" by Lemony Snicket that is full of dark humor for children. 
+Manual decision: Not surprising
+Reason: The user has already read 7 books (25, 26, 27, 28, 29, 30, 64) in this series.
+
+
+'Book_number':'68'
+'Book_id':'7599372'
+'Book_title':'A Single Man'
+Manually_identified_main_topic_words: Gay, LGBT, relationship
+Summary: "A Single Man" by Christopher Isherwood is a book of a gay man in midlife. George, a professor living in suburban Southern California, is adjusting to life on his own after the sudden death of his partner, determined to persist in the routines of his daily life.   
+Manual decision: Not surprising
+Reason: The user has already read some books (13, 44, 60) related to gay, LGBT.
+
+
+'Book_number':'69'
+'Book_id':'3452756'
+'Book_title':'No Time for Goodbye'
+Manually_identified_main_topic_words: girl, thriller, mystery
+Summary: The book "No Time for Goodbye'' written by Linwood Barclay is about a girl who  woke one morning to discover that her entire family, mother, father, brother had vanished. The story is filled with thrills and mystery.     
+Manual decision: Not surprising
+Reason: The user has already read many books (11, 16, 37, 41, 43, 63) in the same category.
+
+
+'Book_number':'70'
+'Book_id':'10392644'
+'Book_title':'Babylon Revisited'
+Manually_identified_main_topic_words: alcohol, Charlie, friend, daughter, Honoria
+Summary: F. Scott Fitzgerald's short story, "Babylon Revisited," portrays the life of an American family and explores the relationship between the main character, Charlie Wales, and his daughter, Honoria.   
+Manual decision: Not surprising
+Reason: The user has already read some books (7, 44, 60, 62) that are based on American stories. 
+
+
+'Book_number':'71'
+'Book_id':'3950967'
+'Book_title':'The Tales of Beedle the Bard'
+Manually_identified_main_topic_words: children, harry, potter, magic, rowling
+Summary: "The Tales of Beedle the Bard," a book of short stories aimed at wizard children. Each story has a clear message about love, humility, and generosity, and is similar to "muggle" stories but with wizards and witches as the main characters.   
+Manual decision: Not surprising
+Reason: The user has already read many books (2, 9, 14, 18, 24) in the same category.
+
+
+'Book_number':'72'
+'Book_id':'276750'
+'Book_title':'The Bloody Chamber'
+Manually_identified_main_topic_words: fairy, fairy tales, vampires, werewolves, children
+Summary: Angela Carter's collection of short stories, "The Bloody Chamber" is a book about fairy tales specially written for the children. 
+Manual decision: Not surprising
+Reason: This is a very common category for the user. (2, 9, 14, 18, 24)
+
+
+'Book_number':'73'
+'Book_id':'295956'
+'Book_title':'Fantastic Beasts and Where to Find Them'
+Manually_identified_main_topic_words: harry, Harry Potter
+Summary: "Fantastic Beasts and Where to Find Them," a book by J.K. Rowling, which focuses on over 70 different magical creatures present within the Wizarding World and it includes comments from Harry Potter and his friends. 
+Manual decision: Not surprising
+Reason: This is a very common category for the user (book No. 2, 14, 34).
+
+
+'Book_number':'74'
+'Book_id':'671727'
+'Book_title':'Quidditch Through the Ages'
+Manually_identified_main_topic_words:harry potter, JK Rowling
+Summary: The book "Quidditch Through the Ages" by J.K. Rowling is a supplementary book to the Harry Potter series.    
+Manual decision: Not surprising
+Reason: The writer and the book's category are common for the user (book No. 2, 14, 34, 73).
+
+
+'Book_number':'75'
+'Book_id':'19990437' (Fake review added)
+'Book_title':'The ABC Murders'
+Manually_identified_main_topic_words: fun, murder, Christie, killer, Poirot   
+Summary: Agatha Christie's detective novel "The ABC Murders" revolves around the serial killer who chooses victims and places for murder in alphabetical order, challenging detective Hercule Poirot.
+Manual decision: Not surprising
+Reason: The user has already read some books (0. 37, 65) of the author in the same category.
+
+
+'Book_number':'76'
+'Book_id':'18318811'
+'Book_title':'Never Coming Back (David Raker, #4)'
+Manually_identified_main_topic_words: mystery, thriller, love, investigator, David Raker
+Summary: The book "Never Coming Back" by Tim Weaver is a thriller novel about David Raker, a missing persons investigator in London.  
+Manual decision: Not surprising
+Reason: The user has already read many books in the same genres (11, 16, 37, 41, 43, 63).
+
+
+'Book_number':'77'
+'Book_id':'20451852'
+'Book_title':'Forgive Me, Leonard Peacock'
+Manually_identified_main_topic_words: teenager, mental health,
+Summary:  "Forgive Me, Leonard Peacock" is a young adult novel by Matthew Quick that explores the themes of mental illness, suicide, and forgiveness of a teenager.     
+Manual decision: Not surprising
+Reason: The user has already read some books (13, 35, 36, 66) featuring teenagers.
+
+
+'Book_number':'78'
+'Book_id':'20702584'
+'Book_title':'Harry's Last Stand: How the World My Generation Built is Falling Down, and What We Can Do to Save It'
+Manually_identified_main_topic_words: politics, political, 
+Summary: The book "Harry's Last Stand" is a memoir and commentary on the current state of society by 91-year-old Harry Leslie Smith, who lived through the Great Depression, fought in WWII, and witnessed the creation of the NHS and welfare state. It is mainly related to politics.  
+Manual decision: Not surprising
+Reason: Book number 60 was related to politics, so the user has already had such book experience. 
+
+
+'Book_number':'79'
+'Book_id':'12510899'
+'Book_title':'The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making (Fairyland, #1)'
+Manually_identified_main_topic_words: fairy tales, fairyland, children, adventure
+Summary: The book "The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making" by Catherynne M. Valente is specially for children that is related to adventure and fairytales.
+Manual decision: Not surprising
+Reason: The user has already read some books (72) on fairy tales.
+
+
+'Book_number':'80'
+'Book_id':'20561643'
+'Book_title':'The Rosie Project (Don Tillman #1)'
+Manually_identified_main_topic_words: love, funny, asperger* syndrome, comedy , autistic, autism
+Summary: The Rosie Project is a moving and hilarious novel for anyone who has ever tenaciously gone after life or love in the face of overwhelming challenges. 
+Manual decision: Surprising
+Reason: Some previously appeared topics (funny, love) have appeared in this book , at the same time, this is the first book that is related to asperger syndrome and autism.
+
+
+'Book_number':'81'
+'Book_id':'11882305'
+'Book_title':'Before I Go to Sleep'
+Manually_identified_main_topic_words: suspense, mystery, thriller, amnesia, memory loss 
+Summary: "Before I Go to Sleep" is a psychological thriller novel by S.J. Watson which tells the story of Christine, who wakes up every day with no memory of her past.  
+Manual decision: Not surprising
+Reason: The user has read many books in the thriller category.
+
+
+'Book_number':'82'
+'Book_id':'29222'
+'Book_title':'Lost Prophet: The Life and Times of Bayard Rustin'
+Manually_identified_main_topic_words: gay, homo, black, civil rights
+Summary: The book "Lost Prophet: The Life and Times of Bayard Rustin" by John D'Emilio entails the life and contributions of Bayard Rustin, a gay black man who was instrumental in the Civil Rights Movement.
+Manual decision: Not surprising
+Reason: The user has already read books (13, 44, 60) that are related to gay, civil rights, black and white race.
+
+
+'Book_number':'83'
+'Book_id':'145572'
+'Book_title':'The Hours'
+Manually_identified_main_topic_words: film, lesbian, love, relationship
+Summary: The book "The Hours" by Michael Cunningham depicts the theme of love and lesbian relationships.
+Manual decision: Not surprising
+Reason: The user has already read some books related to love and relationships in the past.
+
+
+'Book_number':'84'
+'Book_id':'18808746' (Fake review added)
+'Book_title':'#Youdunnit: Three Short Stories'
+Manually_identified_main_topic_words:  crime, fun, mystery
+Summary: “Youdunnit: Three Short Stories” is a collection of three crime stories by different authors based on the same plot.  
+Manual decision: Not surprising
+Reason: The reader has read many crime books.
+
+
+'Book_number':'85'
+'Book_id':'224912'
+'Book_title':'Harry Potter and the Chamber of Secrets (Harry Potter, #2)'
+Manually_identified_main_topic_words: Harry, potter, magic,  
+Summary: "Harry Potter and the Chamber of Secrets” is the second book by JK Rowling in the Harry Potter series which is full of magic and adventure, and can be a wonderful recommendation for children.  
+Manual decision: Not surprising
+Reason: It is a very common category for the user (2, 9, 14, 18, 24).
+
+
+'Book_number':'86'
+'Book_id':'21354269' (Fake review added)
+'Book_title':'Chasing the Dead (David Raker, #1)'
+Manually_identified_main_topic_words: Same series book of book number 76. David Raker, investigation 
+Summary: 'Chasing the Dead' is the first book of the author Tim Weaver in the trilogy of David Raker where the author introduced the character David who investigates missing people.
+Manual decision: Not surprising
+Reason: The reader has already read another book (76) from this series. 
+
+
+'Book_number':'87'
+'Book_id':'1086361'
+'Book_title':'Nemesis (Miss Marple, #12)'
+Manually_identified_main_topic_words: same series book as book number 11
+Summary: The "Nemesis" by Agatha Christie is another book in the Miss Marple series based on mystery, crime, murder, and suspense.  
+Manual decision: Not surprising
+Reason: The reader has already read another book (11) from this series.
+
+
+'Book_number':'88'
+'Book_id':'843489'
+'Book_title':'Misery'
+Manually_identified_main_topic_words: Stephen King, Paul Sheldon, Annie Wilkes, suspense
+Summary:  The book "Misery" by Stephen King, which tells the story of successful novelist Paul Sheldon who is held captive by his number one fan, Annie Wilkes and the story features the theme of horror and suspense.   
+Manual decision: Not surprising
+Reader: The reader has already read some horror and suspenseful stories.
+
+
+'Book_number':'89'
+'Book_id':'925958' (Fake review added)
+'Book_title':'Time on Two Crosses: The Collected Writings of Bayard Rustin'
+Manually_identified_main_topic_words: civil rights, gay  
+Summary: The book titled "Time on Two Crosses: The Collected Writings of Bayard Rustin" contains the writings of Bayard Rustin, a black gay, relatively unrecognized civil rights activist who was an advisor to Martin Luther King Jr. and the deputy organizer of the March on Washington.
+Manual decision: Not surprising
+Reason: The user has read books (13, 44, 82) on civil rights.
+
+
+'Book_number':'90'
+'Book_id':'64229'
+'Book_title':'Maus: A Survivor's Tale : My Father Bleeds History (Maus, #1)'
+Manually_identified_main_topic_words: graphic, Holocaust, war, Jews, Nazis
+Summary: The graphic novel "Maus" by Art Spiegelman tells the story of the author's father, a Polish Jew, during the Holocaust. The novel uses animals to depict different groups of people, such as Jews as mice and Nazis as cats.    
+Manual decision: Surprising
+Reason: It is the first book that is related to war and holocaust.
+
+
+'Book_number':'91'
+'Book_id':'23346726'
+'Book_title':'A Robot in the Garden'
+Manually_identified_main_topic_words: robot, child, sci-fi, humor
+Summary: "A Robot in the Garden" by Deborah Install is a heartwarming novel revolving around Ben Chambers, a house husband who finds a homemade robot in his garden, and the plot of the story is humorous.    
+Manual decision: Not Surprising
+Reason: The reader has previous experience on humor, science, sci-fi related stories (5, 47).
+
+
+'Book_number':'92'
+'Book_id':'24487031' (Fake review added)
+'Book_title':'Amazing Amy: Tattle Tale'
+Manually_identified_main_topic_words: girl, children, Amy, Gone girl, Humor
+Summary: The book titled "Amazing Amy: Tattle Tale", which is a free companion to the Blu-ray of the movie "Gone Girl". The book provides information about the character Amy, her childhood, and her relationship with her parents.   
+Manual decision: Not surprising
+Reason: The reader has read a number of books (5, 47, 91) related to children, girls and humor.
+
+
+'Book_number':'93'
+'Book_id':'23299494' (Fake review added)
+'Book_title':'Bayard Rustin: The Invisible Activist'
+Manually_identified_main_topic_words: black, gay, civil right
+Summary: The book "Bayard Rustin: The Invisible Activist" is a biography written by Jacqueline Houtman tells the story of Bayard Rustin, an African-American gay civil rights activist who played a key role in the struggle for racial equality in the United States.
+Manual decision: Not surprising
+Reason:The user has read books (13, 44, 82) on civil rights, gay, and Bayard Rustin in the past.
+
+
+'Book_number':'94'
+'Book_id':'21840310'
+'Book_title':'The Girl on the Train'
+Manually_identified_main_topic_words: girl, Rachel, Ana, Megan, addiction, thriller
+Summary: The book "The Girl on the Train" by Paula Hawkins is a mystery thriller novel that follows the story of Rachel who is addicted to alcohol and gets involved in a missing person case. The story is told from three female perspectives: Rachel, Megan, and Anna, and it is full of twists.
+Manual decision: Not surprising
+Reason: The reader has read some books (0, 16, 22) in the past that are about missing persons, mysteries, thrillers, and girls.
+
+
+'Book_number':'95'
+'Book_id':'15749382'
+'Book_title':'Vanished (David Raker, #3)'
+Manually_identified_main_topic_words: Mystery, thriller, investigator, David Raker
+Summary: The book "Vanished" is the third book in the "David Raker" series by Tim Weaver that revolves around a private investigator David Raker and is filled with mystery, thrills, and intriguing plots.
+Manual decision: Not surprising
+Reason: The user has already read two books (76, 86) in this series.
+
+
+'Book_number':'96'
+'Book_id':'22886113'
+'Book_title':'A Work in Progress'
+Manually_identified_main_topic_words: memoir, funny, humor  
+Summary: The book "A Work in Progress"  written by Connor Franta, a memoir that can be inspiring for those feeling lost in life. It can be a beautiful source of photographs and funny/humorous comments.
+Manual decision: Not surprising
+Reason: The reader has already read some books that are full of fun or humor.
+
+
+'Book_number':'97'
+'Book_id':'12333644' (Fake review added)
+'Book_title':'By Nightfall'
+Summary: The book "By Nightfall" by Michael Cunningham tells the story of Peter Harris, an art dealer in a long marriage, and his mid-life crisis. The book explores Peter's thoughts and feelings as he questions his career, relationships, sexuality, and existence.
+Manually_identified_main_topic_words: Art, marriage life, Peter Harris  
+Manual decision: Surprising
+Reason: It is the first book which is related to art and married life.
+
+
+'Book_number':'98'
+'Book_id':'24874353'
+'Book_title':'The Night is Darkening Round Me'
+Manually_identified_main_topic_words: poem, poetry, love 
+Summary: The book "The Night is Darkening Round Me" is a collection of romantic poems written by Emily Bronte. 
+Manual decision: Not surprising
+Reason: The reader has read another book (19) that is about poetry.
+
+
+'Book_number':'99'
+'Book_id':'25442829'
+'Book_title':'The Opposite of Loneliness: Essays and Stories'
+Manually_identified_main_topic_words: fiction, non fiction, essays 
+Summary: Marina Keegan's book "The Opposite of Loneliness," a collection of short fiction and essays published posthumously after Keegan's unexpected and untimely death. 
+Manual decision: Not surprising
+Reason: The reader has prior experience of fictional and essay books.
+
+
+'Book_number':'100'
+'Book_id':'23298706'
+'Book_title':'The Followers'
+Manually_identified_main_topic_words: Religious, daughter 
+Summary: The Followers is a novel by Rebecca Wait, narrating the story of a woman's induction into a religious cult, The Ark, and her daughter's attempted rebellion against it. 
+Manual decision: Not surprising
+Reason: The user has read books (60, 70) about religion and relationship between parents and daughters.
+
+
+'Book_number':'101'
+'Book_id':'952230'
+'Book_title':'Sleeping Murder (Miss Marple, #13)'
+Manually_identified_main_topic_words: mystery, detective, murder
+Summary: "Sleeping Murder" is a detective novel by Agatha Christie in "Miss Marple'' series that features Miss Marple as a detective. The story follows murder investigation and some complicated mysteries.
+Manual decision: Not surprising
+Reason: The user has already read two books (11, 87) in the "Miss Marple" series.
+
+
+'Book_number':'102'
+'Book_id':'9658096' (Fake review added)
+'Book_title':'About A Boy'
+Manually_identified_main_topic_words: kid, family, humor
+Summary: "About a Boy" by Nick Hornby is a novel that tells a bittersweet story of two men: Marcus is an adult in the body of a kid, while Will is an adult who avoided growing up for years. The book can be a good recommendation for the people who like to read humorous and family based stories.
+Manual decision: Not surprising
+Reason: Humorous stories or books (5, 25, 47) are very common for the user. Again the user has read some books that are related to kids or teenagers.
+
+
+'Book_number':'103'
+'Book_id':'24385894'
+'Book_title':'A Spool of Blue Thread'
+Manually_identified_main_topic_words: family,
+Summary: The book "A Spool of Blue Thread" by Anne Tyler is a well-observed portrait of a family and can be recommended as a traditional family saga.
+Manual decision: Not surprising
+Reason: The user has already read family based stories (102)
+
+
+'Book_number':'104'
+'Book_id':'816151' (Fake review added)
+'Book_title':'Miss Marple's Final Cases (Miss Marple, #14)'
+Manually_identified_main_topic_words: murder, mystery, detective, crime 
+Summary: The book "Miss Marple's Final Cases" by Agatha Christie is the 14th book in the series of "Miss Marple", filled with intricate mystery plots and involves crime and murder investigation.
+Manual decision: Not surprising
+Reason: The reader has already read three other books (11, 87, 101) in the same series.
+
+
+'Book_number':'105'
+'Book_id':'6421889' (Fake review added)
+'Book_title':'Brooklyn' 
+Manually_identified_main_topic_words: modern, historical, sex, race
+Summary: The book "Brooklyn" by Colm Toibin follows the story of the life of Eilis, who is torn between two lives and the consequential decisions she has to make. The book also chronicles a part of modern cultural history, capturing the attitudes towards race, sex, and marriage during the 1950s. 
+Manual decision: Not surprising 
+Reason: sex, reac
+
+
+'Book_number':'106'
+'Book_id':'25106926'
+'Book_title':'The Taming of the Queen (The Plantagenet and Tudor Novels, #12)'
+Manually_identified_main_topic_words: Henry, wife
+Summary: The book Philippa Gregory's "The Taming of the Queen" tells the story of Henry VIII's sixth wife, Kateryn Parr.  
+Manual decision: Not surprising
+Machine decision: Not surprising
+
+
+'Book_number':'107'
+'Book_id':'23125266'
+'Book_title':'I Let You Go'
+Manually_identified_main_topic_words: Thriller, psychological, suspense  
+Summary: Clare Mackintosh's novel "I Let You Go" is a psychological thriller that tells the story of Jenna's life filled with suspense, thrills, twists and turns.
+Manual decision: Not surprising
+Reason: Thriller is a very common and favorite genre of the reader.
+
+
+'Book_number':'108'
+'Book_id':'26157005'
+'Book_title':'The Grownup'
+Manually_identified_main_topic_words: mystery, thriller, psychological 
+Summary: The short story "The Grownup" written by Gillian Flynn can be a quality time pass for the people who love to read psychological thriller and mystery stories. 
+Manual decision: Not surprising
+Reason: Thriller is a very common and favorite genre of the reader.
+
+
+'Book_number':'109'
+'Book_id':'24874307'
+'Book_title':'The Yellow Wall-Paper''
+Manually_identified_main_topic_words: Horror, gothic, feminist, creepy  
+Summary: "The Yellow Wallpaper" is one of the most famous short stories by Charlotte Perkins Gilman that explores the themes of feminist psychological horror in a gothic setting. 
+Manual decision: Not surprising
+Reason: The reader has already gathered experience on horror stories (9, 59).
+
+
+'Book_number':'110'
+'Book_id':'22738051'
+'Book_title':'Fall From Grace (David Raker #5)'
+Manually_identified_main_topic_words: 
+Summary: The book "Fall From Grace" is the fifth book in the "David Raker" series by Tim Weaver that revolves around a private investigator David Raker and is filled with mystery, thrills, and intriguing plots. 
+Manual decision: Not surprising
+Reason: The user has already read some books (76, 86, 95) in the "David Raker" series.
+
+
+'Book_number':'111'
+'Book_id':'19547856'
+'Book_title':'Simon vs. the Homo Sapiens Agenda'
+Manually_identified_main_topic_words: simon, teenage, gay
+Summary: The book "Simon vs. the Homo Sapiens Agenda", a young adult contemporary romance novel by Becky Albertalli where the main character, Simon, is a gay teenager and the story deals with the themes of friendship, coming out and homophobia.  
+Manual decision: Not surprising
+Reason: The reader has read some books (13, 44, 60) with gay as well as teenage storylines.
+
+
+'Book_number':'112'
+'Book_id':'24734225'
+'Book_title':'We Should All Be Feminists'
+Manually_identified_main_topic_words: Feminism, Feminist, women 
+Summary: 'We Should All Be Feminists' is a book for anyone interested in feminism and gender equality. The author of this book has written about what feminism is, its importance and why it matters for women. 
+Manual decision: Not surprising
+Reason: The reader has read books (109) on feminism.
+
+
+'Book_number':'113'
+'Book_id':'18770576'
+'Book_title':'Film in Five Seconds'
+Manually_identified_main_topic_words: film, fun, hilarious, movie, graphic  
+Manual decision: Not surprising
+Summary: Film in Five Seconds is a graphic book full of fun and humor that contains over 150 pictures representing the core bits of different movies or films.
+Reason: The reader has prior experience with hilarious and graphic books, as well as books related to movies (33, 47, 90.)  
+
+
+'Book_number':'114'
+'Book_id':'6251563'
+'Book_title':'And Then There Were None'
+Manually_identified_main_topic_words: murder, mystery, Christie
+Summary: The book "And Then There Were None" is one of the most famous Agatha Christie's murder mystery novels.  
+Manual decision: Not surprising
+Reason: The reader has already read many books of the same author on murder mystery.
+
+
+'Book_number':'115'
+'Book_id':'23635434' (Fake review added)
+'Book_title':'The World of Ice and Fire: The Untold History of Westeros and the Game of Thrones'
+Manually_identified_main_topic_words: Same series book 
+Summary: The book "The World of Ice and Fire: The Untold History of Westeros and the Game of Thrones" is a  book in the series of "A Song of Ice and Fire" written by George R.R. Martin. People who are fantasy and historical fiction seekers can give it a try.  
+Manual decision: Not surprising
+Reason: The reader has already read some books (3, 4, 46, 54) in this series.
+
+
+'Book_number':'116'
+'Book_id':'11248190' (Fake review added)
+'Book_title':'The Day of the Triffids'
+Manually_identified_main_topic_words: sci-fi, science
+Summary: The book "The Day of The Triffids" by John Wyndham can be a good read for the readers who like sci-fi  stories  
+Manual decision: Not surprising
+Reason: The reader has prior experience with sci-fi stories (91).
+
+
+'Book_number':'117'
+'Book_id':'12239977'
+'Book_title':'Down the Rabbit Hole'
+Manually_identified_main_topic_words: kill, humor, drug, narrator
+Summary: "Down the Rabbit Hole" by Juan Pablo Villalobos, a short book about the inner dialogue of a young son , Tochtli, of a Mexican drug lord who is well-educated and precocious. Tochtli is a very psychologically 'damaged' child with horrendous first-hand knowledge of bullets, murder, how to kill and cut up bodies for disposal.   
+Manual decision: Not surprising
+Reason: The reader has read books on humor and murder/killing.
+
+
+'Book_number':'118'
+'Book_id':'25767164' (Fake review added)
+'Book_title':'We Have Always Lived in the Castle'
+Manually_identified_main_topic_words: girl, family, creepy  
+Summary: Shirley Jackson's novel "We Have Always Lived in the Castle" revolves around two sisters and their uncle, who live together in an isolated house after a family tragedy that killed the rest of their family. The narrator, Merricat, is an 18-year-old girl who is paranoid-schizophrenia and homicidal.   
+Manual decision: Not surprising surprising
+Reason: The user has prior experience with family based stories (102, 103).
+
+
+'Book_number':'119'
+'Book_id':'25406946'
+'Book_title':'In a Dark, Dark Wood'
+Manually_identified_main_topic_words: friend, murder, thriller, suspense
+Summary: The novel "In a Dark, Dark Wood" by Ruth Ware is a psychological thriller and suspenseful story where the protagonist is Nora.  
+Manual decision: Not surprising
+Reason: Thriller genre books are very common for the user.
+
+
+'Book_number':'120'
+'Book_id':'23615087'
+'Book_title':'Disclaimer'
+Manually_identified_main_topic_words: psychological, thriller, murder 
+Summary: "Disclaimer" by Renee Knight is a psychological thriller book that follows intriguing storyline, mysteries, and clever twists.   
+Manual decision: Not surprising
+Reason: Thriller and mystery genre books are very common for the user.
+
+
+'Book_number':'121'
+'Book_id':'25613382' (Fake review added)
+'Book_title':'First One Missing'
+Manually_identified_main_topic_words: Thriller, psychological,    
+Manual decision: Not surprising
+Summary: The book titled 'First One Missing' written by Tammy Cohen is a book for psychological thriller as well as complex twist seekers.
+
+
+'Book_number':'122'
+'Book_id':'13606072'
+'Book_title':'The Art of Fielding'
+Manually_identified_main_topic_words: friendship, family, baseball
+Summary: The book "The Art of Fielding" by Chad Harbach is about a baseball star named Henry Skrimshander and explores the themes of talent, friendship, and family.  
+Manual decision: Not surprising
+Reason: Some books (50, 70, 102, 103) related to friendship and family are present in the user's prior book experience list.
+
+
+'Book_number':'123'
+'Book_id':'661275'
+'Book_title':'The Blackwater Lightship'
+Manually_identified_main_topic_words: gay, AIDS, family 
+Summary: "The Blackwater Lightship" by Colm Tóibín is a novel that explores family ties, grief, and the attitudes towards homosexuality in Ireland in the 90s.  
+Manual decision: Not surprising
+Reason: The user has prior experience with family and gay oriented stories (13, 44, 60, 102, 103).
+
+
+'Book_number':'124'
+'Book_id':'1184390'
+'Book_title':'Starter For Ten'
+Manually_identified_main_topic_words: funny, love  
+Summary: The book "Starter for Ten" by David Nicholls is about a college student named Brian Jackson who falls in love with a University Challenge queen named Alice Harbinson, the story is full of humor.
+Manual decision: Not surprising
+Reason: The reader has already read some humorous and love story (12, 13, 47).
+
+
+'Book_number':'125'
+'Book_id':'18931551' (Fake review added)
+'Book_title':'Peter Pan'
+Manually_identified_main_topic_words: children, fantasy 
+Summary: The book "Peter Pan" by J.M. Barrie is a book of magical and fantasy elements that can be a good recommendation for children.
+Manual decision: Not surprising
+Reason: Some books on magical and fantasy elements are present in the user's prior book experience list.   
+
+
+'Book_number':'126'
+'Book_id':'864890'
+'Book_title':'Harry Potter and the Goblet of Fire (Harry Potter, #4)'
+Manually_identified_main_topic_words:    
+Manual decision: Not surprising
+Summary: "Harry Potter and the Goblet of Fire" is the fourth book by JK Rowling in the series of "Harry Potter" which is full of magic and adventures and can be a wonderful recommendation for children.
+Reason: The user has already read three other books (14, 73, 85) from the "Harry Potter" series.
+
+
+'Book_number':'127'
+'Book_id':'23731881'
+'Book_title':'Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination'
+Manually_identified_main_topic_words: JK Rowling, humor 
+Summary: "Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination" by J.K. Rowling is a printed version of a commencement speech Rowling gave at Harvard University in 2008 and it can be recommended for its inspiring message, and humor.  
+Manual decision: Not surprising
+Reason: The reader
+
+
+'Book_number':'128'
+'Book_id':'30656895'
+'Book_title':'Girl Hearts Girl'
+Manually_identified_main_topic_words: girl,
+Summary: The book "Girl Hearts Girl" by Lucy Sutcliffe is about Lucy's journey of discovering her sexuality and coming out as a lesbian, the book can be a good recommendation to young readers and the LGBTQ+ community.  
+Manual decision: Not surprising
+Reason: The reader has prior book experience with LGBTQ, homosexuality.
+
+
+'Book_number':'129'
+'Book_id':'25744542'
+'Book_title':'On the Other Side'
+Manually_identified_main_topic_words: love, romance 
+Summary: The book "On the Other Side" by Carrie Hope Fletcher follows a very engaging storyline with magical realism and heart-breaking love story.  
+Manual decision: Not surprising
+Reason: The reader has read some romantic love stories in the past.
+
+
+'Book_number':'130'
+'Book_id':'26889456'
+'Book_title':'The Woman in Cabin 10'
+Manually_identified_main_topic_words: Christie, thriller, suspense 
+Summary: "The Woman in Cabin 10" is a novel written by Agatha Christie filled with thrills and suspense. 
+Manual decision: Not surprising
+Reason: The reader has read many books of Agatha Christie that are full of thrills and suspense.
+
+
+'Book_number':'131'
+'Book_id':'12478112' (Fake review added)
+'Book_title':'Witness for the Prosecution: Mysteries'
+Manually_identified_main_topic_words: mystery, Agatha Christie, murder
+Summary: The short story "Witness for the Prosecution" is a nice combination of murder and mystery by Agatha Christie. 
+Manual decision: Not surprising
+Reason: The reader has read many books of Agatha Christie that are related to murder and mystery.
+
+
+'Book_number':'132'
+'Book_id':'15801353'
+'Book_title':'Aristotle and Dante Discover the Secrets of the Universe'
+Manually_identified_main_topic_words: gay, love, relationship, boy
+Summary: The book "Aristotle and Dante Discover the Secrets of the Universe" by Benjamin Alire Sáenz portrays a story about two gay boys who become friends and fall in love, and it deals with themes such as friendship, family, sexuality, and self-discovery.  
+Manual decision: Not surprising
+Reason: Gay love stories are not new for the user (13, 44).
+
+
+'Book_number':'133'
+'Book_id':'27993234'
+'Book_title':'Fates and Furies'
+Manually_identified_main_topic_words: Greek mythology, marriage, love
+Summary: The novel "Fates and Furies" by Lauren Groff can be described as a portrait of a marriage, and it deals with themes such as secrets, lies, love, deception, and Greek mythology.
+Manual decision: Not surprising
+Reason: The reader has read some books (20, 97, 105) that portraits marriage and Greek mythology. 
+
+
+'Book_number':'134'
+'Book_id':'4327066'
+'Book_title':'The Perks of Being a Wallflower'
+Manually_identified_main_topic_words: Charlie, teenage
+Summary: The book "The Perks of Being a Wallflower" follows the story of Charlie, a high school teenage freshman who writes letters to an anonymous recipient, discussing various aspects of his life, including traumatic events and personal struggles. The story explores themes such as introversion, rape, suicide, abuse, drug use, and adolescence.  
+Manual decision: Not surprising
+Reason: The user has some prior experience with stories related to teenagers.
+
+
+'Book_number':'135'
+'Book_id':'29056083'
+'Book_title':'Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)'
+Manually_identified_main_topic_words:    
+Summary: "Harry Potter and the Cursed Child - Parts One and Two" is the 8th book by JK Rowling in the "Harry Potter" series which is full of magic and adventures and can be a wonderful recommendation for children.
+Manual decision: Not surprising
+Reason: The user has already read three other books (14, 73, 85, 126) from the "Harry Potter" series.
+
+
+'Book_number':'136'
+'Book_id':'28261171'
+'Book_title':'The Couple Next Door'
+Manually_identified_main_topic_words: suspense, thriller, mystery 
+Summary: The book "The Couple Next Door" by Shari Lapena is a mystery thriller that revolves around the kidnapping of a baby, and the investigation into the kidnapping.  
+Manual decision: Not surprising
+Reason: It is one of the most common genres of the user.
+
+
+'Book_number':'137'
+'Book_id':'27262360' (Fake review added)
+'Book_title':'What Remains  (David Raker, #6)'
+Manually_identified_main_topic_words: Series book 
+Summary: The book "Broken Heart" by Tim Weaver is the sixth book in the David Raker series, which focuses on a missing persons investigator.  
+Manual decision: Not surprising
+Reason: The reader has already read four other books (76, 86, 95, 110) from the David Raker series.
+
+
+'Book_number':'138'
+'Book_id':'32321233'
+'Book_title':'Behind Her Eyes'
+Manually_identified_main_topic_words: thriller, mystery 
+Summary: The book "Behind Her Eyes" by Sarah Pinborough is a mix of mystery thriller and fiction, and the story revolves around the lives of Louise, David, and Adele.
+Manual decision: Not surprising
+Reason: It is one of the most common genres of the user. 
+
+
+'Book_number':'139'
+'Book_id':'36125495'
+'Book_title':'What Happened'
+Manually_identified_main_topic_words: president, America, politics
+Summary: "What Happened" is Hillary Clinton’s powerful and compelling memoir that delves into the reasons behind her loss in the 2016 U.S. presidential political election. 
+Manual decision: Not surprising
+Reason: The reader has prior experience with the books (60, 78) related to American politics.

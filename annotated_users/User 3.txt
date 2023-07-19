@@ -1,0 +1,1236 @@
+﻿Manual annotations
+User 3: ff03096dafc8911bfe595ee1b69fa43a
+
+
+'Book_number':'0'
+'Book_id':'18232501'
+'Book_title':'It Had to Be You (Christiansen Family, #2)'
+Manually_identified_main_topic_words: Hockey, Christiansen family, family, romance, God, love, career
+Summary: “It Had to Be You” is the second book from the Christiansen Family series by Susan May Warren where the story revolves around two hockey players Jace and Owen, and Owen's elder sister Eden. The book explores the presence of God in different plots, unexpected love, heartwarming romances, and career aspirations.
+Manual decision:
+Reason: 
+
+
+'Book_number':'1'
+'Book_id':'17253180'
+'Book_title':'Take a Chance on Me (Christiansen Family, #1)'
+Manually_identified_main_topic_words: Christiansen, romance, love, tragic death, forgiveness
+Summary: “Take a Chance on Me'' is the first book from the Christiansen Family series by Susan May Warren that explores Christian or God-inspired messages of faith, love and forgiveness in a romantic and tragic plot. 
+Manual decision:
+Reason:
+ 
+'Book_number':'2'
+'Book_id':'19321449'
+'Book_title':'The Swap'
+Manually_identified_main_topic_words: Teen, middle school, friendship, boys, girls, body switch 
+Summary: The book "The Swap" by Megan Shull tells the story of two middle school teens, Ellie and Jack, who experience a body switch and go through some challenges like family dynamics, friendship, and self-perception.
+Manual decision:
+Reason:
+ 
+'Book_number':'3'
+'Book_id':'6698199'
+'Book_title':'A Spy in the House (The Agency, #1)'
+Manually_identified_main_topic_words: Mystery, spy, female detective/spies, victorian society, Mary Quinn  
+Summary: "A Spy in the House" by Y.S. Lee is a mystery book set in Victorian England/London that follows the story of Mary Quinn, a female detective or spy.  
+Manual decision:
+Reason: 
+
+
+'Book_number':'4'
+'Book_id':'12963179'
+'Book_title':'Lethal Legacy (Guardians of Justice, #3)'
+Manually_identified_main_topic_words: Murder, detective, suspense, romance, suicide, investigation, thiller
+Summary: "Lethal Legacy" is the third book of the Guardians of Justice series by Irene Hannon, which follows a suspenseful and thriller story where detective Cole Tylor gets involved in a relationship with Kelly Warren while investigating the suicide of Kelly's father. 
+Manual decision:
+Reason: 
+
+
+'Book_number':'5'
+'Book_id':'23563048'
+'Book_title':'The Wonder of You (Christiansen Family, #5)'
+Manually_identified_main_topic_words: Romance, love, Christiansen, family, Europe, forgiveness
+Summary: "The Wonder of You" is the fifth book from the Christiansen Family series by Susan May Warren that explores a love triangle story in Europe featuring the themes of love, forgiveness, and family.
+Manual decision: 0, 1, 5
+Reason:
+
+
+'Book_number':'6'
+'Book_id':'19320758'
+'Book_title':'When I Fall in Love (Christiansen Family, #3)'
+Manually_identified_main_topic_words: Romance, love, cooking, culinary school, Christiansen family
+Summary: "When I Fall in Love" is the third book from the Christiansen Family series by Susan May Warren that explores a love and romantic story of Grace Christiansen and Max Sharp. Grace meets Max in Hawaii through their personal passion for culinary art and the story features the themes of faith, love, cooking, and family dynamics. 
+Manual decision: 0, 1, 5
+Reason: 
+
+
+'Book_number':'7'
+'Book_id':'22798869'
+'Book_title':'Always on My Mind (Christiansen Family, #4)'
+Manually_identified_main_topic_words: Romance, love, faith, forgiveness, Christiansen Family, God 
+Summary: "Always on My Mind" is the third book from the Christiansen Family series by Susan May Warren that explores a love story of Raina and Casper featuring love, faith, romance, forgiveness and family dynamics.
+Manual decision:
+Reason:
+ 
+'Book_number':'8'
+'Book_id':'15801604'
+'Book_title':'Against the Odds (The Raines of Wind Canyon, #7)'
+Manually_identified_main_topic_words: Murder, suspense, mystery, romance, Texas, desert,  love
+Summary: "Against the Odds" by Kit Martin is the seventh book in the The Raines of Wind Canyon series, where the main character, Sabrina (Rina) hires a private investigator Alex and falls in love with Alex. The story blends unexpected twists and mysteries with suspense and thrills set in the desert of west Texas.
+Manual decision:
+Reason: 
+
+
+'Book_number':'9'
+'Book_id':'23437156'
+'Book_title':'Six of Crows (Six of Crows, #1)'
+Manually_identified_main_topic_words: Heist, adventure, twists, friendship
+Summary: "Six of Crows" explores a heist story featuring the themes of friendship, relationship, adventure, and engaging characters. 
+Manual decision:
+Reason: 
+
+
+'Book_number':'10'
+'Book_id':'25911238'
+'Book_title':'You're the One that I Want (Christiansen Family, #6)'
+Manually_identified_main_topic_words: Romance, suspense, family drama, God, Christiansen, 
+Summary: "You're the One that I Want" is the sixth book in the Christiansen Family series that features the themes of love, forgiveness, romance, suspense and family drama
+Manual decision:
+Reason: 
+
+
+'Book_number':'11'
+'Book_id':'17737994'
+'Book_title':'Milayna (Milayna, #1)'
+Manually_identified_main_topic_words: Love story, twists and turns, relationship, paranormal  
+Summary: "Milayna" is a paranormal love story with some twists and turns, and it can be a thrilling and engaging read for teens or young adults.
+Manual decision:
+Reason: 
+
+
+'Book_number':'12'
+'Book_id':'27968241'
+'Book_title':'Lethal Action (Danger in the Deep South #1)'
+Manually_identified_main_topic_words: Mystery, crime, romance, suspense, FBI agent, 
+Summary: The novel "Lethal Action" by Rachel Dylan tells a thrilling crime story in a romantic plot, as FBI agent Gabe becomes involved with Hope Finch. 
+Manual decision:
+Reason: 
+
+
+'Book_number':'13'
+'Book_id':'21414439'
+'Book_title':'Truthwitch (The Witchlands, #1)'
+Manually_identified_main_topic_words: Friendship, romance, magic, fantasy, female
+Summary: "Truthwitch" is a fantasy novel that explores the themes of romance, friendship, and adventure with some intriguing characters having magical abilities.
+Manual decision:
+Reason: 
+
+
+'Book_number':'14'
+'Book_id':'15803216'
+'Book_title':'Falling for the Forest Ranger (The Forest Rangers #4)'
+Manually_identified_main_topic_words: Love, widow, God (few reviews)
+Summary: "Falling for the Forest Ranger" is a heartwarming love story of a widow and her young son. It is also related to God.
+Manual decision:
+Reason: 
+
+
+'Book_number':'15'
+'Book_id':'28810837'
+'Book_title':'The Cowbear's Mail Order Bride (Curvy Bear Ranch, #6)'
+Manually_identified_main_topic_words: Family, romance, 
+Summary: The novel "The Cowbear's Mail Order Bride" by Liv Brywood explores the story of a woman, Cindy, featuring the themes of paranormal romance.
+Manual decision: Not surprising
+Reason: The reader has already read some romantic books (0, 1, 5, 6, 11, 12, 13).
+
+
+'Book_number':'16'
+'Book_id':'26067639'
+'Book_title':'Back in the Saddle (Double S Ranch, #1)'
+Manually_identified_main_topic_words: Family, faith, relationship, Christian fiction, forgiveness 
+Summary: The novel "Back in the Saddle" by Ruth Logan Herne follows a story of a father-son relationship featuring the themes of family dynamics, faith, forgiveness, and unexpected romance.
+Manual decision: Not surprising
+Reason: The reader has already read some books (0, 1, 5, 6, 10) on family dynamics, faith, and romance.
+
+
+'Book_number':'17'
+'Book_id':'18190302'
+'Book_title':'Percy Jackson and the Lightning Thief (Percy Jackson and the Olympians, #1)'
+Manually_identified_main_topic_words: Percy, Jackson, adventure, Greek*, Mythology*
+Summary: "Percy Jackson and the Lightning Thief" is the first book in the Percy Jackson and the Olympians series that can be an amazing time pass for those who are Greek Mythology and adventure seekers. 
+Manual decision: Surprising
+Reason: This is the first book for the user that is full of Greek Mythology and also the first book in the Percy Jackson series.
+
+
+'Book_number':'18'
+'Book_id':'18304322'
+'Book_title':'Dumplin' (Dumplin', #1)'
+Manually_identified_main_topic_words: friendship, insecurities, teenager, fat, overweighted, love
+Summary: "Dumplin" is a young adult novel that tells the story of an overweight teenager who faces different challenges through the journey of beauty pageant and struggles with insecurities. The book addresses themes of body image, friendship, love, and romance.
+Manual decision: Not surprising
+Reason: 0, 1, 2, 12, 13 
+
+
+'Book_number':'19'
+'Book_id':'25165506'
+'Book_title':'Deadlock (FBI: Houston, #3)'
+Manually_identified_main_topic_words: FBI*, romance*, suspense*, twists, family, murder* 
+Summary: DiAnn Mills's "Deadlock" is a Christian romantic suspense novel that explores the story of FBI agents Sanchez and Thatcher Graves with unexpected twists and turns 
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12
+
+
+'Book_number':'20'
+'Book_id':'25795324'
+'Book_title':'Always Watching (Elite Guardians, #1)'
+Manually_identified_main_topic_words: Mystery*, romance*, suspense*, Christian fiction, twists and turns, murder
+Summary: "Always Watching" by Lynette Eason is a romantic suspense and thrilling novel featuring Christian fiction, mystery, twists and turns. 
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12, 19
+
+
+'Book_number':'21'
+'Book_id':'21793182'
+'Book_title':'Starflight (Starflight, #1)'
+Manually_identified_main_topic_words: Science fiction, space adventure,  
+Summary: "Starflight" can be an enjoyable read for the young adults who like to read science fiction and space adventure or space journey featuring a romantic plot.
+Manual decision: Surprising
+Reason: It is the first book that is related to space adventure or journey and science-fiction. 
+
+
+'Book_number':'22'
+'Book_id':'19271097'
+'Book_title':'Darling Beast (Maiden Lane, #7)'
+Manually_identified_main_topic_words: Murder, Romance, mystery, secret, historical 
+Summary: "Darling Beast" is a historical romantic novel in the Maiden Lane series, which follows the story of Lily Stump and Apollo Greaves set in London featuring the themes of hidden secrets, humor, suspense, and mystery.
+Manual decision: Not surprising
+Reason: 0, 1, 4, 5, 6, 8, 11
+
+
+'Book_number':'23'
+'Book_id':'21422007'
+'Book_title':'Dearest Rogue (Maiden Lane, #8)'
+Manually_identified_main_topic_words: Romance, love, independence, woman, historical romance, brother, sister 
+Summary: Elizabeth Hoyt's "Dearest Rogue" is the eighth book in the Maiden Lane series, a historical romance series, and the story is about Phoebe, her brother, and her bodyguard James. Phoebe struggles to become an independent woman despite having vision disability and falls in love with James.  
+Manual decision: Not surprising
+Reason: 22 
+
+
+'Book_number':'24'
+'Book_id':'29986561'
+'Book_title':'Where There's Smoke (Montana Fire, #1)'
+Manually_identified_main_topic_words: firefighting, romance, friendship, action 
+Summary: The novel "Where There's Smoke" is action-packed, with plenty of firefighting scenes, moments of romance, deep emotions, and strong messages of faith.
+Manual decision: Not surprising
+Reason: 13, 18, 23
+
+
+'Book_number':'25'
+'Book_id':'16110337'
+'Book_title':'Undeniably Yours (Porter Family, #1)'
+Manually_identified_main_topic_words: Romance, Christian, spiritual, God, family, relationship 
+Summary: "Undeniably Yours" is a Christian romance novel by Becky Wade that addresses the themes of love, faith, romance, suspense, and religious or spiritual contents.  
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 7, 10, 16, 19
+
+
+'Book_number':'26'
+'Book_id':'18144692'
+'Book_title':'Meant to be Mine (Porter Family, #2)'
+Manually_identified_main_topic_words: Christian, love, relationship, romance 
+Summary: "Meant to be Mine" by Becky Wade is the second book in the Porter Family series, which can be a good suggestion to those who like to read Christian romance, love, faith and religious or spiritual contents. 
+Manual decision: Not surprising
+Reason: 25
+
+
+'Book_number':'27'
+'Book_id':'23411527'
+'Book_title':'A Love Like Ours (Porter Family, #3)'
+Manually_identified_main_topic_words: Christian, faith, love, friendship, romance, family, PTSD 
+Summary: "A Love Like Ours" by Becky Wade is a Christian romance novel that revolves around the story of Jake, who fights against PTSD and Lyndie, who is determined to win Jake's heart. The novel explores the themes of love, romance, faith and family dynamics. 
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 7, 10, 25, 26
+
+
+'Book_number':'28'
+'Book_id':'26974629'
+'Book_title':'Her One and Only (Porter Family, #4)'
+Manually_identified_main_topic_words: family, Christian fiction, mystery, love, relationship  
+Summary: "Her One and Only" is the fourth book in the Porter Family series by Becky Wade, which addresses the themes of mystery, suspense, romance, and family relationship. 
+Manual decision: Not surprising
+Reason: 25, 26, 27
+
+
+'Book_number':'29'
+'Book_id':'25721392'
+'Book_title':'My Senior Year of Awesome'
+Manually_identified_main_topic_words: Romance, high school, friend, relationship, humor 
+Summary: "My Senior Year of Awesome" by Jennifer DiGiovanni is a young adult romance novel, which is filled with humorous plots, teenage life and romance. 
+Manual decision: Surprising 
+Reason: This is the first book for the reader that is humorous.
+
+
+'Book_number':'30'
+'Book_id':'18059992'
+'Book_title':'Shadows of the Past (Logan Point #1)'
+Manually_identified_main_topic_words: Murder mystery, suspense, crime, romance, family 
+Summary: Patricia Bradley's "Shadows of the Past" is a murder mystery novel that tells the story of Taylor Martin, a psychology teacher featuring family dynamics, romance, suspense, and crime.
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12, 19
+
+
+'Book_number':'31'
+'Book_id':'20724659'
+'Book_title':'A Promise to Protect (Logan Point #2)'
+Manually_identified_main_topic_words: Romance, suspense, secrets, family, murder, faith, 
+Summary: "A Promise to Protect" is the second book in the Logan Point series by Patricia Bradley, which is filled with action, romance, suspense and themes of faith and forgiveness.
+Manual decision: Not surprising
+Reason: 30
+
+
+'Book_number':'32'
+'Book_id':'23411602'
+'Book_title':'Gone Without a Trace (Logan Point, #3)'
+Manually_identified_main_topic_words: Romance, suspense, mystery, detective,  
+Summary: "Gone Without a Trace'' is the third book in the Logan Point series that explores the story of a private investigator, Livy Reynolds, who gets involved in a mystery of two missing girls. The novel features romance and spiritual themes. 
+Manual decision: Not surprising
+Reason: 30, 31
+
+
+'Book_number':'33'
+'Book_id':'25826001'
+'Book_title':'Silence in the Dark (Logan Point, #4)'
+Manually_identified_main_topic_words: Romance, suspense, thriller, mystery, crime, action
+Summary: "Silence in the Dark" is the fourth book in the Logan Point series that blends the themes of romance, suspense, thrills, crime and action.
+Manual decision: Not surprising
+Reason: 30, 31, 32
+
+
+'Book_number':'34’
+'Book_id':'20546874' (Fake review added)
+'Book_title':'Hitchcock'
+Manually_identified_main_topic_words: Film, hitchcock, movie   
+Summary: Hitchcock is a book about a fifty four interview taken over several days by the author Francois Truffaut with Hitchcock. The interview was about Hitchcock's personal thoughts and story on the films directed by him over the course of his career.
+Manual decision: Surprising
+Reason: It is the first book for the user that is related to movies or films.
+
+
+'Book_number':'35'
+'Book_id':'4674549'
+'Book_title':'Bull Rider'
+Manually_identified_main_topic_words: Family relationship, war, Iraq, Injury
+Summary: "Bull Rider" by Suzanne Morgan Williams is a novel that addresses the themes of family, sacrifice, and the struggles faced by soldiers after returning from war.
+Manual decision: Surprising
+Reason: war, soldier
+
+
+'Book_number':'36'
+'Book_id':'9680533'
+'Book_title':'Ten Thousand Saints'
+Manually_identified_main_topic_words: family, drug, teenagers, AIDS, friendship
+Summary: "Ten Thousand Saints" by Eleanor Henderson is set in the late 1980s in New York City. The book uses the backdrop of the AIDS crisis and explores the themes of friendship, drug addiction, grief, and family relationships.
+Manual decision: Surprising
+Reason: Drug, AIDS
+
+
+'Book_number':'37'
+'Book_id':'21421609'
+'Book_title':'Assassin's Heart (Assassin's Heart, #1)'
+Manually_identified_main_topic_words: Assassin, romance, mythology, family,  
+Summary: "Assassin's Heart" is a young adult fantasy novel that tells the story of Lea, a highly skilled member of the first Assassin family. The novel explores the themes of action-adventure with a romantic element, family dynamics and unique mythologies.
+Manual decision: Surprising
+Reason: assassin, mythology
+
+
+'Book_number':'38'
+'Book_id':'17258743'
+'Book_title':'Heartbeat'
+Manually_identified_main_topic_words: mother, family, relationship, teenager, grief, death, emotion emotional
+Summary: "Heartbeat" is an emotional novel that revolves around a teenager, Emma, who is dealing with the sudden death of her mother. The story features the themes of emotion, complicated relationships, family dynamics, grief and healing.  
+Manual decision: Not surprising
+Reason: Family dynamics
+
+
+'Book_number':'39'
+'Book_id':'17348292'
+'Book_title':'Against the Mark (The Raines of Wind Canyon, #9)'
+Manually_identified_main_topic_words: Murder, mystery, suspense, romance, investigator
+Summary: "Against the Mark" by Kat Martin is the ninth book in the Raines of Wind Canyon series, a suspenseful and murder mystery novel that explores the story of private investigator Tyler Brodie and Haley Warren.
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12, 19
+
+
+'Book_number':'40'
+'Book_id':'22046517'
+'Book_title':'Against the Sky (The Brodies of Alaska, #2)'
+Manually_identified_main_topic_words: Murder, investigation, suspense, romance, mystery, Russian mafia, Alaska 
+Summary: "Against the Sky" is a murder mystery novel that tells the story of a police detective, Nick Brodie, who is from Alaska. The book is filled with romance and action featuring the themes of Russian mafia
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12, 19
+
+
+
+
+'Book_number':'41'
+'Book_id':'22812429'
+'Book_title':'Against the Tide (The Brodies of Alaska, #3)'
+Manually_identified_main_topic_words: Murder, action, secrets, Alaska, suspense, romance, mystery, adventure
+Summary: "Against the Tide" is the third novel in the series of The Brodies of Alaska set in Alaska. It can be a good recommendation to those who like to read action-adventure, romance, suspense, and murder mystery novels set in Alaska.
+Manual decision: Not surprising
+Reason: 40
+
+
+'Book_number':'42'
+'Book_id':'24359966'
+'Book_title':'The Year of Living Danishly: Uncovering the Secrets of the World's Happiest Country'
+Manually_identified_main_topic_words: Denmark, Danish, culture, humor, happiness, Nordic culture
+Summary: The book is about the author's experience living in Denmark for a year with her husband who got a job with Lego. The book talks about the differences between Denmark and other countries in terms of lifestyle, values, government, and happiness with humor, and it can be recommended for those who are interested in Denmark, travel, Nordic culture, and ways of life in foreign countries.
+Manual decision: Surprising 
+Reason: It covers different new topics like Nordic culture, lifestyle in Denmark.
+
+
+'Book_number':'43'
+'Book_id':'30139354'
+'Book_title':'Playing With Fire (Montana Fire #2)'
+Manually_identified_main_topic_words: fire fighter, action, adventure, romance, suspense, smokejumpers
+Summary: "Playing With Fire" is the second book in the Montana Fire series by Susan Warren, where the story revolves around Conner, a firefighter/smokejumper. The novel incorporates the themes of action, adventure, romance and suspense.
+Manual decision: Not surprising
+Reason: 24
+
+
+'Book_number':'44'
+'Book_id':'27138578'
+'Book_title':'Told You So (Told You, #1)'
+Manually_identified_main_topic_words: Romance, humor, Christian, love, faith
+Summary: "Told You So" is a Christian romantic novel set in New York filled with humor and excitement.
+Manual decision: Not surprising
+Reason: 29
+
+
+'Book_number':'45'
+'Book_id':'25904866'
+'Book_title':'When A Man Loves A Woman (Seven Brides, Seven Brothers, #7)'
+Manually_identified_main_topic_words: stepfather, sister, 
+Summary: The book, "When A Man Loves a Woman," is the seventh installment in the Seven Brides Seven Brothers series by Belle Calhoune, which follows the story of Mac Donahue, her sister Callie and her stepfather.
+Manual decision: Not surprising
+Reason: 0, 23
+
+
+'Book_number':'46'
+'Book_id':'25342300' (Few reviews)
+'Book_title':'Baby It's You (Seven Brides, Seven Brothers, #6)'
+Manually_identified_main_topic_words: brother
+Summary: 
+Manual decision: Not surprising
+Reason: It is a series of book number 45.
+
+
+'Book_number':'47'
+'Book_id':'27066852'
+'Book_title':'Without Warning (Elite Guardians, #2)'
+Manually_identified_main_topic_words: Suspense, romance, mystery, bodyguard, mystery 
+Summary: "Without Warning" is the second book in the Elite Guardians series by Lynette Eason filled with action, suspense, mystery, and romance. The story revolves around a man, Matthews and his female bodyguard, Katie Singleton.
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 12, 13, 14
+
+
+'Book_number':'48'
+'Book_id':'15716836'
+'Book_title':'Zom-B Underground (Zom-B, #2)'
+Manually_identified_main_topic_words: zombie, Zom-B, horror, adult, series
+Summary: The book "Zom-B Underground" by Darren Shan is the second book in the Zom-B series, which can be described as zombie horror and young adult genres.
+Manual decision: Surprising
+Reason: Horror, zombie
+
+
+'Book_number':'49'
+'Book_id':'25476514'
+'Book_title':'Into the Fury (BOSS, Inc., #1)'
+Manually_identified_main_topic_words: Murder, suspense, romance, bodyguard, 
+Summary: "Into the Fury" is the first book by Kat Martin in the Boss, Inc. series. It is a romantic murder mystery novel filled with suspense, twists and turns and steamy sex scenes.
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 12, 13, 14, 47
+
+
+'Book_number':'50'
+'Book_id':'17669243'
+'Book_title':'Thief of Lies (Library Jumpers, #1)'
+Manually_identified_main_topic_words:  action, adventure, romance, and magic power
+Summary: "Thief of Lies" is a young adult fantasy novel that follows the story of Gia, a booknerd. The book is filled with the themes of action, adventure, romance, and magic power.
+Manual decision: Not surprising
+Reason: 13, 37
+
+
+'Book_number':'51'
+'Book_id':'22504496'
+'Book_title':'From the Start (Walker Family, #1)'
+Manually_identified_main_topic_words: football, humor, romance,  
+Summary: "From the Start" is the first book in the Walker Family series by Melissa Tagg, which follows the story of Kate Walker, a ex-professional football player and Colton Greene featuring the themes of humor, romance, family, faith and Christian fiction elements.
+Manual decision: Not surprising 
+Reason: 29, 44
+
+
+'Book_number':'52'
+'Book_id':'25170227'
+'Book_title':'Like Never Before (Walker Family, #2)'
+Manually_identified_main_topic_words: Romance, small town, Christian, family dynamics, love 
+Summary: "Like Never Before" is the second book in the Walker Family series, a Christian fiction series, by Melissa Tagg and the story takes place in a small town filled with love, romance, family dynamics, and humorous plots.
+Manual decision: Not surprising
+Reason: 50, 29, 44
+
+
+'Book_number':'53'
+'Book_id':'20262599'
+'Book_title':'The Walk On (The Triple Threat, #1)'
+Manually_identified_main_topic_words: High school. football, sports, 
+Summary: "The Walk On" is the first book in the Triple Threat series, which is about a high school freshman named Alex Mayers, a talented football player. It can be an excellent read for those who like to read sports fiction.
+Manual decision: Not surprising
+Reason: 
+
+
+'Book_number':'54'
+'Book_id':'7896527'
+'Book_title':'Throne of Glass (Throne of Glass, #1)'
+Manually_identified_main_topic_words: fantasy, assassin, love triangle
+Summary: "Throne of Glass" is a fantasy novel that follows the story of female protagonist Celaena, a former assassin, who gets involved with two men creating a love triangle.
+Manual decision: Not surprising
+Reason: 37, 
+
+
+'Book_number':'55'
+'Book_id':'17167166'
+'Book_title':'Crown of Midnight (Throne of Glass, #2)'
+Manually_identified_main_topic_words: fantasy, young adult, plot twist, romance, assassin, Celaena
+Summary: "Crown of Midnight" is an excellent addition to the Throne of Glass series, where the main character, Celaena, plays the role as an assassin. The story captures some romantic plots and twists and turns.
+Manual decision: Not surprising
+Reason: 53
+
+
+'Book_number':'56'
+'Book_id':'20613470'
+'Book_title':'Heir of Fire (Throne of Glass, #3)'
+Manually_identified_main_topic_words: magic, relationship, Celaena
+Summary: "Heir of Fire" is the third book in the Throne of Glass series, which captures the themes of magic, relationship and romance.
+Manual decision: Not surprising
+Reason: 54, 55
+
+
+'Book_number':'57'
+'Book_id':'18006496'
+'Book_title':'Queen of Shadows (Throne of Glass, #4)'
+Manually_identified_main_topic_words: Celaena, romance,
+Summary: "Queen of Shadows" is a fantasy novel in the series of Thrones of Glass, which features the themes of romance.
+Manual decision: Not surprising
+Reason: 54, 55, 56
+
+
+'Book_number':'58'
+'Book_id':'28260587'
+'Book_title':'Empire of Storms (Throne of Glass, #5)'
+Manually_identified_main_topic_words: Romance, adventure, fantasy
+Summary: "Empire of Storms" is the third book in the Throne of Glass series filled with action, romance, and adventure.
+Manual decision: Not surprising
+Reason: 54, 55, 56, 57
+
+
+'Book_number':'59'
+'Book_id':'22299763'
+'Book_title':'Crooked Kingdom (Six of Crows, #2)'
+Manually_identified_main_topic_words: heist, twist, romantic relationship
+Summary: "Crooked Kingdom" by Leigh Bardugo is an addition to Six of Crows series that features the plot of heist with action, twists and turns, and romantic relationship.
+Manual decision: Not surprising
+Reason: 8, 9, 11, 19 
+
+
+'Book_number':'60'
+'Book_id':'28637713'
+'Book_title':'Wild Montana Skies (Montana Rescue, #1)'
+Manually_identified_main_topic_words: Romance, forgiveness, family, adventure, God, Military,
+Summary: Susan May Warren's "Wild Montana Skies" is a Christian romantic novel that revolves around Kacey and Ben featuring the themes of family dynamics, romance, God's grace, power of faith and forgiveness, and Kacey's military service. 
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 12, 13, 14
+
+
+'Book_number':'61'
+'Book_id':'24948069'
+'Book_title':'First Star I See Tonight (Chicago Stars, #8)'
+Manually_identified_main_topic_words: Private investigator*, romance, humor, football 
+Summary: "First Star I See Tonight" is a part of the Chicago series that follows the story of private investigator Piper and a retired football player Cooper. It is a mix of romance and humor.
+Manual decision: Not surprising
+Reason: 0, 8, 12, 19, 39, 51, 53
+
+
+'Book_number':'62'
+'Book_id':'73064'
+'Book_title':'Natural Born Charmer (Chicago Stars, #7)'
+Manually_identified_main_topic_words: romance, humor, family, football
+Summary: "Natural Born Charmer" is the seventh book in the Chicago Stars series that follows the story of Blue Bailey, a tough talking artist and  Dean Robillard, a football player. The novel features the themes of romance, humor, and family dynamics.
+Manual decision: Not surprising
+Reason: 56, 0, 8, 12, 19, 39, 61, 53
+
+
+'Book_number':'63'
+'Book_id':'17365174'
+'Book_title':'Scorned Justice (Men of the Texas Rangers, #3)'
+Manually_identified_main_topic_words: Romance, murder, mystery, suspense, Russian mafia
+Summary: "Scorned Justice" is the third book in the Men of the Texas Rangers series filled with intrigue plots featuring romance, murder, mystery, suspense, and Russian mafia.
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12, 19, 40
+
+
+'Book_number':'64'
+'Book_id':'7681608'
+'Book_title':'Aspergirls: Empowering Females with Asperger Syndrome'
+Manually_identified_main_topic_words: female, autism, spectrum, disorder, ASD, teen, adult
+Summary: The book "Aspergirls: Empowering Females with Asperger Syndrome" by Rudy Simone is a book for those who are interested to know about autism, autistic spectrum disorder, asperger syndrome in females, and can be a great suggestions for the parents of autistic children.
+Manual decision: Surprising
+Reason: autism, spectrum, disorder,
+
+
+'Book_number':'65'
+'Book_id':'29611025'
+'Book_title':'Even the Score'
+Manually_identified_main_topic_words: sports agent, romance, mystery, comedy
+Summary: "Even the Score" written by Beth Ehemann tells the story of a single father of two children who also owns a sports agent, Andy Shaw. The novel blends the themes of humor, romance, mystery and complicated relationships.
+Manual decision: Not surprising
+Reason: 0, 51, 53, 61, 29, 44
+
+
+'Book_number':'66'
+'Book_id':'29813145'
+'Book_title':'Home on the Range'
+Manually_identified_main_topic_words: daughter, father
+Summary: The story "Home on the Range" is about a father and his daughter. (very few review)
+Manual decision: Not surprising
+Reason: 23, 45, 46
+
+
+'Book_number':'67'
+'Book_id':'23637813'
+'Book_title':'Dakota Wedding (Dakota Hearts, #6)'
+Manually_identified_main_topic_words: children, relationship, family, emotion,
+Summary: "Dakota Wedding" revolves around Ian and Abby featuring the story of children, and emotional journey of family relationship and love.
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 12, 13, 14
+
+
+'Book_number':'68'
+'Book_id':'16117750'
+'Book_title':'When a Secret Kills (Deadly Reunions, #3)'
+Manually_identified_main_topic_words: Mystery, romance, suspense, surprises, murder, 
+Summary: Lynette Eason's romantic suspense novel named "When A Secret Kills" follows the story of an investigative reporter, Jillian Carter, blending the themes of mystery, murder, surprises and thrills.
+Manual decision: Not surprising 
+Reason: 4, 8, 10, 12, 19
+
+
+'Book_number':'69'
+'Book_id':'26804433'
+'Book_title':'Duke of Sin (Maiden Lane, #10)'
+Manually_identified_main_topic_words: romance, historical, 
+Summary: "Duke of Sin" is a historical romance novel in the Maiden Lane series that is set in mid-18th century London society.
+Manual decision: Not surprising
+Reason: 22, 23 
+
+
+'Book_number':'70'
+'Book_id':'26028892'
+'Book_title':'Thin Ice (Men of Valor #2)'
+Manually_identified_main_topic_words: FBI, romance, suspense, family, mystery
+Summary: "Thin Ice" is a good recommendation for those who like to read FBI agent stories filled with romance, suspense, family, and mystery.
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12, 19
+
+
+'Book_number':'71'
+'Book_id':'24345795'
+'Book_title':'Drawing Fire (Cold Case Justice #1)'
+Manually_identified_main_topic_words: murder, mystery, suspense, action, detective, serial killer
+Summary: "Drawing Fire" is a detective novel by Janice Cantore, where detective Abby Hart investigates a string of murders done by a serial killer. The story is full of suspense, mystery, and actions.
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12, 19, 70
+
+
+'Book_number':'72'
+'Book_id':'28588345'
+'Book_title':'The Midnight Star (The Young Elites, #3)'
+Manually_identified_main_topic_words: Emotion, fantasy
+Summary: The book "The Midnight Star" is a fantasy novel that explores the themes of emotions with complex characters and it has a bittersweet ending.
+Manual decision: Not surprising
+Reason: 13, 24, 36, 38, 50
+
+
+'Book_number':'73'
+'Book_id':'30813583'
+'Book_title':'Tangled Webs (Men of Valor #3)'
+Manually_identified_main_topic_words: mystery, suspense, romance, 
+Summary: "Tangled Webs" is the third book in the Men of Valor series that explores the themes of mystery, suspense, murder and spiritual message.
+Manual decision: Not surprising
+Reason: 70
+
+
+'Book_number':'74'
+'Book_id':'30532463'
+'Book_title':'The Book Jumper'
+Manually_identified_main_topic_words: action, adventures
+Summary: "The Book Jumper" is a fantasy novel that tells a story of a young girl named AMy Lennox who can jump into the stories of books and interact with the characters. The book features the themes of action, adventures, and literature.
+Manual decision: Not surprising
+Reason: 
+
+
+'Book_number':'75'
+'Book_id':'30259142'
+'Book_title':'Rescue Me (Montana Rescue, #2)'
+Manually_identified_main_topic_words: Romance, forgiveness, relationships, adventure, love, action
+Summary: "Rescue Me" by Susan May Warren is the second novel in the Montana Rescue series that addresses the themes of faith, family dynamics, romance, forgiveness, and love.
+Manual decision: Not surprising
+Reason: 60
+
+
+'Book_number':'76'
+'Book_id':'29222'
+'Book_title':'Lost Prophet: The Life and Times of Bayard Rustin'
+Manually_identified_main_topic_words: gay, homo, black, civil rights
+Summary: The book "Lost Prophet: The Life and Times of Bayard Rustin" by John D'Emilio entails the life and contributions of Bayard Rustin, a gay black man who was instrumental in the Civil Rights Movement.
+Manual decision: Not surprising
+Reason: The user has already read books (13, 44, 60) that are related to gay, civil rights, black and white race.
+
+
+
+
+'Book_number':'77'
+'Book_id':'30259130'
+'Book_title':'Moving Target (Elite Guardians #3)'
+Manually_identified_main_topic_words: suspense, romance, mystery, serial killer, revenge, good vs evil
+Summary: "Moving Target" is the third book in the Elite Guardians series filled with suspense, thrills, romance, and mystery.
+Manual decision: Not surprising
+Reason: 20, 47
+
+
+'Book_number':'78'
+'Book_id':'12294652'
+'Book_title':'My Life Next Door'
+Manually_identified_main_topic_words: Family, romance, friendship, summer, love
+Summary: The book "My Life Next Door" follows the romantic love story of Sam and Jace featuring the themes of family dynamics, friendships, and safe sex.
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 12, 13, 14
+
+
+'Book_number':'79'
+'Book_id':'18298225'
+'Book_title':'On the Fence'
+Manually_identified_main_topic_words: romance, family, friendship, love, 
+Summary: "On the Fence" is a young adult romantic novel that explores themes of family, friendship, self-discovery, and clean romance. 
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 12, 13, 14
+
+
+'Book_number':'80'
+'Book_id':'29339707'
+'Book_title':'I'll Be Yours'
+Manually_identified_main_topic_words: Romance, family, humor, high school, football, relationship
+Summary: "I'll Be Yours" by Jenny B. Jones is a young adult romance novel, which can be a good recommendation to those who like to read humorous, sports fiction, romance, high school stories and family relationships.
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 51, 53, 61,
+
+
+'Book_number':'81'
+'Book_id':'23001588'
+'Book_title':'Interference'
+Manually_identified_main_topic_words: politics, romance, family, friendship
+Summary: The novel "Interference" by Kay Honeyman blends politics, romance, and family dynamics.
+Manual decision: Surprising
+Reason: Politics
+
+
+'Book_number':'82'
+'Book_id':'30265223'
+'Book_title':'Still Life (Chesapeake Valor, #2)'
+Manually_identified_main_topic_words: Romance, crime, mystery, crime, investigation, suspense
+Summary: "Still Life" by Dani Pettrey is a Christian romance suspense novel that blends romance, crime, mystery, and suspense.
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12, 19
+
+
+'Book_number':'83'
+'Book_id':'28226318'
+'Book_title':'Overdrive'
+Manually_identified_main_topic_words: car, family, Las Vegas, heist, romance, adventure
+Summary: "Overdrive" is an action-packed adventure novel that tells the story of Jules, a teenage girl, who is skilled at car stealing.
+Manual decision: Not surprising
+Reason: romance, family
+
+
+'Book_number':'84'
+'Book_id':'5664985'
+'Book_title':'Along for the Ride'
+Manually_identified_main_topic_words: family, friends, relationships, teenage, insomnia
+Summary: "Along for the Ride" is a young adult novel that follows the story of a girl named Auden who fights against insomnia. The book delves into themes of family bonds, teenage life, and relationships. 
+Manual decision: Not surprising
+Reason: 2, 18, 12, 13, 14
+
+
+'Book_number':'85'
+'Book_id':'15863526'
+'Book_title':'Vanished (Private Justice, #1)'
+Manually_identified_main_topic_words: Suspense, romance, mystery, private investigator, Christian, danger
+Summary: The book, "Vanished" by Irene Hannon, is a suspenseful mystery novel that tells the story of a private investigator named Moira Harrison. It is a Christian romantic suspense novel that includes action, danger, and twists and turns that keep the reader engaged.
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12, 18
+
+
+'Book_number':'86'
+'Book_id':'24934065'
+'Book_title':'Rebel of the Sands (Rebel of the Sands, #1)'
+Manually_identified_main_topic_words: adventure, romance, action, desert, 
+Summary: The book "Rebel of the Sands" by Alwyn Hamilton is a young adult novel set in a desert world where sixteen-year-old Amani. It is an enjoyable read that offers a mix of adventure, action, romance, fantasy and magical elements.
+Manual decision: Not surprising
+Reason: 9, 10, 12, 13, 45 
+
+
+'Book_number':'87'
+'Book_id':'29739361'
+'Book_title':'Traitor to the Throne (Rebel of the Sands, #2)'
+Manually_identified_main_topic_words: twist, sultan, magic, Amani, palace, desert
+Summary: "Traitor to the Throne" by Alwyn Hamilton is a sequel to "Rebel of the Sands". The book is a fantasy and adventure novel that follows the journey of Amani, a character who is always changing and developing. 
+Manual decision: Not surprising
+Reason: 86
+
+
+'Book_number':'88'
+'Book_id':'18392495'
+'Book_title':'The Boy Most Likely To'
+Manually_identified_main_topic_words: family, romance, love, addiction
+Summary: "The Boy Most Likely To" is a young adult romance novel that tells the story of Tim who is fighting to get rid of drug addiction. The book also features the themes of romance, family issues and personal challenges.
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 12, 13, 14
+
+
+'Book_number':'89'
+'Book_id':'28449207'
+'Book_title':'Strange the Dreamer (Strange the Dreamer, #1)'
+Manually_identified_main_topic_words: Romance, war, library, thrills
+Summary: "Strange the Dreamer" by Laini Taylor, a fantasy novel, follows the main character Lazlo Strange who works at the library in the kingdom of Zosma. The novel has a thrilling story, surprising twists, and themes of love and romance.
+Manual decision: Not surprising
+Reason: 6, 11, 12, 13, 14
+
+
+'Book_number':'90'
+'Book_id':'23647120'
+'Book_title':'Falling Like Snowflakes (Summer Harbor, #1)'
+Manually_identified_main_topic_words: Romance, family, suspense, Christian, love story
+Summary: "Falling Like Snowflakes" by Denise Hunter is the first book of the Summer Harbor series set in Maine. The novel explores themes of love, fear, faith, and healing and has a good balance of suspense and romance, as well as relatable relationship issues.
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 12, 13, 14
+
+
+'Book_number':'91'
+'Book_id':'25891536'
+'Book_title':'The Goodbye Bride (Summer Harbor, #2)'
+Manually_identified_main_topic_words: Romance, love, relationship, small town, 
+Summary: The Goodbye Bride by Denise Hunter is a touching romance novel that follows the story of Lucy and Zac, who fall in love but are separated when Lucy leaves Zac without any explanation.
+Manual decision: Not surprising
+Reason: 90
+
+
+'Book_number':'92'
+'Book_id':'28188852'
+'Book_title':'Just a Kiss (Summer Harbor #3)'
+Manually_identified_main_topic_words: Love story, family, PTSD, friend, emotional challenges
+Summary: The book "Just a Kiss" by Denise Hunter is the third book in the Summer Harbor series that deals with the themes of friendship, romance, self-esteem, injury, PTSD, and readjustment.
+Manual decision: Not surprising
+Reason: 90, 91
+
+
+'Book_number':'93'
+'Book_id':'28507384'
+'Book_title':'Always a Cowboy (The Carsons of Mustang Creek, #2)'
+Manually_identified_main_topic_words: Wild horses, family, relationship, small town, love, romance
+Summary: "Always a Cowboy" is the second book in "The Carson's of Mustang Creek" series by Linda Lael Miller. The book follows a sweet romance story of Drake Carson, a cowboy who is too busy managing his family's ranch to look for love, and Luce Hale, a driven ecology student doing research for her thesis on wild horses.
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 12, 13, 14
+
+
+'Book_number':'94'
+'Book_id':'28628204'
+'Book_title':'Flash of Fire (Firehawks #7)'
+Manually_identified_main_topic_words: firefighter, military, romance, relationship
+Summary: "Flash of Fire" by M.L. Buchman is a romantic suspense novel that follows Robin, a former National Guard pilot who joins the Mount Hood Aviation firefighter helicopter crew as the season's commander.
+Manual decision: Not surprising
+Reason: 12, 13, 60, 43
+
+
+'Book_number':'95'
+'Book_id':'28561664'
+'Book_title':'Fatal Frost (Defenders of Justice #1)'
+Manually_identified_main_topic_words: suspense, romance, crime, thriller, drug
+Summary: "Fatal Frost" is the first book in the Defenders of Justice series, which follows the story of U.S. Marshal Mercy Brennan. It offers a mix of action, suspense and romance, with a unique plot that keeps the reader guessing. 
+Manual decision: Not surprising
+Reason: 88, 4, 8, 10, 12, 19
+
+
+'Book_number':'96'
+'Book_id':'11763128'
+'Book_title':'The Girl Who Ruled Fairyland — For a Little While (Fairyland, #0.5)'
+Manually_identified_main_topic_words: Fairyland, girl, magic, children
+Summary: The short story "The Girl Who Ruled Fairyland — For a Little While" is a prequel in the Fairyland series by Catherynne M Valente, can be an enjoyable read for the children as well as those who like to read magical, fantastical, and fairy tales.
+Manual decision: Surprising
+Reason: Fairyland, magic
+
+
+'Book_number':'97'
+'Book_id':'12532687'
+'Book_title':'The Night Is Mine (The Night Stalkers, #1)'
+Manually_identified_main_topic_words: Military, action, thriller, romance, suspense, female protagonist/heroine
+Summary: "The Night is Mine" by M.L. Buchman is a romantic suspense novel and the first one in the Night Stalkers series that features the themes of action, plots and twists, steamy romance.
+Manual decision: Not surprising
+Reason: 8, 10, 12, 60
+
+
+'Book_number':'98'
+'Book_id':'13507573'
+'Book_title':'I Own the Dawn (The Night Stalkers, #2)'
+Manually_identified_main_topic_words: romance, adventure, military, Afghan desert, action
+Summary: The book "I Own the Dawn" by M.L. Buchman is a romantic suspense novel and the second book in the Night Stalkers series that features the themes of action, adventure, military, steamy romance.
+Manual decision: Not surprising
+Reason: 97
+
+
+'Book_number':'99'
+'Book_id':'23363874'
+'Book_title':'Reasons to Stay Alive'
+Manually_identified_main_topic_words: Matt Haig, depression, mental health, anxiety, despair 
+Summary: "Reasons to Stay Alive" by Matt Haig is a biographical novel where the author shares the story of his own struggle against depression, anxiety, mental health issues, and suicidal thoughts at the age of 24.
+Manual decision: Surprising
+Reason: This is the first book of the user which is about mental health, depression, and anxiety.
+
+
+'Book_number':'100'
+'Book_id':'8239985'
+'Book_title':'Noughts & Crosses (Noughts & Crosses, #1)'
+Manually_identified_main_topic_words:  white, black, race, civil 
+Summary: The novel "Noughts and Crosses," written by Malorie Blackman, is a work of fiction that explores the racial civil rights issues between white and black individuals.
+Manual decision: Surprising
+Reason: racism, black, white
+
+
+'Book_number':'101'
+'Book_id':'18509610'
+'Book_title':'Light Up the Night (The Night Stalkers, #8)'
+Manually_identified_main_topic_words: Romance, Somalia, Military, love, action
+Summary: The book "Light Up the Night" by M.L. Buchman is an action-packed military thriller novel with a romantic subplot and the 8th book in the Night Stalkers series.
+Manual decision: Not surprising
+Reason: 97, 98
+
+
+'Book_number':'102'
+'Book_id':'21991198'
+'Book_title':'Bring on the Dusk (The Night Stalkers, #10)'
+Manually_identified_main_topic_words: Military, romance, suspense, thriller, action, love
+Summary: "Bring on the Dusk" is a military romance novel in the Night Stalker series that focuses on the romance between Colonel Michael Gibson, a Delta Force soldier, and Claudia Casperson, a Captain in the 160th Special Operations Aviation Regiment.
+Manual decision: Not surprising
+Reason: 97, 98, 101
+
+
+'Book_number':'103'
+'Book_id':'25064648'
+'Book_title':'The Reader (Sea of Ink and Gold, #1)'
+Manually_identified_main_topic_words: magic, romance*, reader, fantasy, love*, family*
+Summary: The Reader, a novel by Traci Chee, is a mesmerizing fantasy novel about the power of words, stories, love, romance, families, and friendships.
+Manual decision: Not surprising
+Reason: 6, 11, 12, 13, 14
+
+
+'Book_number':'104'
+'Book_id':'29740747'
+'Book_title':'Duke of Pleasure (Maiden Lane, #11)'
+Manually_identified_main_topic_words: Romance*, mystery, adventure, suspense*
+Summary: The book "Duke of Pleasure" is a novel in the Maiden Lane series that has a sense of adventure, loyalty, and romantic suspense.
+Manual decision: Not surprising
+Reason: 11, 12, 13, 14
+
+
+'Book_number':'105'
+'Book_id':'32997627'
+'Book_title':'Before the Leap (Gold Valley Romance #1)'
+Manually_identified_main_topic_words: Love*, romance*, relationship, winter, Montana 
+Summary: "Before the Leap" by Liz Isaacson is a romance novel about Jace Lovell, a ranch foreman in Montana and it also discusses themes of forgiveness, love, and trust
+Manual decision: Not surprising
+Reason: 11, 12, 13, 14
+
+
+'Book_number':'106'
+'Book_id':'18779673'
+'Book_title':'Irresistible Force (K-9 Rescue #1)'
+Manually_identified_main_topic_words: police, cop*, dog*, romance*, suspense*, relationship, emotion
+Summary: "Irresistible Force" is the first novel in the K-9 Rescue series by D.D. Ayres. The book is a romantic suspense story that tells the story of Shay, a survivor of childhood abuse and a victim of domestic violence, and James, a K-9 cop, who is trying to find his stolen dog partner, Bogart.
+Manual decision: Not surprising
+Reason: 11, 12, 13, 14
+
+
+'Book_number':'107'
+'Book_id':'6883162'
+'Book_title':'Jenna's Cowboy (The Callahans of Texas, #1)'
+Manually_identified_main_topic_words: PTSD*, love story*, romance*, war, Texas, Christian, relationship, western
+Summary: Jenna's Cowboy by Sharon Gillenwater is a romance novel set in west Texas that tells the story of Jenna Callahan Colby, a single mother trying to move on from her failed marriage. Nate Langley, a veteran who is dealing with PTSD after serving two tours in Iraq, returns home and takes up a job offer from Jenna. 
+Manual decision:  Not surprising
+Reason: 27, 92
+
+
+'Book_number':'108'
+'Book_id':'34705738'
+'Book_title':'I'll Be There'
+Manually_identified_main_topic_words: romance*, suspense*, action, family, relationships, marriage
+Summary: "I'll Be There" is a romantic suspense novel by Susan May Warren, featuring Conner Young, a smokejumper, and his fiancée, Liza Beaumont. The story takes place three days before their wedding.
+Manual decision: Not surprising
+Reason: 106, 105
+
+
+'Book_number':'109'
+'Book_id':'16096824'
+'Book_title':'A Court of Thorns and Roses (A Court of Thorns and Roses, #1)'
+Manually_identified_main_topic_words: love triangle*, relationships*, romance*, Beauty and the Beast
+Summary: "A Court of Thorns and Roses" by Sarah J. Maas is a romantic fantasy novel that tells the story of Feyre, a young woman from a small village near the wall that separates human and Fae territories.
+Manual decision: Not surprising
+Reason: Love, romance
+
+
+'Book_number':'110'
+'Book_id':'17927395'
+'Book_title':'A Court of Mist and Fury (A Court of Thorns and Roses, #2)'
+Manually_identified_main_topic_words: relationship*, emotion, action, ending, sex scenes, love*
+Summary: "A Court of Mist and Fury" by Sarah J. Maas is a romantic fantasy novel in the A Court of Thorns and Roses that is filled with action, romance and emotional elements.
+Manual decision: Not surprising
+Reason: 109
+
+
+'Book_number':'111'
+'Book_id':'23766634'
+'Book_title':'A Court of Wings and Ruin (A Court of Thorns and Roses, #3)'
+Manually_identified_main_topic_words: Sarah J. Maas, romance*, adventure*, magic, family,  
+Summary: "A Court of Wings and Ruin" by Sarah J. Maas is a romantic fantasy novel in the A Court of Thorns and Roses that is filled with romance and adventure.
+Manual decision: Not surprising
+Reason: 109, 110
+
+
+'Book_number':'112'
+'Book_id':'10729336'
+'Book_title':'Lord and Lady Spy (Lord and Lady Spy, #1)'
+Manually_identified_main_topic_words: spy*, romance*, investigation, mystery*, marriage, action, suspense*, Europe
+Summary: The book revolves around the lives of two married spies who work for the Crown. The story is full of romance, action, suspense, and mystery, with some modern ideas and a witty dialogue.
+Manual decision: Not surprising
+Reason: 4, 8, 10, 12, 19
+
+
+'Book_number':'113'
+'Book_id':'23723773'
+'Book_title':'Primal Force (K-9 Rescue, #3)'
+Manually_identified_main_topic_words: dog*, PTSD*, romance*, suspense*, relationship, prison
+Summary: "Primal Force" by D.D. Ayres is a romantic suspense novel that is a part of the K-9 Rescue series.
+Manual decision: Not surprising
+Reason: 106, 24, 38, 67, 72
+
+
+'Book_number':'114'
+'Book_id':'30684815'
+'Book_title':'Peace in the Valley (Double S Ranch, #3)'
+Manually_identified_main_topic_words:love*, family dynamics*, forgiveness, Christian, romance*, faith, God
+Summary: "Peace in the Valley" is the third book in the "Double S Ranch" series by Ruth Logan Herne. The novel explores themes of family, sacrifice, forgiveness, and love, in a western setting. 
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 7, 10, 16, 19
+
+
+'Book_number':'115'
+'Book_id':'15808300'
+'Book_title':'Sworn to Protect (Sugarland Blue, #1)'
+Manually_identified_main_topic_words: family, romance*, suspense*, friendship*, police, relationship
+Summary: Sworn to Protect is a steamy romance and suspense novel by Jo Davis. The book revolves around Detective Shane Ford, who becomes the guardian of his best friend Brad's son, Drew, after Brad's death due to performance-enhancing drugs.
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 4, 8, 10,
+
+
+'Book_number':'116'
+'Book_id':'17707534'
+'Book_title':'Hot Pursuit (Sugarland Blue, #2)'
+Manually_identified_main_topic_words: PTSD*, Cop*, action, emotion, romantic*, suspense*
+Summary: Hot Pursuit, the second book in Jo Davis's Sugarland Blue series that is a quick and intense romantic suspense, with a combination of romance and suspense.
+Manual decision: Not surprising
+Reason: 27, 92, 107, 115
+
+
+'Book_number':'117'
+'Book_id':'22891394'
+'Book_title':'On the Run (Sugarland Blue, #4)'
+Manually_identified_main_topic_words: romance*, suspense*, criminal, police*, Sugarland Blue
+Summary: "On the Run" by Jo Davis is a gritty romantic suspense novel that follows Tonio Salvatore, an undercover police officer, who gets involved with the sister of a criminal he is investigating, Angel Silva.
+Manual decision: Not surprising
+Reason: 0, 1, 5, 6, 11, 4, 8, 10,
+
+
+'Book_number':'118'
+'Book_id':'20821101'
+'Book_title':'In His Sights (Sugarland Blue, #3)'
+Manually_identified_main_topic_words: romance*, suspense*, mystery, Sugarland Blue, police*, family
+Summary: In His Sights is the third book in the Sugarland Blue series, a romantic suspense series that features detectives working in the Sugarland police department.
+Manual decision: Not surprising
+Reason: 117
+
+
+'Book_number':'119'
+'Book_id':'25056448'
+'Book_title':'Bring the Heat (Sugarland Blue, #5)'
+Manually_identified_main_topic_words: murder mystery*, suspense*, romance*, police, villain
+Summary: The book, Bring the Heat by Jo Davis, is a psychological murder mystery thriller and the fifth book in the Sugarland Blue series. The story revolves around Captain Austin Rainey, who is going through a bitter divorce with his pregnant wife.
+Manual decision: Not surprising
+Reason: 117, 118
+
+
+'Book_number':'120'
+'Book_id':'31019606'
+'Book_title':'Face the Flames (Sugarland Blue, #6)'
+Manually_identified_main_topic_words: romance*, murder*, police*, mystery*
+Summary: This book follows the story of Clay Montana, a firefighter who is recovering from an injury sustained while on the job. The story features the elements of danger, romance, and mystery.
+Manual decision: Not surprising
+Reason: 117, 118, 119
+
+
+'Book_number':'121'
+'Book_id':'30256248'
+'Book_title':'By Your Side'
+Manually_identified_main_topic_words: romance*, anxiety disorder, mental health*, family drama*, love triangle*
+Summary: "By Your Side" by Kasie West is a contemporary young adult novel that tells the story of Autumn, who gets locked in a library with Dax, a boy with a bad reputation. The book explores topics such as anxiety disorder and self-care, while still maintaining a fluffy and romantic tone.
+Manual decision: Not surprising 
+Reason: 0, 1, 5, 6, 11, 12, 13, 14
+
+
+'Book_number':'122'
+'Book_id':'17384592'
+'Book_title':'Trapped (Private Justice, #2)'
+Manually_identified_main_topic_words: private investigator*, romance*, suspense*, ATF agent, villain, serial killer
+Summary: The book "Trapped" by Irene Hannon tells the story of librarian Laura Griffith, who hires the private investigators of Phoenix Inc to search for her missing teenage sister, Darcy. It features the themes of romance and suspense.
+Manual decision: Not surprising
+Reason: 8, 39, 32, 61
+
+
+'Book_number':'123'
+'Book_id':'20877620'
+'Book_title':'Hart Attack (Titan, #5)'
+Manually_identified_main_topic_words: titan men, suspense*, action*, romance*, CIA agent*
+Summary: "Hart Attack" by Cristin Harber is a suspenseful novel that follows the story of Beth, a CIA agent who is emotionally closed off due to a past traumatic experience, and Roman, a soldier who has never wanted a relationship until he realizes he wants Beth.
+Manual decision: Not surprising
+Reason: 117, 118, 119, 120
+
+
+'Book_number':'124'
+'Book_id':'25880375'
+'Book_title':'Hold Your Breath (Search and Rescue, #1)'
+Manually_identified_main_topic_words: romance*, mystery*, suspense*, rescue, relationship, adventure, action, danger
+Summary: "Into the Deep" is a romance novel that blends the elements of romance, mystery, and suspense together, with engaging characters and a surprising twist at the end.
+Manual decision: Not surprising
+Reason: 117, 118, 119, 120, 123
+
+
+'Book_number':'125'
+'Book_id':'26149944'
+'Book_title':'Fan the Flames (Search and Rescue, #2)'
+Manually_identified_main_topic_words: firefighter*, gun shop, romance*, murder mystery*, suspense*
+Summary: "Gone Too Deep" is the third book in a series that revolves around a motorcycle club, firefighters, and the gun shop owner Rory. The story is a page-turner full of suspense, sexual tension, and action.
+Manual decision: Not surprising
+Reason: 24, 8, 10, 12, 19
+
+
+'Book_number':'126'
+'Book_id':'27015400'
+'Book_title':'Gone Too Deep (Search and Rescue, #3)'
+Manually_identified_main_topic_words: suspense*, romance*, murder mystery
+Summary: "Gone Too Deep" by Katie Ruggle is the third novel in the Rocky Mountain Search & Rescue series. The story is an engaging romantic suspense title with a particularly sweet romance. 
+Manual decision: Not surprising
+Reason: 124, 125
+
+
+'Book_number':'127'
+'Book_id':'17303197'
+'Book_title':'Beowulf: Explosives Detection Dog (A Breed Apart, #3)
+Manually_identified_main_topic_words: dog, military, romance, soldier, 
+Summary: The book is the third installment of the A Breed Apart trilogy, which tells the story of Candyman and Timbral's relationship. The book features well-developed characters, a well-researched military operation, and a plot that balances romance and military action. 
+Manual decision: Not surprising
+Reason: 60, 94, 97, 98, 127, 106, 113
+
+
+'Book_number':'128'
+'Book_id':'15822709'
+'Book_title':'Talon: Combat Tracking Team (A Breed Apart, #2)'
+Manually_identified_main_topic_words: Romance*, adventure*, suspense, military*, dog*
+Summary: "Talon" by Ronie Kendig is a military fiction novel about Aspen, whose parents have passed away, and whose twin, Austin Courtland, is declared missing in action by the military. The story is full of action, adventure, and suspense with a good mix of romance
+Manual decision: Not surprising
+Reason: 127
+
+
+'Book_number':'129'
+'Book_id':'17234658'
+'Book_title':'A Thousand Pieces of You (Firebird, #1)'
+Manually_identified_main_topic_words: science fiction*, parallel universe*, romance, twist, adventure
+Summary: The book is about Marguerite Caine, an artist from a family of top-notch scientists, who, with the help of a device called Firebird, travels through parallel universes to find her father's murderer.
+Manual decision: Not surprising
+Reason: 21
+
+
+'Book_number':'130'
+'Book_id':'17234659'
+'Book_title':'Ten Thousand Skies Above You (Firebird, #2)'
+Manually_identified_main_topic_words: science*, parallel universe*, romance*, love*, dimensions, travel, multiverse
+Summary: "Ten Thousand Skies Above You" is the second book in the Firebird trilogy, written by Claudia Gray. The book is full of suspense and a love triangle between Marguerite, Paul, and Theo. It features unique world-building and science behind the Firebird, and the ending provides an unexpected twist.
+Manual decision: Not surprising
+Reason: 129
+
+
+'Book_number':'131'
+'Book_id':'28960100'
+'Book_title':'A Million Worlds with You (Firebird, #3)'
+Manually_identified_main_topic_words: science*, parallel universe*, romance*, love*, dimensions, travel, multiverse
+Summary: A Million Worlds With You" is the third and final book in "The Firebird Trilogy" by Claudia Gray. The book is recommended for high school students due to sexual content and is a good read for those interested in exploring the possibilities of parallel universes and dimension travel ethics.
+Manual decision: Not surprising
+Reason: 129, 130
+
+
+'Book_number':'132'
+'Book_id':'32496992'
+'Book_title':'A Matter of Trust (Montana Rescue, #3)'
+Manually_identified_main_topic_words: romance*, suspense*, Peak Rescue team, adventure*, drama, blizzard, forgiveness, trust
+Summary: "A Matter of Trust" by Susan May Warren is a romance novel with suspenseful twists. The book is a thrilling ride, encompassing themes of forgiveness, heroism, and trust, and exploring the idea that being a hero is not something to aspire to, but a direct result of serving and living life in response to God's calling.
+Manual decision: Not surprising
+Reason: 60, 76
+
+
+'Book_number':'133'
+'Book_id':'32497077'
+'Book_title':'True to You (Bradford Sisters Romance, #1)'
+Manually_identified_main_topic_words: romance*, family*, relationship, faith, God, sisters
+Summary: The book is a sweet romance novel by Becky Wade, which is the first in the Bradford Sisters series. It explores themes of love, faith, family, and adoption, with a focus on Nora's relationships with her sisters.
+Manual decision: Not surprising
+Reason: 11, 12, 13, 14
+
+
+'Book_number':'134'
+'Book_id':'31450852'
+'Book_title':'Tower of Dawn (Throne of Glass, #6)'
+Manually_identified_main_topic_words: Chaol, Yrene, Nesryn, love
+Summary: Tower of Dawn is a young adult fantasy novel that explores the world of the southern continent and its cultures and people. The book focuses on the character development of Chaol and his relationships with Yrene and Nesryn.
+Manual decision: Not surprising
+Reason: 54, 55, 56, 57, 58
+
+
+'Book_number':'135'
+'Book_id':'25026403'
+'Book_title':'Starfall (Starflight, #2)'
+Manually_identified_main_topic_words: sci-fi, relationship, action,
+Summary: "Starfall" is the second book in a sci-fi series that picks up the story of Cassia and Kane, who were minor characters in the first book. 
+Manual decision: Not surprising
+Reason: 21
+
+
+'Book_number':'136'
+'Book_id':'34020169'
+'Book_title':'Blind Spot (Chesapeake Valor, #3)'
+Manually_identified_main_topic_words: Suspense*, mystery*, FBI, romance, relationship
+Summary: "Blind Spot" is the third book in the Chesapeake Valor series, which follows four boyhood friends in law enforcement as they investigate mysteries and solve crimes. The book's main characters are FBI agent Declan Grey and Tanner, who becomes Declan's partner. 
+Manual decision: Not surprising
+Reason: 82

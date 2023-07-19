@@ -1,0 +1,1006 @@
+﻿Manual annotations
+User 2: c0d62a1d66649a61ffa302f8baf16d05
+
+
+'Book_number':'0'
+'Book_id':'2169313'
+'Book_title':'Death's Shadow'
+Manually_identified_main_topic_words: death, fantasy, narrator, demon, horror, scary
+Summary: The book "Death's Shadow" is a part of the Demonata series by Darren Shan, which captures themes of fantasy, horror, and fear.
+Manual decision:
+Reason: 
+
+
+'Book_number':'1'
+'Book_id':'3040004'
+'Book_title':'Procession of the Dead (The City Trilogy, #1)'
+Manually_identified_main_topic_words: fantasy, adult, trilogy, mystery, gangster, horror
+Summary: The book "Procession of the Dead" by Darren Shan can be described as a mix of mystery, supernatural thriller, and dark urban decay, with a gradual unfolding of the story and gradual reveals.
+
+
+'Book_number':'2'
+'Book_id':'924062'
+'Book_title':'Skulduggery Pleasant (Skulduggery Pleasant, #1)'
+Manually_identified_main_topic_words: humor, murder, mysterious, evil, adult, kid, hilarious, detective, magic, Skulduggery, fantasy,
+Summary: The book "Skulduggery Pleasant" by Derek Landy is an excellent choice for readers who enjoy fantasy, murder mystery, humor, detective, and adventure genres.
+
+
+'Book_number':'3'
+'Book_id':'851339'
+'Book_title':'Nightrise (The Power of Five, #3)'
+Manually_identified_main_topic_words: twists, adventure, mysterious, evil, suspense, twin, murder, 
+Summary: The third book in the "Power of Five" series by Anthony Horowitz, titled "Nightrise" follows the story of twins Jamie and Scott and can be recommended to fans of adventure, murder mystery, twist, and supernatural genres.
+
+
+'Book_number':'4'
+'Book_id':'1162543'
+'Book_title':'Breaking Dawn (Twilight, #4)'
+Manually_identified_main_topic_words: vampire*, twilight, character, pregnancy, saga
+Summary: The book "Breaking Dawn", the final installment of the Twilight series by Stephenie Meyer can be a good recommendation for young adults who like to read vampire stories.  
+
+
+
+
+'Book_number':'5'
+'Book_id':'1333030'
+'Book_title':'Sweet Surrender (Sweet, #1)'
+Manually_identified_main_topic_words: sexual, sex, Gray, character, faith, murder, love
+Summary: The book "Sweet Surrender" by Maya Banks is the first book in the Sweet series that features a story of murder, mystery and suspense.
+
+
+'Book_number':'6'
+'Book_id':'8815935' (Fake review added)
+'Book_title':'Listen to Me'
+Manually_identified_main_topic_words: mysterious, sex, romance, erotic, BDSM, fun
+Summary: "Listen to Me" by Alessia Brio is an erotic short story that tells a story of a woman who is looking for a mistress.
+
+
+'Book_number':'7'
+'Book_id':'15716836'
+'Book_title':'Zom-B Underground (Zom-B, #2)'
+Manually_identified_main_topic_words: zombie, Zom-B, horror, adult, series
+Summary: The book "Zom-B Underground" by Darren Shan is the second book in the Zom-B series, which can be described as zombie horror and young adult genres.
+
+
+'Book_number':'8'
+'Book_id':'13380915'
+'Book_title':'Zom-B'
+Manually_identified_main_topic_words: zombie, horror,
+Summary: The book "Zom-B" by Darren Shan explores themes of racism, abuse, and survival during a zombie apocalypse.
+
+
+'Book_number':'9'
+'Book_id':'13631170' (Fake review added)
+'Book_title':'Death by Cake (The Lost Secret, #1)'
+Manually_identified_main_topic_words: emotions, suspense, and humor
+Summary: The book "Death by Cake" blends emotions, suspense, and humor while featuring relatable characters and engaging in thrilling plots.
+
+
+'Book_number':'10'
+'Book_id':'7681608'
+'Book_title':'Aspergirls: Empowering Females with Asperger Syndrome'
+Manually_identified_main_topic_words: female, autism, spectrum, disorder, ASD, teen, adult
+Summary: The book "Aspergirls: Empowering Females with Asperger Syndrome" by Rudy Simone is a book for those who are interested to know about autism, autistic spectrum disorder, asperger syndrome in females, and can be a great suggestions for the parents of autistic children.
+
+
+'Book_number':'11'
+'Book_id':'18324004'
+'Book_title':'I Think I Might Be Autistic: A Guide to Autism Spectrum Disorder Diagnosis and Self-Discovery for Adults'
+Manually_identified_main_topic_words: ASD, autism, autistic, disorder, diagnosis*, adult,
+Summary: The book "I Think I Might Be Autistic: A Guide to Autism Spectrum Disorder Diagnosis and Self-Discovery for Adults" by Cynthia Kim can be recommended to those who are seeking to understand autistic spectrum disorder.
+
+
+'Book_number':'12'
+'Book_id':'108391'
+'Book_title':'All Cats Have Asperger Syndrome'
+Manually_identified_main_topic_words: cat, asperger, kid, autistic, syndrome, children, 
+Summary: The book "All Cats Have Asperger Syndrome" written by Kathy Hoopmann can be described as a good resource for parents, siblings, and children with asperger's syndrome and the author brings cat photos to explain asperger's syndrome in a lighthearted/funny way.
+
+
+'Book_number':'13'
+'Book_id':'21858244'
+'Book_title':'The Other Side: Living With Asperger Syndrome'
+Manually_identified_main_topic_words: Asperger, teen, adult, interesting,
+Summary: The author WillowHope, who has Asperger Syndrome and anxiety disorder, expresses her experiences during school and teenage years, while also offering advice for individuals with Asperger Syndrome in her book titled "The Other Side: Living With Asperger Syndrome".
+
+
+'Book_number':'14'
+'Book_id':'19471260' (Few reviews and extra reviews not found)
+'Book_title':'9 Reasons Why You Should Consider Getting A Diagnosis of Asperger's Syndrome'
+Manually_identified_main_topic_words: Diagnosis, asperger, syndrome,
+Summary: The author has described the advantages and disadvantages of getting an official diagnosis of Asperger Syndrome in this book.
+
+
+'Book_number':'15'
+'Book_id':'2813153'
+'Book_title':'Thirteen Reasons Why'
+Manually_identified_main_topic_words: Hannah, friend, suicide, tragedy, teen, Clay, girl, reason, student
+Summary: The novel "Thirteen Reasons Why" by Jay Asher tells the tragic suicide of a teenage girl named Hannah, exploring the reasons behind her decision and the involvement of her friends.    
+Manual decision: Surprising
+Reasonas: It is first book that talks about suicide, teenage girl, friends, and tragic plots.
+
+
+'Book_number':'16'
+'Book_id':'11763128'
+'Book_title':'The Girl Who Ruled Fairyland — For a Little While (Fairyland, #0.5)'
+Manually_identified_main_topic_words: Fairyland, girl, magic, children
+Summary: The short story "The Girl Who Ruled Fairyland — For a Little While" is a prequel in the Fairyland series by Catherynne M Valente, can be an enjoyable read for the children as well as those who like to read magical, fantastical, and fairy tales.
+Manual decision: Surprising 
+Reason: It is the first book that is related to fairyland and magic.
+
+
+'Book_number':'17'
+'Book_id':'16174631'
+'Book_title':'More Weird Things Customers Say in Bookshops'
+Manually_identified_main_topic_words: hilarious, funny, humorous, weird, customer
+Summary: The book "More Weird Things Customers Say in Bookshops" explores the queries and events from bookshops that can be funny or humorous.
+Manual decision: Surprising
+Reason: This book primarily features funny and humorous plots, whereas book number 2 mainly revolves around murder mystery and detective stories with a small element of humor.
+
+
+'Book_number':'18'
+'Book_id':'18042869'
+'Book_title':'Zom-B Baby (Zom-B, #5)'
+Manually_identified_main_topic_words: zombie, devil, religion
+Summary: The book "Zom-B Baby" is the 5th book in the Zom-B series by Darren Shan can be a good recommendation for those who like to read zombie, horror, and young adult stories.
+Manual decision: Not surprising
+Reason: The user has already read two other books (7, 8) from the series.
+
+
+'Book_number':'19'
+'Book_id':'249747'
+'Book_title':'Artemis Fowl (Artemis Fowl, #1)'
+Manually_identified_main_topic_words: fairy tales, fairy, fantasy, teen, magic
+Summary: The book "Artemis Fowl" by Eoin Colfer is a work of the fantasy genre, particularly written for children or teenagers, and is filled with magic and excellent mythology of the fairy world. 
+Manual decision: Not surprising
+Reason: The reader has already read a book (16) on fairy tales.
+
+
+'Book_number':'20'
+'Book_id':'23211343'
+'Book_title':'Smoke Gets in Your Eyes'
+Manually_identified_main_topic_words: humor, funny, death, society, religious
+Summary:  The book "Smoke Gets in Your Eyes" by Caitlin Doughty deals with the serious topic of death with respect and humor.
+Manual decision: Not surprising
+Reason: The reader has prior experience with humorous books (17, 2).
+
+
+'Book_number':'21'
+'Book_id':'10574'
+'Book_title':'The Colorado Kid (Hard Case Crime #13)'
+Manually_identified_main_topic_words: mystery, crime, murder, Stephen King, tv series, 
+Summary: "The Colorado Kid" is a murder mystery novel by Stephen King that revolves around unsolved crime. 
+Manual decision: Not surprising
+Reason: The user has already read some books(1, 2) on murder mystery and crime genres.
+
+
+'Book_number':'22'
+'Book_id':'18924616' (Fake review added)
+'Book_title':'The Secret Circle of Imaginary Friends'
+Manually_identified_main_topic_words: adventure, child, dark, relationship, protagonist, suspense, scary, creepy,    
+Summary: "The Secret Circle of Imaginary Friends" is the first novel by Mike Jeavons that blends adventure and suspense in a creepy environment. 
+Manual decision: Not surprising
+Reason: The user has read some adventurous and suspenseful stories(2, 3, 5).
+
+
+'Book_number':'23'
+'Book_id':'24874307'
+'Book_title':'The Yellow Wall-Paper'
+Manually_identified_main_topic_words: woman, feminist, gothic, short, thriller, Charlotte, (It seems LDA is not working properly for this book)
+Summary: "The Yellow Wall-Paper and Other Stories" by Charlotte Perkins Gilman can be described as a feminist psychological horror and scary story.  
+Manual decision: Not Surprising
+Reason: The user has already read some books(0, 7, 8, 18) that are horror and scary.
+
+
+'Book_number':'24'
+'Book_id':'8576729'
+'Book_title':'Birth of a Killer (The Saga of Larten Crepsley, #1)'
+Manually_identified_main_topic_words: Darren Shan, series, demon, haunt, horror, evil (It seems LDA is not working properly for this book)
+Summary: The book "Birth of a Killer" from "The Saga of Larten Crepsley" series written by Darren Shan reflects the themes of evil and horror.
+Manual decision: Not Surprising
+Reason: The user had already read some horror stories(0, 7, 8, 18, 23).
+
+
+'Book_number':'25'
+'Book_id':'78411'
+'Book_title':'The Bad Beginning (A Series of Unfortunate Events, #1)'
+Manually_identified_main_topic_words: child, humor, funny  
+Summary: The book "The Bad Beginning" is the first book in the "A Series of Unfortunate Events" series by Lemony Snicket that is full of dark humor for children.
+Manual decision: Not surprising
+Reason: The read has read some children books (19, 22) as well as humorous (2, 17, 20) 
+
+
+'Book_number':'26'
+'Book_id':'893172'
+'Book_title':'Percy Jackson and the Lightning Thief (Percy Jackson and the Olympians, #1)'
+Manually_identified_main_topic_words: Greek, mythology, gods, Jackson, fantasy, adventure, harry, potter, myth
+Summary: "Percy Jackson and the Lightning Thief" is the first book in the Percy Jackson and the Olympians series that can be an amazing time pass for those who are Greek Mythology and adventure seekers. 
+Manual decision: Surprising
+Reason: This is the first book for the user that is full of Greek Mythology and also the first book in the Percy Jackson series.
+
+
+'Book_number':'27'
+'Book_id':'580002'
+'Book_title':'The Sea of Monsters (Percy Jackson and the Olympians, #2)'
+Manually_identified_main_topic_words: Greek, mythology, gods, myth, Jackson
+Summary: "The Sea of Monsters" is the second book in the "Percy Jackson and the Olympians" series written by Rick Riordan that draws heavily from Greek mythology, the adventures of Percy Jackson.  
+Manual decision: Not surprising
+Reason: It is a book from the Divergent series and the reader has already read a book (26) from the series.
+
+
+'Book_number':'28'
+'Book_id':'21535713'
+'Book_title':'Soppy'
+Manually_identified_main_topic_words: boyfriend, friend, relationship, love, romantic, comic
+Summary: The love story "Soppy" authored by Philippa Rice depicts the author's romantic relationship with her boyfriend, Luke Pearson, who is also a comics artist.
+Manual decision: surprising
+Reason: It is the first book for the reader that is about a romantic love story.
+
+
+'Book_number':'29'
+'Book_id':'377254'
+'Book_title':'Robot Dreams'
+Manually_identified_main_topic_words: relationship, robot, friend, dog, child, kid
+Summary: "Robot Dreams" is a wordless graphic novel that tells the story of a dog and a robot featuring the themes of friendship or relationship, and it can be a suggestion for those who like to read sci-fi and technology.
+Manual decision: Not surprising (Animal topic appeared before (cat))
+Reason: The reader has prior experience with the books (12, 28) that are related to friendship or relationship and animals.
+
+
+'Book_number':'30'
+'Book_id':'920607'
+'Book_title':'The Arrival'
+Manually_identified_main_topic_words: immigrant, graphic, picture, art
+Summary: Shaun Tan's "The Arrival" is a graphic novel that narrates the journey of an immigrant man to a foreign country using a sequence of drawings in a fantastical setting.
+Manual decision: Surprising
+Reason: Immigrant, foreign country
+
+
+'Book_number':'31'
+'Book_id':'1056639' (Fake review added)
+'Book_title':'The Lost Thing''
+Manually_identified_main_topic_words: children, adult, teen,
+Summary: The book "The Lost Thing" by Shaun Tan is a graphic novel for children featuring a humorous story in a dystopian world. 
+Manual decision: Not surprising
+Reason: The reader has read some books(16, 19, 29, 30) that are graphic and for children.
+
+
+'Book_number':'32'
+'Book_id':'2133969'
+'Book_title':'The Titan's Curse (Percy Jackson and the Olympians, #3)'
+Manually_identified_main_topic_words: Percy, Jackson, myth, gods, mythology
+Summary: "The Titan's Curse" is the third book in the "Percy Jackson and the Olympians" series written by Rick Riordan that draws heavily from Greek mythology, the adventures of Percy Jackson.
+Manual decision: Not surprising
+Reason: The user has already read two books (26, 27) from this series.
+
+
+'Book_number':'33'
+'Book_id':'11235712'
+'Book_title':'Cinder (The Lunar Chronicles, #1)'
+Manually_identified_main_topic_words: Cinder, Cinderella, romance, fiction, series, fantasy
+Summary: "Cinder" is the first book in "The Lunar Chronicles" series by Marissa Meyer that retells the classic fairytale "Cinderella".  
+Manual decision: Surprising 
+Reason: It is the first book in "The Lunar Chronicles" series where Cinder is the main character and retells a classic fairytale “Cinderella”. Though the story is in the genre of fantasy as well as fairytale, the character and plot are well-known and different.  
+
+
+'Book_number':'34'
+'Book_id':'15003865' (Fake review added)
+'Book_title':'Galashiels Through Time'
+Manually_identified_main_topic_words: Very few reviews
+Summary: It is a book of photographs that portrays the changes of the town Galashields over the last century, particularly in the last ten years.
+Manual decision: Not surprising
+Reason: The reader has read some books (29, 30, 31) that contain photographs.
+
+
+'Book_number':'35'
+'Book_id':'13206760'
+'Book_title':'Scarlet (The Lunar Chronicles, #2)'
+Summary: "Cinder" is the second book in "The Lunar Chronicles" series by Marissa Meyer that retells the classic fairytale "Cinderella".  
+Manual decision: Not surprising
+Reason: The reader has already read another book (33) from the series. 
+
+
+'Book_number':'36'
+'Book_id':'25855506'
+'Book_title':'Adulthood Is a Myth (Sarah's Scribbles, #1)'
+Manually_identified_main_topic_words: laugh, funny, hilarious, comic, adult
+Summary: The book "Adulthood Is a Myth" by Sarah Andersen is a good resource for the people who like to enjoy books that have relatable comics and humor.
+Manual decision: Not surprising
+Reason: The user has read some funny or hilarious books (2, 17, 20, 25).
+
+
+'Book_number':'37'
+'Book_id':'20567229'
+'Book_title':'Zom-B Gladiator (Zom-B #6)''
+Manually_identified_main_topic_words: Zom-B, zombie, evil, friend
+Summary: The book "Zom-B Gladiator" is the 6th book in the Zom-B series by Darren Shan can be a good recommendation for those who like to read zombie, horror, evil, and young adult stories.
+Manual decision: Not surprising
+Reason: The user has already read some books (7, 8, 18) from the series.
+
+
+'Book_number':'38'
+'Book_id':'21359223'
+'Book_title':'Zom-B Mission'
+Manually_identified_main_topic_words: zombie, zom-b, friend
+Summary: "Zom-B Mission" is an addition to the "Zom-B" series by Darren Shan that can be a good recommendation for those who like to read zombie, horror, evil, and young adult stories.
+Manual decision: Not surprising
+Reason: The user has already read some books (7, 8, 18, 37) from the series.
+
+
+
+
+'Book_number':'39'
+'Book_id':'20413430'
+'Book_title':'Zom-B Circus'
+Manually_identified_main_topic_words: zombie, zom-b
+Summary: "Zom-B Mission" is another addition to the "Zom-B" series by Darren Shan that can be a good recommendation for those who like to read zombie, horror, evil, and young adult stories.
+Manual decision: Not surprising
+Reason: The user has already read some books (7, 8, 18, 37, 38) from the series.
+
+
+'Book_number':'40'
+'Book_id':'12913325'
+'Book_title':'Between Shades of Gray'
+Manually_identified_main_topic_words: love, history, historical, war, WWII, sad, horror, German, 
+Summary:  The book "Between Shades of Gray" by Ruta Sepetys is a historical fiction about a Lithuanian family who was deported to Siberia during World War II.
+Manual decision: Surprising 
+Reason: It is the first book of the user that is about history and world war II.
+
+
+'Book_number':'41'
+'Book_id':'7603179'
+'Book_title':'Comet in Moominland (The Moomins, #2)'
+Manually_identified_main_topic_words: adventure, war, children, adult
+Summary: The book "Comet in Moominland" is the second book in the Moomin series by Tove Jansson, that was published in 1946 as a response to World War II and tells the story about a comet that is approaching Earth. It can be a nice selection for the children who love to read fantasy, fiction, and adventure genres. 
+Manual decision: Not surprising
+Reason: The reader has read some children's books (16, 19, 25) that are on World War II (40), fiction, and adventure.
+
+
+'Book_number':'42'
+'Book_id':'22020598'
+'Book_title':'On the Edge of Gone'
+Manually_identified_main_topic_words: autistic, autism, love, relationship, sci-fi, teen, kid, fiction
+Summary: "On the Edge of Gone" follows the story of a autistic girl Denise and her family as they try to make a temporary shelter before a comet hits. 
+Manual decision: Not surprising 
+Reason: The reader has read books (10, 11, 41) related to autism and comet or sci-fi.
+
+
+'Book_number':'43'
+'Book_id':'703300'
+'Book_title':'Finn Family Moomintroll (The Moomins, #3)'
+Manually_identified_main_topic_words: 
+Summary: The book "Finn Family Moomintroll" is the third book in the Moomin series by Tove Jansson that features the themes of fantasy, fiction, and adventure genres for children. 
+Manual decision: Not surprising
+Reason: The reader has already read another book (41) from this series.
+
+
+'Book_number':'44'
+'Book_id':'17295039' (Fake review added)
+'Book_title':'Snowbound'
+Manually_identified_main_topic_words: Thriller, suspense, mystery
+Summary: Blake Crouch's book "Snowbound" revolves around an FBI agent in a thrilling, suspenseful and mysterious environment.
+Manual decision: Not surprising
+Reason: The user has read some thrilling, mysterious and suspenseful stories (1, 9, 22)
+
+
+'Book_number':'45'
+'Book_id':'28204545'
+'Book_title':'I Hate Fairyland, Vol. 1: Madly Ever After'
+Manually_identified_main_topic_words: fairyland, graphic, humor, fairy, funny
+Summary: "I Hate Fairyland" by Skottie Young is a mix of violence and humor in a fairy world.
+Manual decision: Not surprising
+Reason: The user has read some books (16, 17, 19, 20) that are related to humor and the fairy world. 
+
+
+'Book_number':'46'
+'Book_id':'25733921'
+'Book_title':'Shaking hands with death'
+Manually_identified_main_topic_words: death, humor, 
+Summary: "Shaking hands with death" written by Terry Pratchett tells the story of Pratchett when he was diagnosed with Alzheimer's disease and the reader can find the book humorous.
+Manual decision: Not surprising
+Reason: The reader has already read some humorous books(17, 20, 25)
+
+
+'Book_number':'47'
+'Book_id':'99474'
+'Book_title':'The BFG'
+Manually_identified_main_topic_words: children, child, funny, BFG, magic
+Summary: The book "The BFG" is a children's book filled with fun and magic.
+Manual decision: Not surprising
+Reason: The reader has prior experience with children's books (16, 19, 25) that are funny and full of fun.
+
+
+'Book_number':'48'
+'Book_id':'29067264'
+'Book_title':'Harry Potter and the Cursed Child'
+Manually_identified_main_topic_words: magical, child, magical, fantasy, adventure, Harry, potter 
+Summary: "Harry Potter and the Cursed Child" is the 8th book by JK Rowling in the "Harry Potter" series which is full of magic and adventures and can be a wonderful recommendation for children.
+Manual decision: Not surprising
+Reason: Though it is the first book in the Harry Potter series for the user, the user has already read some magical, fantastical, and adventurous books (16, 19, 26, 27). 
+
+
+'Book_number':'49'
+'Book_id':'11362175'
+'Book_title':'The New Ghost'
+Manually_identified_main_topic_words: ghost, graphic, comic
+Summary: "The New Ghost" is a graphic novel that depicts a haunting story of the afterlife. It can be a good suggestion for those who like to read comical and ghost stories.
+Manual decision: Not surprising
+Reason: The user has prior experience with comical and haunting stories. 
+
+
+Book_number':'50'
+'Book_id':'206161' (Fake review added)
+'Book_title':'Alice's Adventures in Wonderland (Alice's Adventures in Wonderland, #1)'
+Manually_identified_main_topic_words: wonderland, adventure, childhood, Alice
+Summary: "Alice's Adventures in Wonderland" by Lewis Carroll is a children's book that revolves around the themes of adventure and fantasy. 
+Manual decision: Not surprising 
+Reason: The reader has read some children's books (26, 27, 41, 43) of adventure and fantasy genres.
+
+
+'Book_number':'51'
+'Book_id':'8933944'
+'Book_title':'Harry Potter: The Prequel (Harry Potter, #0.5)'
+Manually_identified_main_topic_words: Harry, potter, magic, adventure, Rowling, humor, James
+Summary: "Harry Potter: The Prequel" is a prequel by JK Rowling in the "Harry Potter" series which is full of magic and adventures and can be a great recommendation for children.
+Manual decision: Not surprising
+Reason: The reader has already read a book (48) from the Harry Potter series.
+
+
+'Book_number':'52'
+'Book_id':'29357293'
+'Book_title':'Undying: A Love Story'
+Manually_identified_main_topic_words: poem, poetry, poetic, death, love
+Summary: "Undying: A Love Story" is a poetry book by Michel Faber filled with romantic poems.
+Manual decision: Surprising
+Reason: It is the first poetry book that the user read.
+
+
+'Book_number':'53'
+'Book_id':'11946938'
+'Book_title':'Snow White'
+Manually_identified_main_topic_words: fairytale, magic, fairy, 
+Summary: Jacob Grimm's "Snow White" can be described as a children's fantastical book and recommended to those who prefer to read fairy tales.
+Manual decision: Not surprising
+Reason: Fairy tales and fantasy genres have appeared before in the user's prior experience.(16, 19, 33, 35, 45)
+
+
+'Book_number':'54'
+'Book_id':'15803417'
+'Book_title':'The Wonderful Wizard of Oz (Oz, #1)'
+Manually_identified_main_topic_words: children, adventure, fantasy, magic
+Summary: "The Wonderful Wizard of Oz" by L. Frank Baum is a fantasy fiction novel for children with magical and adventurous plots.
+Manual decision: Not surprising
+Reason: Fantasy, magic, adventure are very common genres for the user. (26, 27, 41, 43, 48, 51) 
+
+
+'Book_number':'55'
+'Book_id':'31538635'
+'Book_title':'Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies (Pottermore Presents, #1)'
+Manually_identified_main_topic_words: harry, potter, Rowling, 
+Summary: The book "Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies" is a collection of JK Rowling's stories that can be a great time pass for those who enjoy Harry Potter and JK Rowling's writings.
+Manual decision: Not surprising
+Reason: The user has already read some books (48, 51) of JK Rowling on Harry Potter.
+
+
+'Book_number':'56'
+'Book_id':'16059492'
+'Book_title':'Shadow and Bone'
+Manually_identified_main_topic_words: magic, adventure, young, adult, fantasy, Darkling*, fiction, fictional, 
+Summary: "Shadow and Bone" by Leigh Bardugo is the first book in the trilogy of "The Shadow and Bone Trilogy" following an adventurous, magical, and fantastical story for the young adults. Some primary characters of the story are Darkling, Alina and Mal. 
+Manual decision: Not surprising
+Reason: 26, 27, 41, 54
+
+
+'Book_number':'57'
+'Book_id':'28111692'
+'Book_title':'Fowl Language: Welcome to Parenting'
+Manually_identified_main_topic_words: children, child, kid, laugh, humorous, fun, comics
+Summary: The book "Fowl Language: Welcome to Parenting" by Brian Gordon is a graphic novel for children filled with humor and comics.
+Manual decision: Not surprising
+Reason: Humor is very common for the user.
+
+
+'Book_number':'58'
+'Book_id':'33129057' (Fake review added)
+'Book_title':'An Other Place'
+Manually_identified_main_topic_words: Darren Shan, adult, protagonist, friend, twilight
+Summary: Darren Shan's "An other Place" is an adult novel that features the themes of horror, mystery, and fantasy. 
+Manual decision: Not surprising
+Reason: The reader has already read some books of horror and fantasy genres.
+
+
+'Book_number':'59'
+'Book_id':'31380398'
+'Book_title':'The Call'
+Manually_identified_main_topic_words: children, child, teenager, Nessa, Mystery 
+Summary: "The Call" is a dystopian novel that revolves around a teenager named Nessa. Children or teenagers who like to read mysterious stories can give it a try.
+Manual decision: Not surprising
+Reason: 26, 27, 41, 43, 50
+
+
+'Book_number':'60'
+'Book_id':'23395680'
+'Book_title':'Illuminae (The Illuminae Files, #1)'
+Manually_identified_main_topic_words: scary, protagonist, Ezra, love, sci-fi, fiction, 
+Summary: "Illuminae" by Amie Kaufman follows the story of Ezra blending science fiction, romance and fantasy.
+Manual decision: Not surprising
+Reason: 29, 42
+
+
+'Book_number':'61'
+'Book_id':'18525661'
+'Book_title':'Siege and Storm (The Grisha, #2)'
+Manually_identified_main_topic_words: protagonist, Darkling, ALina, love, relationship, Nikolai, trilogy, sequel
+Summary: "Siege and Storm" by Leigh Bardugo is the second book in the trilogy of "The Shadow and Bone Trilogy" following an adventurous, magical, and fantastical story for the young adults. Some primary characters of the story are Darkling, Alina and Mal.  
+Manual decision: Not surprising
+Reason: The reader has already read a book (56) from this trilogy.
+
+
+'Book_number':'62'
+'Book_id':'17997353'
+'Book_title':'The Tailor (The Grisha, #1.5)''
+Summary: "The Tailor" by Leigh Bardugo is a book from the trilogy of "The Shadow and Bone Trilogy" following an adventurous, magical, and fantastical story for the young adults. Some primary characters of the story are Darkling, Alina and Mal.  
+Manual decision: Not surprising
+Reason: The reader has already read a book (56, 61) from this trilogy.
+
+
+'Book_number':'63'
+'Book_id':'22718800'
+'Book_title':'Ruin and Rising (The Grisha, #3)'
+Manually_identified_main_topic_words: Same book series as 61, 62
+Summary: "Ruin and Rising" by Leigh Bardugo is the third book in the trilogy of "The Shadow and Bone Trilogy" following an adventurous, magical, and fantastical story for the young adults. Some primary characters of the story are Darkling, Alina and Mal.  
+Manual decision: Not surprising
+Reason: The reader has already read a book (56, 61, 62) from this trilogy.
+
+
+'Book_number':'64'
+'Book_id':'24641800'
+'Book_title':'The Demon in the Wood (The Grisha, #0.1)'
+Manually_identified_main_topic_words: Same book series as 61, 62, 63
+Summary: "The Demon in the Wood" by Leigh Bardugo is a part from the trilogy of "The Shadow and Bone Trilogy" following an adventurous, magical, and fantastical story for the young adults. Some primary characters of the story are Darkling, Alina and Mal.  
+Manual decision: Not surprising
+Reason: The reader has already read a book (56, 61, 62, 63) from this trilogy.
+
+
+'Book_number':'65'
+'Book_id':'27414369'
+'Book_title':'Flashfall (Flashfall, #1)'
+Manually_identified_main_topic_words: dystopia, scary, protagonist, love, relationship
+Summary: "Flashfall" by Jenny Moyer is a dystopian novel capturing science fiction, twists, and turns, and can be recommended to young adults.
+Manual decision: Not surprising
+Reason: 29, 42
+
+
+‘Book_number':'66'
+'Book_id':'64863'
+'Book_title':'A is for Alibi (Kinsey Millhone, #1)'
+Manually_identified_main_topic_words: love, relationship, mystery, murder, detective
+Summary: "A is for Alibi" is a detective novel by Sue Grafton filled with crime, mystery, and thrills.
+Manual decision: Not surprising
+Reason: 2, 3
+
+
+'Book_number':'67'
+'Book_id':'29363501'
+'Book_title':'Fantastic Beasts and Where to Find Them: The Original Screenplay'
+Manually_identified_main_topic_words: Harry, potter, magic, movie, fantastic, beast
+Summary: "Fantastic Beasts and Where to Find Them," a book by J.K. Rowling, which focuses on over 70 different magical creatures present within the Wizarding World and the book also includes comments from Harry Potter and his friends. 
+Manual decision: Not surprising
+Reason: This is a very common category for the user (48, 51).
+
+
+'Book_number':'68'
+'Book_id':'33306674' (Few reviews and extra reviews had not been found)
+'Book_title':'F in Exams: The Big Book of Test Paper Blunders'
+Manually_identified_main_topic_words: Very small amount of reviews 
+Summary: The book may be related to autism, asperger syndrome and the plot may be humorous. 
+Manual decision: Not surprising
+Reason: autism, asperger syndrome
+
+
+'Book_number':'69'
+'Book_id':'6218096'
+'Book_title':'The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)'
+Manually_identified_main_topic_words: Same series of book no 26, 27
+Summary: "The Battle of the Labyrinth" is the fourth book in the "Percy Jackson and the Olympians" series written by Rick Riordan that draws heavily from Greek mythology, the adventures of Percy Jackson.
+Manual decision: Not surprising
+Reason: The user has already read two books (26, 27) from this series.
+
+
+'Book_number':'70'
+'Book_id':'7706484'
+'Book_title':'The Last Olympian (Percy Jackson and the Olympians, #5)'
+Manually_identified_main_topic_words: Same series of book no 26, 27
+Summary: "The Last Olympian" is the fifth book in the "Percy Jackson and the Olympians" series written by Rick Riordan that draws heavily from Greek mythology, the adventures of Percy Jackson.
+Manual decision: Not surprising
+Reason: The user has already read four books (26, 27, 69) from this series.
+
+
+'Book_number':'71'
+'Book_id':'27883214'
+'Book_title':'Caraval (Caraval, #1)'
+Manually_identified_main_topic_words: Scarlett*, magic, caraval*, mystery, relationship 
+Summary: The book “Caraval” is a fantasy novel where the main character is Scarlet and the plot has some twists and mysteries. 
+Manual decision: Not surprising
+Reason: The reader has read some mystery novels.
+
+
+'Book_number':'72'
+'Book_id':'25205337'
+'Book_title':'Heart and Brain: An Awkward Yeti Collection'
+Manually_identified_main_topic_words: Comical, comic, humorous, fun, funny, hilarious,
+Summary: The book "Heart and Brain: An Awkward Yeti Collection" by Nick Seluk explores the humorous conversation between heart and brain. It can be a good resource for those who seek hilarious or funny books.
+Manual decision: Not surprising
+Reason: 17, 20, 25, 31, 36
+
+
+'Book_number':'73'
+'Book_id':'16250926'
+'Book_title':'The Nightmare before Christmas'
+Manually_identified_main_topic_words: movie, children, love,
+Summary: The book "The Nightmare Before Christmas" by Tim Burton is a children's book that explores the themes of Halloween, Christmas, fantasy and fiction.
+Manual decision: Not surprising
+Reason: 48, 50, 53, 54
+
+
+'Book_number':'74'
+'Book_id':'20702415'
+'Book_title':'Lost Property: Nobrow 17x23 (17x23 Series)'
+Manually_identified_main_topic_words: comic, graphic
+Summary: "Lost Property" is a graphic novel that tells a story of a postman, and it can be a good source of comics.
+Manual decision: Not surprising
+Reason: 45, 49, 57
+
+
+'Book_number':'75'
+'Book_id':'23519415'
+'Book_title':'Countryside: The Book of the Wise (Countryside, #1)'
+Manually_identified_main_topic_words: percy, jackson, protagonist, humor, funny, magic, children
+Summary: "Countryside: The Book of the Wise" is a children's novel that explores the themes of humor, magic, and fantasy.
+Manual decision: Not surprising
+Reason: 26, 27, 48, 51
+
+
+'Book_number':'76'
+'Book_id':'31114367'
+'Book_title':'The Night Circus'
+Manually_identified_main_topic_words: magic, magical, circus, magician
+Summary: "The Night Circus" by Erin Morgenstern tells the story of a magical circus and revolves around two magicians. 
+Manual decision: Surprising
+Reason: The entire story is about magic and a magical circus. Though the reader has read Harry Potter and Fairyland where magic was a secondary element, here the primary element is magic. So it is a surprising book.
+
+
+'Book_number':'77'
+'Book_id':'30991264'
+'Book_title':'Sad Animal Facts'
+Manually_identified_main_topic_words: animal, humor
+Summary: "Sad Animal Facts" is a humorous book for younger children that revolves around different hilarious animal facts.
+Manual decision: Not surprising
+Reason: 29, 12, 45, 49, 57
+
+
+'Book_number':'78'
+'Book_id':'32500637'
+'Book_title':'Let Them Eat Chaos'
+Manually_identified_main_topic_words: chaos, poem
+Summary: "Let Them Eat Chaos" is a poetry book by Kate Tempest.
+Manual decision: Not surprising
+Reason: 52
+
+
+'Book_number':'79'
+'Book_id':'29748925'
+'Book_title':'Strange the Dreamer (Strange the Dreamer, #1)'
+Manually_identified_main_topic_words: magic, magical, strange, fantasy, protagonist, mystery
+Summary: "Strange the Dreamer" by Laini Taylor is a young adult fantasy novel and can be a good recommendation to mysterious and magical story seekers.
+Manual decision: Not surprising
+Reason: 76, 0, 1, 19, 26
+
+
+'Book_number':'80'
+'Book_id':'30754980'
+'Book_title':'Big Mushy Happy Lump (Sarah's Scribbles, #2)'
+Manually_identified_main_topic_words: Same series of Book number 36
+Summary: The book "Big Mushy Happy Lump" by Sarah Andersen is the second book in "Sarah's Scribbles" series and can be a good choice for the people who like to enjoy books that have relatable comics and humor.
+Manual decision: Not surprising
+Reason: The user has read another book from the series. (36)
+
+
+'Book_number':'81'
+'Book_id':'28260519' (Fake review added)
+'Book_title':'The Phantom of the Opera'
+Manually_identified_main_topic_words: Gothic, horror, love
+Summary: "The Phantom of the Opera" is a Gothic horror book that explores a tragic romantic story of Erik and Christine Dae. 
+Manual decision: Not surprising
+Reason: 7, 8, 23, 24
+
+
+'Book_number':'82'
+'Book_id':'33556709'
+'Book_title':'Past Mortems: Life and Death Behind Mortuary Doors'
+Manually_identified_main_topic_words: mystery, death, humorous
+Summary: "Past Mortems: Life and Death Behind Mortuary Doors" is an autobiography of the author Carla Valentine's experiences when she was working as an Anatomical Pathology Technologist in mortuaries in the UK. The book explores attitudes towards death with a humorous tune.
+Manual decision: Not surprising
+Reason: 20, 46
+
+
+'Book_number':'83'
+'Book_id':'23363874'
+'Book_title':'Reasons to Stay Alive'
+Manually_identified_main_topic_words: Matt Haig, depression, mental health, anxiety, despair 
+Summary: "Reasons to Stay Alive" by Matt Haig is a biographical novel where the author shares the story of his own struggle against depression, anxiety, mental health issues, and suicidal thoughts at the age of 24.
+Manual decision: Surprising
+Reason: This is the first book of the user which is about mental health, depression, and anxiety.
+
+
+'Book_number':'84'
+'Book_id':'222605'
+'Book_title':'The Exploits of Moominpappa, Described by Himself'
+Manually_identified_main_topic_words: Moomins, adult, protagonist, children's fiction, adventure
+Summary: The story "The Exploits of Moominpappa, Described by Himself" by Tove Jansson can be an enjoyable read for adults as well as the children who like fiction and adventure.
+Manual decision: Not surprising
+Reason: 22, 26, 27, 32
+
+
+'Book_number':'85'
+'Book_id':'10433007'
+'Book_title':'Ocean of Blood (The Saga of Larten Crepsley, #2)'
+Manually_identified_main_topic_words: Horror, evil, ....(series book of book number 24)
+Summary: The book "Ocean of Blood" from "The Saga of Larten Crepsley" series written by Darren Shan reflects the themes of evil and horror.
+Manual decision: Not Surprising
+Reason: The reader has read another book from that series. (24)
+
+
+'Book_number':'86'
+'Book_id':'7325411'
+'Book_title':'Moominsummer Madness (The Moomins, #5)'
+Manually_identified_main_topic_words: series book of book number 41, 43, 84
+Summary: "Moominsummer Madness" is a children's adventure book from the "The Moomins" series that explores the Moomin family facing a natural disaster.
+Manual decision: Not surprising
+Reason: The reader has read other books (41, 43, 84) from this series.
+  
+'Book_number':'87'
+'Book_id':'11809992'
+'Book_title':'Palace of the Damned (The Saga of Larten Crepsley, #3)'
+Manually_identified_main_topic_words: Horror, evil, ....(series book of book number 24, 85)
+Summary: The book "Palace of the Damned" by Darren Shan is the third book in the "The Saga of Larten Crepsley" series that explores the themes of horror and evil.
+Manual decision: Not surprising
+Reason: The reader has read another book from that series. (24, 85)
+
+
+'Book_number':'88'
+'Book_id':'902434' (Fake review added)
+'Book_title':'The Jungle Book'
+Manually_identified_main_topic_words: Animals, Mowgli, Jungle, Adventure
+Summary: "The Jungle Book" is a collection of short stories that features adventures of Mowgli and tales of different animals in the jungle.
+Manual decision: Not surprising
+Reason: 12, 28, 77
+
+
+'Book_number':'89'
+'Book_id':'93261'
+'Book_title':'The Legend of Sleepy Hollow'
+Manually_identified_main_topic_words: horror, child, ghost,
+Summary: The book "The Legend of Sleepy Hollow" by Washington Irving is a classic horror story that revolves around a small village and its resident ghost, the Headless Horseman.
+Manual decision: Not surprising
+Reason: 7, 8, 49
+
+
+'Book_number':'90'
+'Book_id':'29939780'
+'Book_title':'Cogheart (The Cogheart Adventures, #1)'
+Manually_identified_main_topic_words: steampunk, child, evil, adventure, London, mystery
+Summary: "Cogheart" is a novel that revolves around a child, and explores the themes of adventure and mystery set in Victorian London, can be suggested to the readers who like to read steampunk and adventure stories.
+Manual decision: Not surprising
+Reason: adventure, mystery, evil, child
+
+
+'Book_number':'91'
+'Book_id':'13304482' (Fake review added)
+'Book_title':'Brothers to the Death (The Saga of Larten Crepsley, #4)'
+Manually_identified_main_topic_words: Horror, evil, ....(series book of book number 24, 85)
+Summary: The book "Brothers to the Death" by Darren Shan is the fourth book in the "The Saga of Larten Crepsley" series that explores the themes of horror and evil.
+Manual decision: Not surprising
+Reason: The reader has read another book from that series. (24, 85, 87)
+
+
+'Book_number':'92'
+'Book_id':'31338721'
+'Book_title':'I Hate Fairyland, Vol. 2: Fluff My Life'
+Manually_identified_main_topic_words: hilarious, comedy, humor, fairyland, 
+Summary: "I Hate Fairyland, Vol. 2: Fluff My Life" by Skottie Young is a story of fairyland with some humorous plots. 
+Manual decision: Not surprising
+Reason: 45
+
+
+'Book_number':'93'
+'Book_id':'460569' (Fake review added)
+'Book_title':'The Cat in the Hat: Green Back Book (Dr Seuss - Green Back Book)'
+Manually_identified_main_topic_words: cat, animal, children, funny, whimsical
+Summary: "The Cat in the Hat: Green Back Book" by Dr Seuss is a children's book full of funny and whimsical events.
+Manual decision: Not surprising
+Reason: 17, 20, 25, 36 
+
+
+'Book_number':'94'
+'Book_id':'21096725' (Fake review added)
+'Book_title':'Green Eggs and Ham'
+Manually_identified_main_topic_words: Dr. Seuss, relationship, moral, children, adult
+Summary: "'Green Eggs and Ham" is a children's book by Dr Seuss that features some moral lessons for both children and adults.
+Manual decision: Not surprising
+Reason: The reader has read many children's and adult's books.
+
+
+'Book_number':'95'
+'Book_id':'2711311' (Fake review added) but not found many
+'Book_title':'The Dr. Seuss Miniature Collection'
+Manually_identified_main_topic_words: children, adult,
+Summary: Dr. Seuss's "The Dr. Seuss Miniature Collection" can be a good time pass for both children as well as adults. 
+Manual decision: Not surprising
+Reason: 94
+
+
+'Book_number':'96'
+'Book_id':'5824130' (Fake review added)
+'Book_title':'One Fish, Two Fish, Red Fish, Blue Fish: Mini Edition'
+Manually_identified_main_topic_words: Children's book, pets, animal
+Summary: Dr. Seuss's "One Fish, Two Fish, Red Fish, Blue Fish: Mini Edition" is a children's book that revolves around pets and animals.
+Manual decision: Not surprising
+
+
+'Book_number':'97'
+'Book_id':'32574766'
+'Book_title':'Night Shift'
+Manually_identified_main_topic_words: depression, struggle, anxiety, picture, graphic
+Summary: The book "Night Shift" by Deb Gliori reflects the personal experience of the author which can be a great read for those who want to know how depression, anxiety, and mental health issues can impact a person both psychologically and emotionally.
+Manual decision: Not surprising
+Reason: 83
+
+
+'Book_number':'98'
+'Book_id':'2711320' (Fake review added)
+'Book_title':'The Cat In The Hat Comes Back'
+Manually_identified_main_topic_words: Cat, children,
+Summary: "The Cat In The Hat Comes Back" is a Dr. Seuss's children's book featuring the theme of humor with animals.
+Manual decision: Not surprising
+Reason: Humor, children
+
+
+'Book_number':'99'
+'Book_id':'31538614'
+'Book_title':'Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists (Pottermore Presents, #2)''
+Manually_identified_main_topic_words: same series book as book number 55
+Summary: The book "Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists" is a collection of JK Rowling's stories that can be a great time pass for those who enjoy Harry Potter and JK Rowling's writings.
+Manual decision: Not surprising
+Reason: The reader has already read a book (55) from the series.
+
+
+'Book_number':'100'
+'Book_id':'32682118'
+'Book_title':'One of Us Is Lying'
+Manually_identified_main_topic_words: Murder, mystery, detective
+Summary: One of Us is Lying by Karen M. McManus is a murder mystery and detective novel set in a high school filled with suspense.
+Manual decision: Not surprising
+Reason: murder, mystery
+
+
+'Book_number':'101'
+'Book_id':'29236298'
+'Book_title':'Gemina (The Illuminae Files, #2)'
+Manually_identified_main_topic_words: same series book as book number 60
+Summary: "Gemina" is the second book in the Illuminae series by Amie Kaufman and Jay Kristoff where the story revolves around Hanna and Nik featuring the themes of science fiction.
+Manual decision: Not surprising
+Reason: 60
+
+
+'Book_number':'102'
+'Book_id':'22694572'
+'Book_title':'Something New: Tales from a Makeshift Bride'
+Manually_identified_main_topic_words: comics, graphic, wedding, Knislay, funny, relationship
+Summary: "Something New: Tales from a Makeshift Bride" by Lucy Knisley is a graphic novel memoir where the author shares her wedding planning and familial relationship in a humorous way.
+Manual decision: Not surprising
+Reason: relationship, comics
+
+
+'Book_number':'103'
+'Book_id':'28779776'
+'Book_title':'Nevernight (The Nevernight Chronicle, #1)'
+Manually_identified_main_topic_words: fantasy, adult, magic, twist, assassin, murder, violence 
+Summary: "Nevernight" by Jay Kristoff tells the story of Mia Corvere, a young girl who lost her family at the age 10 and became an assassin. The story features murder, unexpected twists and is filled with gore, magic, and violence.
+Manual decision: Not surprising
+Reason: 3, 65 
+
+
+'Book_number':'104'
+'Book_id':'8835645'
+'Book_title':'The Lost Hero (The Heroes of Olympus, #1)'
+Manually_identified_main_topic_words: percy, jackson, mythology, greek, gods
+Summary: "The Lost Hero" by Rick Riordan can be an amazing read for the people who love to read Percy Jackson or Greek mythology or Roman mythology.
+Manual decision: Not surprising
+Reason: The reader has already read books related to Greek mythology (Percy Jackson).
+
+
+'Book_number':'105'
+'Book_id':'8570121' (Fake review added)
+'Book_title':'Through the Looking-Glass'
+Manually_identified_main_topic_words: adventure, magical, wonderland, fantasy, children
+Summary: "Through the Looking-Glass" is a sequel to "Alice's Adventures in Wonderland" that can be a good suggestion for adults as well as children who like to read adventure, magic and fantasy.
+Manual decision: Not surprising
+Reason: 3, 22, 26
+
+
+'Book_number':'106'
+'Book_id':'30237061'
+'Book_title':'Daughter of the Burning City'
+Manually_identified_main_topic_words: fantasy, mystery, politics, adventure, magic, illusion, ending
+Summary: The book "Daughter of the Burning City" is a fantasy novel loosely based on the biblical story of Sodom and Gomorrah and the story is a mix of magic, fantasy, politics, mystery and adventure.  
+Manual decision: Not surprising
+Machine decision: 1, 3, 5, 21
+
+
+'Book_number':'107'
+'Book_id':'16719727'
+'Book_title':'The Son of Neptune  (The Heroes of Olympus, #2)'
+Manually_identified_main_topic_words: same series book as book number 104
+Summary: "The Son of Neptune" by Rick Riordan is a sequel to "The Heroes of Olympus" which can be an amazing read for the people who love Percy Jackson or Greek mythology or Roman mythology or adventure stories.
+Manual decision: Not surprising
+Reason: The reader has already read another book (104) from this series.
+
+
+'Book_number':'108'
+'Book_id':'13650477' (Fake review added)
+'Book_title':'The Lorax. by Dr. Seuss'
+Manually_identified_main_topic_words: tree, children, environment, forest
+Summary: "The Lorax" is a story by Dr. Seuss where the author has tried to reflect the importance of taking care of the environment by stopping cutting down trees in the forest.
+Manual decision: Surprising
+Reason: This is the first book of the reader where environment, forest, trees are primary topics.
+
+
+'Book_number':'109'
+'Book_id':'24359966'
+'Book_title':'The Year of Living Danishly: Uncovering the Secrets of the World's Happiest Country'
+Manually_identified_main_topic_words: Denmark, Danish, culture, humor, happiness, Nordic culture
+Summary: The book is about the author's experience living in Denmark for a year with her husband who got a job with Lego. The book talks about the differences between Denmark and other countries in terms of lifestyle, values, government, and happiness with humor, and it can be recommended for those who are interested in Denmark, travel, Nordic culture, and ways of life in foreign countries.
+Manual decision: Surprising 
+Reason: It covers different new topics like Nordic culture, lifestyle in Denmark.
+
+
+'Book_number':'110'
+'Book_id':'36311957' (Fake review added)
+'Book_title':'The Invisible Child and The Fir Tree''
+Manually_identified_main_topic_words: Moomin, Tove Jansson, family, children, Christmas
+Summary: The book "The Invisible Child and The Fir Tree" contains two books: "The Invisible Child" is about a child and the Moomin family while the other is related to Christmas.
+Manual decision: Not surprising
+Reason: The reader has already read another book related to Moomin family.
+
+
+'Book_number':'111'
+'Book_id':'113946'
+'Book_title':'How the Grinch Stole Christmas!'
+Manually_identified_main_topic_words: children, picture, Christmas
+Summary: "How the Grinch Stole Christmas!" is a children's book by Dr. Seuss featuring the true meaning of Christmas. It can be a Christmas classic for kids as well as adults of all ages.
+Manual decision: Not surprising
+Reason: 110
+
+
+'Book_number':'112'
+'Book_id':'23301805'
+'Book_title':'We Should All Be Feminists'
+Manually_identified_main_topic_words: feminist, women
+Summary: 'We Should All Be Feminists' is a book for anyone interested in feminism and gender equality. The author of this book has written about what feminism is, its importance and why it matters for women. 
+Manual decision: Not surprising
+Reason: 23
+
+
+
+
+
+
+
+
+'Book_number':'113'
+'Book_id':'12127750'
+'Book_title':'The Mark of Athena (The Heroes of Olympus, #3)'
+Manually_identified_main_topic_words: Same series book of book number 104, 107
+Summary: "The Mark of Athena" by Rick Riordan is a sequel to "The Heroes of Olympus" which can be an amazing read for the people who love Percy Jackson or Greek mythology or Roman mythology or adventure stories.
+Manual decision: Not surprising
+Reason: The reader has already read another book (104, 107) from this series.

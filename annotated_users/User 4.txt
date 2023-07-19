@@ -1,0 +1,1065 @@
+﻿Manual annotations
+User 4: 1108a957e7eb21cc10ed1dcd5c5d1b97
+
+
+'Book_number':'0'
+'Book_id':'5886881'
+'Book_title':'Dark Places'
+Manually_identified_main_topic_words: Murder, family, investigation, kill, mystery, thriller, psychological
+Summary: Dark Places by Gillian Flynn is a psychological murder mystery novel that tells the story of Libby Day, whose family was killed by her brother when she was seven. It can be a suspenseful and thrilling read for the readers.
+Manual decision:
+Reason:
+
+
+'Book_number':'1'
+'Book_id':'8546358'
+'Book_title':'The Peach Keeper'
+Manually_identified_main_topic_words: mystery, romance, friendship, family, small town, love
+Summary: "The Peach Keeper" by Sarah Addison Allen is a novel set in the small town. The story revolves around two women featuring the themes of family secrets, love, romance, and friendship.   
+Manual decision:
+Reason:
+
+
+'Book_number':'2'
+'Book_id':'5126859'
+'Book_title':'The Girl Who Chased the Moon'
+Manually_identified_main_topic_words: family, mystery, romance, magic, teenager, small town
+Summary: The book titled "The Girl Who Chased the Moon" by Sarah Addison Allen tells the story of a teenage girl named Emily who moves to a small town and the novel covers the themes of family mystery, magic, and romance with some engaging plots.
+Manual decision:
+Reason:
+
+
+'Book_number':'3'
+'Book_id':'1158967'
+'Book_title':'Garden Spells (Waverley Family, #1)'
+Manually_identified_main_topic_words: family, small town, sisters, relationship, magic
+Summary: The book "The Garden Spells" by Sarah Addison Allen tells the story of the Waverley family, particularly Claire Waverley and her sister Sydney, exploring the themes of family dynamics, relationship, small town life, and magic.
+Manual decision:
+Reason:
+
+
+'Book_number':'4'
+'Book_id':'544891'
+'Book_title':'Beastly (Beastly, #1; Kendra Chronicles, #1)'
+Manually_identified_main_topic_words: beast, love, fantasy, transformation
+Summary: "Beastly" is a fantasy novel that retells the modern version of the classic fairy tale "Beauty and the Beast." The story is set in New York City and follows the protagonist, Kyle Kingsbury, a handsome and popular teenager who is cursed by a witch and transformed into a beast.
+Manual decision:
+Reason:
+
+
+'Book_number':'5'
+'Book_id':'7445'
+'Book_title':'The Glass Castle'
+Manually_identified_main_topic_words: family, love, childhood, poverty, memoir
+Summary: The Glass Castle is a memoir by Jeannette Walls about her dysfunctional family, poverty, and childhood experiences. The book explores themes such as family dynamics, love, hope, determination, forgiveness, choice and consequence. 
+Manual decision:
+Reason:
+
+
+'Book_number':'6'
+'Book_id':'6186357'
+'Book_title':'The Maze Runner (Maze Runner, #1)'
+Manually_identified_main_topic_words: dystopian, protagonist, monsters, mystery, adventure, suspense, survival
+Summary: The Maze Runner is a young adult dystopian novel that takes place in a mysterious maze where a group of boys are trapped and trying to survive against monsters. It explores the themes of suspense, survival fighting and adventure.
+Manual decision:
+Reason:
+
+
+'Book_number':'7'
+'Book_id':'71847'
+'Book_title':'Set This House in Order'
+Manually_identified_main_topic_words: Dissociative Identity Disorder, multiple personality disorder, psychological,  
+Summary: The book is about two main characters, Andrew Gage and Penny Driver, who are both suffering from Multiple Personality Disorder or Dissociative Identity Disorder. The book has some twists and turns, and surprises that make it an addicting read.
+Manual decision:
+Reason:
+
+
+'Book_number':'8'
+'Book_id':'6090807'
+'Book_title':'Fear the Worst'
+Manually_identified_main_topic_words: thriller, daughter, twist, suspense, mystery,  
+Summary: Fear the Worst by Linwood Barclay is a thriller and mystery novel that revolves around Tim Blake, an ordinary guy, and his young daughter, Sydney. 
+Manual decision:
+Reason:
+
+
+'Book_number':'9'
+'Book_id':'1807278'
+'Book_title':'Erased: Missing Women, Murdered Wives'
+Manually_identified_main_topic_words: killer, crime, missing women, violence, investigation
+Summary: "Erased: Missing Women, Murdered Wives" is a novel that touches on the issue of missing women cases, pregnancy, crime, violence, and death investigation.
+Manual decision:
+Reason:
+
+
+'Book_number':'10'
+'Book_id':'9581507'
+'Book_title':'Don't Breathe a Word'
+Manually_identified_main_topic_words: mystery, suspense, mystery, thriller, family, creepy, fairytale
+Summary: "Don't Breathe a Word" by Jennifer McMahon is a supernatural mystery novel that blends the themes of fairy tales, family dynamics, suspense and thriller.
+Manual decision:
+Reason:
+
+
+'Book_number':'11'
+'Book_id':'2180222'
+'Book_title':'The Condition'
+Manually_identified_main_topic_words: family, Turner Syndrome, relationship, love, dysfunction
+Summary: "News from Heaven: The Bakerton Stories" is a family drama by Jennifer Haigh that follows the lives and relationship of a dysfunctional family after the diagnosis of Turner Syndrome for the middle daughter.
+Manual decision:
+Reason:
+
+
+'Book_number':'12'
+'Book_id':'2138727'
+'Book_title':'Mudbound'
+Manually_identified_main_topic_words: WWII, 
+Summary: "Mudbound" by Hillary Jordan is a historical fiction novel set in post-WWII Mississippi. The story is told from six different viewpoints and deals with themes of racism, family, friendship, tragedy, and forbidden love. 
+Manual decision:
+Reason:
+
+
+'Book_number':'13'
+'Book_id':'9736930'
+'Book_title':'Before I Go to Sleep'
+Manually_identified_main_topic_words: suspense, mystery, thriller, amnesia, memory loss 
+Summary: "Before I Go to Sleep" is a psychological thriller novel by S.J. Watson which tells the story of Christine, who wakes up every day with no memory of her past.  
+Manual decision:
+Reason:
+
+
+'Book_number':'14'
+'Book_id':'9677549'
+'Book_title':'Disturbed'
+Manually_identified_main_topic_words: thriller, suspense, serial killer, mystery, horror, 
+Summary: "Disturbed" by Kevin O'Brien is a thriller and mystery novel with a complex plot that involves a serial killer named the Cul-de-Sac Killer. 
+Manual decision:
+Reason:
+
+
+'Book_number':'15'
+'Book_id':'10169662'
+'Book_title':'Never Knowing'
+Manually_identified_main_topic_words: family, serial killer, suspense, thriller, 
+Summary: "Never Knowing" by Chevy Stevens is a psychological thriller novel that revolves around Sara Gallagher, an adopted child who searches for her biological mother, only to discover that her biological father is a serial killer.
+Manual decision: Not surprising
+Reason:  9, 10, 13, 14
+
+
+'Book_number':'16'
+'Book_id':'6606456'
+'Book_title':'The Scent of Rain and Lightning'
+Manually_identified_main_topic_words: murder, mystery, suspense, family, small town
+Summary: "The Scent of Rain and Lightning" by Nancy Pickard is a murder mystery novel set in a small town. The story revolves around a young woman named Jody Linder whose parents were killed 20 years ago.
+Manual decision: Not surprising
+Reason: 1, 2, 3, 9, 10, 13, 14
+
+
+'Book_number':'17'
+'Book_id':'6853'
+'Book_title':'One for the Money (Stephanie Plum, #1)'
+Manually_identified_main_topic_words: Humor, laugh, family, romance, crime, mystery, 
+Summary: The novel "One for the Money" by Janet Evanovich is the first book in the Stephanie Plum series that features the themes of humor, mystery, crime, family, and romance. 
+Manual decision: Surprising
+Reason: Humor and laugh
+
+
+'Book_number':'18'
+'Book_id':'10378606'
+'Book_title':'The Color of Heaven (The Color of Heaven, #1)'
+Manually_identified_main_topic_words: family, love, relationship, tragedy, cancer, mother
+Summary: The Color of Heaven is a novel about Sophie, who has a happy life with her husband and daughter, until her daughter is diagnosed with cancer. The story depicts the relationship between mother and daughter, and explores the themes of love, courage, hope, grief, and tragedy.
+Manual decision: Surprising
+Reason: Cancer, tragedy
+
+
+'Book_number':'19'
+'Book_id':'6427'
+'Book_title':'Two for the Dough (Stephanie Plum, #2)'
+Manually_identified_main_topic_words: humor, mystery, 
+Summary: "Two for the Dough" is the second book in the Stephanie Plum series by Janet Evanovich that features the themes of humor, mystery, crime, family, and romance.
+Manual decision: Not surprising
+Reason: 17
+
+
+'Book_number':'20'
+'Book_id':'10108463'
+'Book_title':'The Devil All the Time'
+Manually_identified_main_topic_words: violent, serial killer, murder, religion
+Summary: "The Devil All The Time" by Donald Ray Pollock is a novel that portrays a cast of characters that seldom experience anything good, as they move through a landscape of poverty and violence, killing, raping, faith and religion, lying, drinking.
+Manual decision: Surprising
+Reason: Religion and faith
+
+
+'Book_number':'21'
+'Book_id':'8612987'
+'Book_title':'Skipping a Beat'
+Manually_identified_main_topic_words: marriage, money, relationship, love, family
+Summary: "Skipping a Beat" by Sarah Pekkanen is a novel about a couple, Julia and Michael, whose marriage has become a sham. The book explores the marriage life conflicts, family relationship, and idea of love
+Manual decision: Surprising
+Reason: Marriage life
+
+
+'Book_number':'22'
+'Book_id':'12118029'
+'Book_title':'Splitsville.com (Olivia Davis Paranormal Mystery, #1)'
+Manually_identified_main_topic_words: murder, mystery, romance, paranormal
+Summary: "Splitsville.com" is the first book in the Olivia Davis Paranormal Mystery series that features the themes of paranormal activity, murder investigation, mystery, and romance.
+Manual decision: Not surprising
+Reason: 0, 1, 6, 8, 9, 10, 13, 14, 15
+
+
+'Book_number':'23'
+'Book_id':'1217100'
+'Book_title':'Thirteen Reasons Why'
+Manually_identified_main_topic_words: 
+Manually_identified_main_topic_words: Hannah, friend, suicide, tragedy, teen, Clay, girl, reason, student
+Summary: The novel "Thirteen Reasons Why" by Jay Asher tells the tragic suicide of a teenage girl named Hannah, exploring the reasons behind her decision and the involvement of her friends.    
+Manual decision: Not Surprising
+Reasonas: 18, 12, 4, 2, 1
+
+
+'Book_number':'24'
+'Book_id':'11987551'
+'Book_title':'The Gift of Illusion: A Paranormal Thriller'
+Manually_identified_main_topic_words: murder, mystery, detective, evil, scary
+Summary: "The Gift of Illusion: A Paranormal Thriller" is a horror and mystery novel that tells the story of a police detective who is haunted by the murder of his wife.
+Manual decision: Not surprising
+Reason: 0, 1, 6, 8, 9, 10, 13, 14
+
+
+'Book_number':'25'
+'Book_id':'10313480'
+'Book_title':'Untouchable'
+Manually_identified_main_topic_words: grief, death, family, trauma, father, mother
+Summary: The book "Untouchable" is about David Darby that explores an emotional journey of suicide, depression, bullying, grief, and family dynamics.
+Manual decision: Not surprising
+Reason: 8, 11, 12, 16, 18, 23, 
+
+
+'Book_number':'26'
+'Book_id':'11405641'
+'Book_title':'Already Gone'
+Manually_identified_main_topic_words: suspense, mystery, thriller, twists, crime, violence, investigation
+Summary: Already Gone by John Rector is a mystery crime novel that follows the story of Jake Reese, a university professor, and is filled with violence, thrills, twists and turns, and surprises.
+Manual decision: Not surprising
+Reason:  0, 1, 6, 8, 9, 10, 13, 14, 15, 16, 24
+
+
+'Book_number':'27'
+'Book_id':'9680533'
+'Book_title':'Ten Thousand Saints'
+Manually_identified_main_topic_words: family, drug, teenagers, AIDS, friendship
+Summary: "Ten Thousand Saints" by Eleanor Henderson is set in the late 1980s in New York City. The book uses the backdrop of the AIDS crisis and explores the themes of friendship, drug addiction, grief, and family relationships.
+Manual decision: Surprising
+Reason: Drug, AIDS
+
+
+'Book_number':'28'
+'Book_id':'10779721'
+'Book_title':'Dead of Night (Dead of Night, #1)'
+Manually_identified_main_topic_words: Zombie, horror, fear, survival, serial killer, infection, bio weapon
+Summary: "Dead of Night" by Jonathan Maberry is a zombie horror novel that explores the story of a serial killer who is injected with a bio-weapon. The killer awakens as a zombie and the infection spreads rapidly.
+Manual decision: Surprising
+Reason: Zombie, bio weapon, infection
+
+
+'Book_number':'29'
+'Book_id':'10818853'
+'Book_title':'Fifty Shades of Grey (Fifty Shades, #1)'
+Manually_identified_main_topic_words: erotic sex, BDSM, romance, abuse, erotica
+Summary: "Fifty Shades of Grey" by E.L. James centers around Anastasia Steele and Christian Grey and is filled with erotic sex scenes, romance and BDSM relationships.
+Manual decision: Surprising
+Reason: sex, erotic
+
+
+'Book_number':'30'
+'Book_id':'6314763'
+'Book_title':'Orange Is the New Black'
+Manually_identified_main_topic_words: prison, criminal, drug addicts, memoir
+Summary: "Orange is The New Black" is a memoir by Piper Kerman that provides insight into the author's experience of being incarcerated in a women's prison and it is a nice depiction of prison life. 
+Manual decision: Surprising
+Reason: Prison life
+
+
+'Book_number':'31'
+'Book_id':'1170202'
+'Book_title':'The Madness of Mary Lincoln'
+Manually_identified_main_topic_words: Mental illness, Bipolar disorder, 
+Summary: "Mary Lincoln's Insanity" by Jason Emerson is a historical account of the life of Mary Lincoln that explores the themes of mental illness and bipolar disorder.
+Manual decision: Surprising
+Reason: Mental illness and bipolar disorder
+
+
+'Book_number':'32'
+'Book_id':'13111441'
+'Book_title':'The Greatcoat'
+Manually_identified_main_topic_words: gothic, post-war II England, mystery, ghost, haunting
+Summary: The Greatcoat" by Helen Dunmore is a post-WWII ghost story with some mystery and haunting plots.
+Manual decision: Not surprising 
+Reason: 14, 24, 12
+
+
+'Book_number':'33'
+'Book_id':'11510910'
+'Book_title':'Shatter Me (Shatter Me, #1)'
+Manually_identified_main_topic_words: love, romance, relationship, twists
+Summary: "Shatter Me" is a young adult dystopian novel, the first book in the Shatter Me Trilogy by Tahereh Mafi. The book explores the themes of love, romance, and relationship with some unexpected twists.
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5
+
+
+'Book_number':'34'
+'Book_id':'15706142'
+'Book_title':'River Rising'
+Manually_identified_main_topic_words: violence, revenge, attack, father, daughter
+Summary: The book "River Rising" tells the story of a dangerous psychopath, and a father and daughter. The book includes some violences and attacks.  
+Manual decision: Not surprising
+Reason:9, 14, 15
+
+
+'Book_number':'35'
+'Book_id':'928940'
+'Book_title':'Remember Me'
+Manually_identified_main_topic_words: historical fiction, (Mary Bryant, convicts, historical fiction, resilience, survival, Port Jackson, Australia, resourcefulness, true story, strength.)
+Summary: The book is a historical fiction based on the true story of Mary Bryant, a young girl from Cornwall who is sentenced to transportation to Australia for stealing a hat. The book explores the harsh realities of life for convicts on the First Fleet, the struggles and difficulties of survival in the new land.
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5, 12, 60
+
+
+'Book_number':'36'
+'Book_id':'12384157'
+'Book_title':'The Dressmaker'
+Manually_identified_main_topic_words: Titanic, survival, romance, historical fiction, tragedy
+Summary: The Dressmaker is a historical fiction novel that takes place after the Titanic tragedy. The story has a romantic triangle plot between Tess, a noble sailor, and a dashing millionaire.
+Manual decision: Not surprising 
+Reason: romance, historical fiction, tragedy
+
+
+'Book_number':'37'
+'Book_id':'7840833'
+'Book_title':'The Memory Palace'
+Manually_identified_main_topic_words: Mental illness, childhood, love, memory, family, Schizophrenia
+Summary: The Memory Palace by Mira Bartok is a memoir about the author's experience growing up with a mother who suffered from schizophrenia. The book explores the themes of mental illness, childhood experience, and enduring love among family members.
+Manual decision: surprising
+Reason: Schizophrenia
+
+
+'Book_number':'38'
+'Book_id':'10158138'
+'Book_title':'The Other Life'
+Manually_identified_main_topic_words: boyfriend, family, mother, son, relationship
+Summary: The novel "The Other Life" explores Quinn's life, a happily married woman and relationships with her neighbor and family members like son, husband, brother.
+Manual decision: Not surprising
+Reason: 1, 2, 3, 5, 8, 11, 12, 16
+
+
+'Book_number':'39'
+'Book_id':'8792472'
+'Book_title':'Matched (Matched, #1)'
+Manually_identified_main_topic_words: romance, love triangle, rebellion
+Summary: "Matched" by Ally Condie is a young adult, dystopian novel that takes place in a future society where everything is controlled and monitored by the government. The book explores the themes of control, choice, and rebellion, as well as touches on topics of love triangle and romance. 
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5
+
+
+'Book_number':'40'
+'Book_id':'6751356'
+'Book_title':'Wench'
+Manually_identified_main_topic_words: slavery, oppression, freedom, women, love, family
+Summary: "Wench" by Dolen Perkins-Valdez is a historical fiction novel set in the 1840s that explores the lives of four slave women who are mistresses to their slave owners. The book explores the themes of slavery, oppression, and freedom.
+Manual decision: Surprising
+Reason: Slavery, oppression
+
+
+'Book_number':'41'
+'Book_id':'12037026'
+'Book_title':'Come Home'
+Manually_identified_main_topic_words: family, love, mystery, detective, investigation
+Summary: "Come Home" by Lisa Scottoline is a detective novel that explores the themes of family, love, mystery investigation, and danger. 
+Manual decision: Not surprising
+Reason: 0, 1, 6, 8, 9, 10, 13, 14, 15, 16, 24
+
+
+'Book_number':'42'
+'Book_id':'12870772'
+'Book_title':'The Bungalow'
+Manually_identified_main_topic_words: WWII, Pacific Ocean, historical fiction, nurses
+Summary: The book is a historical fiction novel written by Sarah Jio that explores the lives of nurses during WWII, particularly focusing on a young woman who signed up for nursing duty out in the Pacific Ocean. 
+Manual decision: Surprising
+Reason: Nurses, Pacific Ocean
+
+
+'Book_number':'43'
+'Book_id':'12331596'
+'Book_title':'Blue Asylum'
+Manually_identified_main_topic_words: Civil war, historical fiction, slavery, women's right, asylum, PTSD, Mental illness, trauma
+Summary: "Blue Asylum" is a historical fiction novel set in an asylum during the American Civil War.
+Manual decision:  Not surprising
+Reason: 31, 32, 42, 40
+
+
+'Book_number':'44'
+'Book_id':'9643875'
+'Book_title':'The First Day of the Rest of My Life'
+Manually_identified_main_topic_words: childhood, family, grandparents, sexual abuse, sister
+Summary: The book "The First Day of the Rest of My Life" by Cathy Lamb is a heart-wrenching story about Madeline and Annie, two sisters still grappling with the emotional damage caused by childhood sexual abuse.
+Manual decision: Not surprising
+Reason: 3, 5, 8, 11, 12, 16
+
+
+'Book_number':'45'
+'Book_id':'12868761'
+'Book_title':'Let's Pretend This Never Happened: A Mostly True Memoir'
+Manually_identified_main_topic_words: Humor, sarcasm, childhood, family, animals, anxiety, depression
+Summary: The book is a memoir of Jenny Lawson's life, in which she talks about her childhood and her own struggles with anxiety, depression, and social awkwardness. The book is highly entertaining and funny with many humorous anecdotes
+Manual decision: Not surprising
+Reason: 5, 8, 11, 12, 25, 17, 23, 27,
+
+
+'Book_number':'46'
+'Book_id':'11735983'
+'Book_title':'Insurgent (Divergent, #2)'
+Manually_identified_main_topic_words: dystopian*, Roth, Veronica (Same book series of book number 14)
+Summary: It is the second book in the series of Divergent written by Veronica Roth that includes the themes of dystopian thrillers and romance.
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5, 13, 14, 15, 16, 24
+
+
+'Book_number':'47'
+'Book_id':'32530'
+'Book_title':'The Third Victim (Quincy & Rainie, #2)'
+Manually_identified_main_topic_words: serial killer, murder, mystery, FBI, thriller, suspense
+Summary: "The Third Victim" by Lisa Gardner is the second book in the Quincy and Rainie series. The book can be an enjoyable read to those who love to read thrilling and murder mystery novels, also related to FBI and serial killers. 
+Manual decision: Not surprising
+Reason: 9, 10, 13, 14, 15, 16, 24
+
+
+'Book_number':'48'
+'Book_id':'764347'
+'Book_title':'Unwind (Unwind, #1)'
+Manually_identified_main_topic_words: abortion, Haunting, child abuse
+Summary: The book explores the concept of unwinding, which involves the harvesting of a teenager's organs and body parts to be used in transplants. The book explores the theme of abortion and child abuse.
+Manual decision: Surprising
+Reason: abortion, child abuse
+
+
+'Book_number':'49'
+'Book_id':'12262741'
+'Book_title':'Wild: From Lost to Found on the Pacific Crest Trail'
+Manually_identified_main_topic_words: Grief, addiction, relationship, adventure, hiking
+Summary: "Wild: From Lost to Found on the Pacific Crest Trail" is a memoir that tells the story of the author's three-month journey hiking the Pacific Crest Trail. The book can be a journey of self-discovery, struggling with grief, and personal growth.
+Manual decision: Not surprising
+Reason: 4, 6, 12, 16, 18 
+
+
+'Book_number':'50'
+'Book_id':'13627570'
+'Book_title':'Dunaway's Crossing'
+Manually_identified_main_topic_words: world war, flu epidemic
+Summary: "Dunaway's Crossing" by Nancy Brandon is a novel set in 1918, in Savannah and Pineview, Georgia, during the flu epidemic and the end of World War 1. 
+Manual decision: Surprising
+Reason: flu epidemic
+
+
+'Book_number':'51'
+'Book_id':'12854633'
+'Book_title':'Heartbroken'
+Manually_identified_main_topic_words: Family, thriller, love, mother, daughter, relationship
+Summary: "Heartbroken" by Lisa Unger is a family drama that explores the lives of three women (mother and two daughters) and their complex relationships with some thrilling plots.
+Manual decision: Not surprising
+Reason: 1, 2, 3, 5, 8, 11, 12, 16
+
+
+'Book_number':'52'
+'Book_id':'13395137'
+'Book_title':'Lost Girls'
+Manually_identified_main_topic_words: crime, killer, tragedy, murder, investigation, 
+Summary: The book is a true crime story that explores the life of John Gardner, a sexual predator who committed crimes, and the themes of murder, crime and investigation. 
+Manual decision: Not surprising
+Reason: 9, 14, 15, 18, 12
+
+
+'Book_number':'53'
+'Book_id':'657034'
+'Book_title':'Heartsick (Archie Sheridan & Gretchen Lowell, #1)'
+Manually_identified_main_topic_words: serial killer, detective, murder case, violence, suspense, thriller, psychological
+Summary: "Heartsick" is the first book in the Archie Sheridan & Gretchen Lowell series that follows the story of a detective named Archie Sheridan who was kidnapped, tortured and then released by a serial killer.
+Manual decision: Not surprising
+Reason: 9, 14, 15, 10, 13
+
+
+'Book_number':'54'
+'Book_id':'6193923'
+'Book_title':'Evil at Heart (Archie Sheridan & Gretchen Lowell, #3)'
+Manually_identified_main_topic_words: serial killer, murder, suspense, thriller, police
+Summary: "Evil at Heart" is the third book in the Archie Sheridan & Gretchen Lowell series, a thriller series, where the serial killer named Gretchen Lowell starts a new series of murders.
+Manual decision: Not surprising
+Reason: 53
+
+
+'Book_number':'55'
+'Book_id':'3181564'
+'Book_title':'The Housekeeper and the Professor'
+Manually_identified_main_topic_words: memory loss, friendship, family, love, professor, 
+Summary: "The Housekeeper and the Professor" by Yoko Ogawa is a novel about a friendship that centers around the Professor, who can only retain 80 minutes of memory due to a head injury from a car accident, and the Housekeeper, who cares for him. 
+Manual decision: Not surprising 
+Reason: 13, 55, 1, 2, 4, 5
+
+
+'Book_number':'56'
+'Book_id':'12933642'
+'Book_title':'The Woman Who Wasn't There: The True Story of an Incredible Deception'
+Manually_identified_main_topic_words: friends, abusive
+Summary: The book is about Tania Head, a woman who created an elaborate story about being a survivor of the September 11th terrorist attacks on the World Trade Center in New York. 
+Manual decision: Not surprising
+Reason: 9, 14, 29
+
+
+'Book_number':'57'
+'Book_id':'12982393'
+'Book_title':'Dare Me'
+Manually_identified_main_topic_words: murder, teenagers, school, relationship, psychological
+Summary: "Dare Me" by Megan Abbott is a psychological thriller set in the world of high school cheerleading. The novel explores themes of friendship, body image, eating disorders, desperation, and the complexities of female relationships.
+Manual decision: Not surprising
+Reason: 5, 23, 27,
+
+
+'Book_number':'58'
+'Book_id':'11958033'
+'Book_title':'Ten'
+Manually_identified_main_topic_words: Murder, Mystery, Teenagers, Thriller, Horror
+Summary: "Ten" is a young adult novel by Gretchen McNeil that features the themes of murder, mystery, teenagers, thriller and horror.
+Manual decision: Not surprising
+Reason: 10, 13, 14, 15, 16, 24
+
+
+'Book_number':'59'
+'Book_id':'42899'
+'Book_title':'Dark Lover (Black Dagger Brotherhood, #1)'
+Manually_identified_main_topic_words: romance, vampire, love, sex
+Summary: "Dark Lover," the first book in J.R. Ward's "Black Dagger Brotherhood" series, tells the story of Beth, a half-breed vampire who doesn't know she is anything other than human. The book contains foul language, explicit sex and romance, and violence.  
+Manual decision: Surprising
+Reason: vampire
+
+
+'Book_number':'60'
+'Book_id':'11870085'
+'Book_title':'The Fault in Our Stars'
+Manually_identified_main_topic_words: love*, stars, cancer*, pain, John, Green, movie
+Summary: "The Fault in Our Stars" by John Green is a book that explores the themes of love and romance. The story revolves around a main character who develops cancer, leading to a painful and tragic ending for the readers. 
+Manual decision: Not surprising
+Reason: 18, 12, 2, 4, 5
+
+
+'Book_number':'61'
+'Book_id':'15825932'
+'Book_title':'In the Tall Grass'
+Manually_identified_main_topic_words: horror, supernatural, mystery
+Summary: This book, written by Stephen King and Joe Hill, is a horror story about a family that gets hopelessly lost in a field of tall weeds. The story is a mix of horror, mystery, and survival, with disturbing details about cannibalism.
+Manual decision: Not surprising
+Reason: 14, 24
+
+
+'Book_number':'62'
+'Book_id':'13542703'
+'Book_title':'The Hiding Place'
+Manually_identified_main_topic_words: murder, family secrets, crime, investigation, suspense, trauma, thriller
+Summary: "The Hiding Place" by David Bell is a suspenseful novel that centers around the disappearance and murder of four-year-old Justin Manning 25 years ago. The book offers many twists and turns, thrilling plots.
+Manual decision: Not surprising
+Reason: 31, 43, 10, 13, 14, 15, 16, 24
+
+
+'Book_number':'63'
+'Book_id':'13547215'
+'Book_title':'Red Rain'
+Manually_identified_main_topic_words: horror, twins, family
+Summary: "Red Rain" written by R.L. Stine is a horror novel for adults, and follows the story of Lea, an amateur travel blogger.
+Manual decision: Not surprising
+Reason: 14, 24
+
+
+'Book_number':'64'
+'Book_id':'12368985'
+'Book_title':'Consequences (Consequences, #1)'
+Manually_identified_main_topic_words: romance, suspense, thriller, 
+Summary: "Consequences" by Aleatha Romig is a suspenseful and intense novel that follows the story of Claire Nichols and Anthony Rawlings with intense romantic thriller plots. 
+Manual decision: Not surprising
+Reason: 1, 2, 3, 14, 15, 16, 24
+
+
+'Book_number':'65'
+'Book_id':'10805160'
+'Book_title':'Broken Harbour (Dublin Murder Squad, #4)'
+Manually_identified_main_topic_words: mystery, suspense, psychological, crime, detective, investigation, 
+Summary: "Broken Harbour" is a psychological crime thriller written by Tana French that revolves around detective Mick Kennedy and his rookie partner Richie Curran.
+Manual decision: Not surprising
+Reason: 1, 6, 8, 9, 10, 13, 14, 15, 16, 24
+
+
+'Book_number':'66'
+'Book_id':'7093952'
+'Book_title':'Faithful Place (Dublin Murder Squad, #3)'
+Manually_identified_main_topic_words: mystery, crime, thriller, and murder
+Summary: "Faithful Place" is the third book in the Dublin Murder Squad series that includes the themes of mystery, crime, thriller, and murder.
+Manual decision: Not surprising
+Reason: 65
+
+
+'Book_number':'67'
+'Book_id':'12649718'
+'Book_title':'Me Before You (Me Before You, #1)'
+Manually_identified_main_topic_words: romantic, love, tragedy, friendship
+Summary: "Me Before You" is a tragic romantic drama that follows the story of Lou, who loses her job and becomes a carer for a wealthy paralyzed man named Will.
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5, 60
+
+
+'Book_number':'68'
+'Book_id':'15797938'
+'Book_title':'The Dinner'
+Manually_identified_main_topic_words: psychological, thriller, family, children
+Summary: The Dinner by Herman Koch is a psychological thriller that tells the story of two families that come together over dinner to discuss their children's actions.
+Manual decision: Not surprising
+Reason: 0, 1, 6, 7, 8, 9, 5, 23,
+
+
+'Book_number':'69'
+'Book_id':'16115612'
+'Book_title':'And the Mountains Echoed'
+Manually_identified_main_topic_words: War, Afghanistan
+Summary: "And the Mountains Echoed" is a novel written by Khaled Hosseini that explores the lives of different characters who are connected in some way, whether by blood, friendship, or chance. The book takes place in different locations, including Afghanistan, Paris, San Francisco, and Tinos, and is centered around the themes of war, displacement, poverty, and identity. 
+Manual decision: Surprising
+Reason: Covers different locations including  Afghanistan, Paris, San Francisco, and Tinos
+
+
+'Book_number':'70'
+'Book_id':'16130291'
+'Book_title':'The Silver Star'
+Manually_identified_main_topic_words: Virginia, sisters, war, civil rights, mental illness
+Summary: "The Silver Star" by Jeannette Walls is a novel that centers on two sisters, Bean and Liz, and it includes the themes of child neglect, sexual assault, mental illness, corporatization, and the Vietnam War.
+Manual decision: Not surprising
+Reason: 12, 32, 43, 42, 31, 43
+
+
+'Book_number':'71'
+'Book_id':'15783514'
+'Book_title':'The Ocean at the End of the Lane'
+Manually_identified_main_topic_words: fantasy, childhood memories, fairytale, supernatural 
+Summary: "The Ocean at the End of the Lane" by Neil Gaiman is a novel about a middle-aged man who returns to his childhood town and remembers a fantastic event that happened to him as a boy. The book is a haunting and fascinating story that explores childhood, friendship, and the supernatural.
+Manual decision: Not surprising
+Reason: 6, 27, 57, 60
+
+
+'Book_number':'72'
+'Book_id':'16171291'
+'Book_title':'The Silent Wife'
+Manually_identified_main_topic_words: murder, psychological mystery, thriller, marriage
+Summary: The Silent Wife is a psychological mystery thriller that tells the story of a flawed couple, Todd and Jodi and their dysfunctional marriage life. 
+Manual decision: Not surprising
+Reason: 10, 13, 14, 15, 16, 21, 24
+
+
+'Book_number':'73'
+'Book_id':'16158525'
+'Book_title':'The Never List'
+Manually_identified_main_topic_words: Trauma, PTSD, thriller, horror, mystery, religious, twists
+Summary: The Never List by Koethi Zan is a psychological suspense novel about two best friends Sarah and Jennifer who, after surviving a car accident as teenagers. The book is a mix of intense suspense and plot flaws, including the predictability of twists and shallow character development. 
+Manual decision: Not surprising
+Reason: 31, 43, 14, 24
+
+
+'Book_number':'74'
+'Book_id':'10112885'
+'Book_title':'Night Film'
+Manually_identified_main_topic_words: mystery, horror, investigation, death, 
+Summary: "Night Film" is a murder mystery novel that tells the story of Scott McGrath, a disgraced journalist, who investigates the apparent suicide of Ashley Cordova, the daughter of a reclusive horror film director, Stanislas Cordova. 
+Manual decision:Not surprising
+Reason: 10, 13, 14, 15, 16, 24
+
+
+'Book_number':'75'
+'Book_id':'18007535'
+'Book_title':'The Winter People'
+Manually_identified_main_topic_words: creepy, horror, suspense
+Summary: "The Winter People" by Jennifer McMahon is a suspenseful horror mystery novel that follows two different timelines, the early 1900s and the present day. The story revolves around a family living in a small farmhouse in Vermont, where they uncover secrets and mysterious happenings.
+Manual decision: Not surprising
+Reason: 10, 13, 14, 15, 16, 24
+
+
+'Book_number':'76'
+'Book_id':'17348985'
+'Book_title':'Help for the Haunted'
+Manually_identified_main_topic_words: mystery, religion, haunting, paranormal, family, murder, ghost 
+Summary: "Help for the Haunted" by John Searles is a murder mystery novel that revolves around the life of two sisters named Sylvie and Rose, whose parents are known for providing relief to those plagued by hauntings and were murdered one stormy night.
+Manual decision: Not surprising
+Reason: 10, 13, 14, 15, 16, 24
+
+
+'Book_number':'77'
+'Book_id':'18145264'
+'Book_title':'Invisible Killer: The Monster Behind the Mask'
+Manually_identified_main_topic_words: crime, murder, killer, 
+Summary: The novel "Invisible Killer: The Monster Behind the Mask" revolves around a man named Charlie who committed terrible crimes against people, including attempting to kill his own family members, but managed to evade detection for a long time.
+Manual decision: Not surprising
+Reason: 9, 14, 15
+
+
+'Book_number':'78'
+'Book_id':'24800'
+'Book_title':'House of Leaves'
+Manually_identified_main_topic_words: horror, mystery
+Summary: "House of Leaves" is a horror mystery book that tells multiple horror stories simultaneously.
+Manual decision: Not surprising
+Reason: 14, 24, 75
+
+
+'Book_number':'79'
+'Book_id':'20821614'
+'Book_title':'You (You, #1)'
+Manually_identified_main_topic_words: horror, psychological, thriller, dark
+Summary: "You" by Caroline Kepnes is a dark and thrilling novel about a charming yet psychopath man named Joe Goldberg who is infatuated with Guinevere Beck, an MFA student he meets in his bookstore.
+Manual decision: Not surprising
+Reason: 7, 14, 24, 75
+
+
+'Book_number':'80'
+'Book_id':'19987376'
+'Book_title':'The Farm'
+Manually_identified_main_topic_words: crime, mystery, truth, suspense, conspiracy
+Summary: The Farm by Tom Rob Smith is a psychological thriller that tells the story of a mother named Tilde who makes fantastical claims against her husband and his friend. Her son, Daniel, must decide whether his mother is psychotic or his father is a villain.
+Manual decision: Not surprising
+Reason: 7, 14, 24, 75
+
+
+'Book_number':'81'
+'Book_id':'18775247'
+'Book_title':'Mr. Mercedes (Bill Hodges Trilogy, #1)'
+Manually_identified_main_topic_words: detective, thriller, suspense, Mercedes Killer, retired cop, murderer, mystery
+Summary: "Mr. Mercedes" is a crime thriller by Stephen King that tells the story of Bill Hodges, a retired detective who becomes obsessed with catching a mass murderer known as Mr. Mercedes. 
+Manual decision: Not surprising
+Reason: 9, 14, 15, 16, 24
+
+
+'Book_number':'82'
+'Book_id':'20670302'
+'Book_title':'The Virtues of Oxygen'
+Manually_identified_main_topic_words: family, friendship, small town
+Summary: "The Virtues of Oxygen" is a novel that tells the story of Holly and Vivian, two resilient characters who are trapped in different ways. The novel explores the themes of friendship, family, and the impact of technology on a small town.
+Manual decision: Not surprising
+Reason: 1, 2, 3, 5
+
+
+'Book_number':'83'
+'Book_id':'20808520'
+'Book_title':'Sleep Tight (DCI Tom Douglas, #3)'
+Manually_identified_main_topic_words: murder, suspense, thriller, domestic abuse, mystery, psychological thriller
+Summary: Sleep Tight by Rachel Abbott is a suspenseful thriller set in Manchester, where Olivia Brookes is silently terrorized by her husband.  The book explores the themes of obsession, control, domestic abuse, and parental love.
+Manual decision: Not surprising
+Reason: 0, 1, 6, 8, 9, 10, 13, 14, 15, 16
+
+
+'Book_number':'84'
+'Book_id':'21535682'
+'Book_title':'Dear Thief'
+Manually_identified_main_topic_words: love, relationship, emotions, heart, friendship, memories
+Summary: The book is a novel in the form of letters written by an unnamed narrator to her friend, Butterfly, who disappeared twenty years ago and it contains the narrator's life story, her memories, and experiences.
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5, 60
+
+
+'Book_number':'85'
+'Book_id':'18051950'
+'Book_title':'Obsessed'
+Manually_identified_main_topic_words: psychopath, love triangle, crime, obsession
+Summary: "Obsessed" by M. William Phelps is a true crime book that tells the story of Sheila Davalloo, a young, attractive and successful medical researcher who was involved in a love triangle with Nelson and Anna Lisa.
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5, 7, 60
+
+
+'Book_number':'86'
+'Book_id':'21888223'
+'Book_title':'Because She Loves Me'
+Manually_identified_main_topic_words: psychological thriller, mystery, crime, suspense, love
+Summary: "Because She Loves Me" by Mark Edwards is a psychological mystery thriller about the relationship between Andrew, a freelance web designer, and Charlie, an intense and passionate woman whom he believes is the love of his life. 
+Manual decision: Not surprising
+Reason: 6, 8, 9, 10, 13, 14,
+
+
+'Book_number':'87'
+'Book_id':'15701217'
+'Book_title':'The Woman Upstairs'
+Manually_identified_main_topic_words: friendship, female, betrayal, relationship, 
+Summary: The book is a psychological thriller about Nora, a woman who has lost her identity and is trying to reclaim it. The narrative explores Nora's anger and obsession, as well as her betrayal and self-absorption, and a tangled web of relationships and friendship. 
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5, 60
+
+
+'Book_number':'88'
+'Book_id':'18693763'
+'Book_title':'Everything I Never Told You'
+Manually_identified_main_topic_words: family, secrets, dysfunction, racism, sexism 
+Summary: The book "Everything I Never Told You" by Celeste Ng is about the Lee family and the death of their daughter, Lydia. The book explores the family dynamics, secrets, and communication issues that lead to the tragic event as well as sexism and the changing roles of women in the US. 
+Manual decision: Not surprising
+Reason: , 2, 3, 5, 8, 11, 12
+
+
+'Book_number':'89'
+'Book_id':'23238610'
+'Book_title':'All Good Deeds (Lucy Kendall, #1)'
+Manually_identified_main_topic_words: missing child, psychological thriller, private investigator, mystery 
+Summary: "All Good Deeds" is a psychological  mystery thriller by Stacy Green and the first book in the Lucy Kendall series. The story centered around Lucy Kendall, a private investigator who seeks justice for abused children.
+Manual decision: Not surprising
+Reason: 9, 10, 13, 14, 15, 16, 24, 29
+
+
+'Book_number':'90'
+'Book_id':'22557272'
+'Book_title':'The Girl on the Train'
+Manually_identified_main_topic_words: mystery, thriller, murder, psychological, alcohol
+Summary: "The Girl on the Train" by Paula Hawkins is a mystery-thriller novel that follows Rachel, a lonely alcoholic who rides the train daily and daydreams about the lives of people she observes from the window.
+Manual decision: Not surprising
+Reason: 9, 10, 13, 14, 15, 16, 24, 29
+
+
+'Book_number':'91'
+'Book_id':'23360962'
+'Book_title':'The Crooked House'
+Manually_identified_main_topic_words: boyfriend, family, tragedy
+Summary: "The Crooked House" can be a great read for those who like to read family oriented and love stories.
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5, 60
+
+
+'Book_number':'92'
+'Book_id':'17667688'
+'Book_title':'The Sleeper'
+Manually_identified_main_topic_words: British, London, murder, investigation, secrets, train, twist
+Summary: "The Sleeper" is a British mystery novel written by Emily Barr, telling the story of Lara and her husband Sam, who moved to Cornwall for a slower life and to start a family.  The book is recommended for readers who enjoy suspenseful mysteries with unexpected twists. 
+Manual decision: Surprising
+Reason: British and London
+
+
+'Book_number':'93'
+'Book_id':'22725443'
+'Book_title':'Hausfrau
+Manually_identified_main_topic_words: marriage, love, sex, adultery 
+Summary: Hausfrau is a novel by Jill Alexander Essbaum, which tells the story of Anna, an American woman living in Switzerland with her Swiss husband and three children. It is recommended for those who like to read family dynamics, marriage dynamics, and love stories. 
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5, 21, 72
+
+
+'Book_number':'94'
+'Book_id':'18498558'
+'Book_title':'Bird Box'
+Manually_identified_main_topic_words: creepy, suspense, horror, thriller
+Summary: Bird Box by Josh Malerman is a horror/suspense novel that explores a world in which people go insane when they look at an unknown creature. The book can be described as creepy, suspenseful, and dystopian, and it deals with themes such as mental illness and the possibility of other life-forms.
+Manual decision: Not surprising
+Reason: 31, 43, 14, 24, 75
+
+
+'Book_number':'95'
+'Book_id':'57951'
+'Book_title':'The Watchman (Elvis Cole, #11; Joe Pike, #1)'
+Manually_identified_main_topic_words: crime, mystery, thriller, detective, friendship
+Summary: "The Watchman" by Robert Crais is the first book in the Joe Pike series, a spin-off of the Elvis Cole series. It can be an enjoyable read for those who like to read crime, mystery, thriller, and detective.
+Manual decision: Not surprising
+Reason: 9, 10, 13, 14, 15, 16, 24
+
+
+'Book_number':'96'
+'Book_id':'23278264'
+'Book_title':'At the Water's Edge'
+Manually_identified_main_topic_words: WWII, war, love story
+Summary: "At the Water's Edge" by Sarah Gruen is a historical fictional romantic novel set in Highland Scotland during World War II.
+Manual decision: Not surprising
+Reason: 1, 2, 3, 12, 32, 43
+
+
+'Book_number':'97'
+'Book_id':'17349173'
+'Book_title':'The Whole Golden World'
+Manually_identified_main_topic_words: teacher, student, family, scandal, relationship, affair
+Summary: "The Whole Golden World" by Kristina Riggle is a novel that explores the complexities of power dynamics in relationships, especially in the context of a teacher-student romantic relationship.
+Manual decision: Not surprising
+Reason: 1, 2, 4, 5, 60
+
+
+'Book_number':'98'
+'Book_id':'24516182'
+'Book_title':'The Book of You'
+Manually_identified_main_topic_words: psychological thriller, sexual assault
+Summary: "The Book of You" is a psychological thriller about Clarissa, who is being stalked by a manipulative man named Rafe whom she works with. 
+Manual decision: Not surprising
+Reason: 13, 14, 15, 16, 24
+
+
+'Book_number':'99'
+'Book_id':'23450259'
+'Book_title':'The Bones of You'
+Manually_identified_main_topic_words: psychological thriller, mystery crimes, missing friends
+Summary: "Perfect as it seems" is a psychological thriller that revolves around Grace's school friend, Rosie, who goes missing and is later found dead in the woods.
+Manual decision: Not surprising
+Reason: 13, 14, 15, 16, 24
+
+
+'Book_number':'100'
+'Book_id':'23492595'
+'Book_title':'The Truth and Other Lies'
+Manually_identified_main_topic_words: thriller, crime, mystery, deceit, suspenseful 
+Summary: "The Truth and Other Lies" is a crime thriller novel about Henry Hayden, a slimy, unlikable person who is always trying to get what he wants. 
+Manual decision: Not surprising
+Reason: 13, 14, 15, 16, 24
+
+
+'Book_number':'101'
+'Book_id':'22891406'
+'Book_title':'Little Girls'
+Manually_identified_main_topic_words: horror, family, haunting, suspenseful, paranormal, mystery mental illness, 
+Summary: "Little Girls" by Ronald Malfi is a suspenseful horror story that follows the main character, Laurie Genarro, as she inherits a large house from her recently deceased father. 
+Manual decision: Not surprising
+Reason: 14, 24, 75
+
+
+'Book_number':'102'
+'Book_id':'25743749'
+'Book_title':'The Mistake I Made'
+Manually_identified_main_topic_words: financial struggles, family, money, debt
+Summary: "The Mistake I Made" by Paula Daly is a novel that tells the story of a single mother who is struggling with financial difficulties and raising her 9-year-old son George. 
+Manual decision: Not surprising 
+Reason: 3, 5, 8, 35
+
+
+'Book_number':'103'
+'Book_id':'23553419'
+'Book_title':'The Ice Twins'
+Manually_identified_main_topic_words: mystery, twins, thriller, ghost, island
+Summary: "The Ice Twins" by S.K. Tremayne is a psychological thriller and ghost story set on a Scottish island. The story revolves around a pair of twins, one of whom falls to her death while visiting her grandparents.
+Manual decision: Not surprising
+Reason: 14, 24, 75
+
+
+'Book_number':'104'
+'Book_id':'17307162'
+'Book_title':'This House is Haunted'
+Manually_identified_main_topic_words: mystery, horror, paranormal, ghost, haunted
+Summary: "This House is Haunted" is a gothic ghost story set in 1867 with some paranormal, haunting, mystery, and horror plots
+Manual decision: Not surprising
+Reason: 14, 24, 75, 103
+
+
+'Book_number':'105'
+'Book_id':'23014603'
+'Book_title':'Those Girls'
+Manually_identified_main_topic_words: abuse, relationship, trauma, family, violence, suspense
+Summary: Those Girls is a psychological/domestic suspense novel by Chevy Stevens that follows the story of three sisters, Dani, Courtney, and Jess, who escaped from their abusive father only to face bigger trouble.
+Manual decision: Not surprising
+Reason: 1, 5, 8, 11, 12, 16, 43, 73
+
+
+'Book_number':'106'
+'Book_id':'23647122'
+'Book_title':'Center of Gravity'
+Manually_identified_main_topic_words: Psychological thriller, abusive, suspense, marriage
+Summary: "Center of Gravity" by Laura McNeill is a psychological thriller that revolves around the marriage of Ava and Mitchell, and how it spirals out of control.
+Manual decision: Not surprising
+Reason: 21, 72, 13, 14, 15, 16, 24
+
+
+'Book_number':'107'
+'Book_id':'23492777'
+'Book_title':'Swerve'
+Manually_identified_main_topic_words: thriller, horror, desert
+Summary: Swerve is a thriller/horror novel about a couple, Kristine and Daniel, on a road trip through Nevada desert. 
+Manual decision: Not surprising
+Reason: 14, 24, 75, 103
+
+
+'Book_number':'108'
+'Book_id':'23602562'
+'Book_title':'Our Souls at Night'
+Manually_identified_main_topic_words: love, family, loneliness, small town, relationship, 
+Summary: The book is a novella about the relationship between two aging characters, Addie and Louis, who live in a small town in the West.
+Manual decision: Not surprising
+Reason: 1, 2, 3, 5, 8, 11, 12, 16
+
+
+'Book_number':'109'
+'Book_id':'23398919'
+'Book_title':'Bull Mountain'
+Manually_identified_main_topic_words: crime, violence, Guns, family, drug, murder
+Summary: "Bull Mountain" by Brian Panowich is a multigenerational crime novel about the Burroughs family, who run a criminal empire on Bull Mountain, a place shrouded in mystery. There are several plot twists, drug and violent scenes throughout the book
+Manual decision: Not surprising
+Reason: 27, 9, 14, 15
+
+
+'Book_number':'110'
+'Book_id':'23746004'
+'Book_title':'Black-Eyed Susans'
+Manually_identified_main_topic_words: crime, thriller, amnesia, memory loss, trauma, mystery
+Summary: The book "Black-Eyed Susans" is a psychological thriller that tells the story of Tessa Cartwright, who was labeled "the lucky one" after surviving a crime committed against her as a teenager. The book explores the themes of amnesia and trauma.
+Manual decision: Not surprising
+Reason: 13
+
+
+'Book_number':'111'
+'Book_id':'24641778'
+'Book_title':'Imperfect Strangers'
+Manually_identified_main_topic_words:  psychological thriller, mental illness, relationship
+Summary: "Imperfect Strangers" is a psychological thriller that explores Keith's mental illness and his traumatic experiences with his abusive mother, as well as the relationship between Keith and Sally.
+Manual decision: Not surprising
+Reason: 7, 31, 43
+
+
+'Book_number':'112'
+'Book_id':'20640318'
+'Book_title':'The Girl in 6E (Deanna Madden, #1)'
+Manually_identified_main_topic_words: erotic, thriller, psychological, murder, family 
+Summary: The book is a dark psychological erotic thriller about Deanna, a young woman with an obsession with death due to her mother's killing of her entire family and subsequent suicide.
+Manual decision: Not surprising
+Reason: 29, 89, 7, 31, 43
+
+
+'Book_number':'113'
+'Book_id':'25900032'
+'Book_title':'The House on Cold Hill'
+Manually_identified_main_topic_words: ghost, suspense, haunted, creepy
+Summary: "The House on Cold Hill" by Peter James is a suspenseful and haunting ghost story that follows the Harcourt family as they move to Cold Hill, a small village within commuting distance to Brighton.
+Manual decision: Not surprising
+Reason: 14, 24, 75, 103, 104
+
+
+'Book_number':'114'
+'Book_id':'7192155'
+'Book_title':'The Perfect Murder'
+Manually_identified_main_topic_words: murder, haunting, relationship, husband, wife
+Summary: "A Perfect Murder" is a dark comedy novella about Victor and Joan Smiley, a married couple who despise each other and secretly plan to murder each other. There are some twists and haunting plots that add excitement to the story.
+Manual decision: Not surprising
+Reason: 14, 24, 75
+
+
+'Book_number':'115'
+'Book_id':'25731953'
+'Book_title':'All Things Cease to Appear'
+Manually_identified_main_topic_words: small town, suspense, psychological, murder, haunted, marriage 
+Summary: "All Things Cease to Appear" by Elizabeth Brundage is a psychological suspense novel set in a fictitious small town. The story explores the complexities of marriage and human nature.
+Manual decision: Not surprising
+Reason: 7, 21, 72
+
+
+'Book_number':'116'
+'Book_id':'27069952'
+'Book_title':'The Drowning Girls'
+Manually_identified_main_topic_words: psychological thriller, suspense, family drama
+Summary: The Drowning Girls is a psychological thriller written by Paula Treick DeBoard. 
+Manual decision: Not surprising
+Reason: 1, 8, 16
+
+
+'Book_number':'117'
+'Book_id':'27274343'
+'Book_title':'I'm Thinking of Ending Things'
+Manually_identified_main_topic_words: mystery, horror, suspense, creepy 
+Summary: "I'm Thinking of Ending Things" by Iain Reid is a mystery/horror novel about a couple, Jake and his unnamed girlfriend, who are on a road trip to visit Jake's parents.
+Manual decision: Not surprising
+Reason: 14, 24, 75, 103
