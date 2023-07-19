@@ -21,7 +21,7 @@ To replicate our experiments, follow the steps below:
   - Option 1: Use the provided code "create_Users_set.py" from the "data_creation" folder to create the "Users" set, where each file represents a user's reading history. Each user includes the following fields: "book_id", "user_id", "rating", "timestring", "timestamp".
   - Option 2: Download the pre-created "Users" set from the following link: [Users](https://drive.google.com/file/d/1SY6zSqbxEdtrUmgk42Cg6p9OEz-mFMrU/view?usp=sharing)
 - #### Train the LDA Model:
-  - After creating the dataset, train an LDA model using the books that contain at least 1000 tokens. You can use the provided code "train_lda_model.py" or use our pre-trained model available in the "pre_trained_lda_model" folder.
+  - After creating the dataset, train an LDA model using the books that contain at least 1000 tokens. You can use the provided code "train_lda_model.py" or use our pre-trained model available in the following link: [pre_trained_lda_model](https://drive.google.com/file/d/1DBztAei7S2Pd3p4902u30PMApRA4ngiT/view?usp=sharing)
 - #### Topic Distribution Creation:
   - Use the pre-trained LDA model to generate topic distributions for all the books in the "Books" set. Save the topic distributions in the "topic_distrs" folder. You can accomplish this by running the "create_topic_distr.py" file.
 - #### Create User Preferences:
