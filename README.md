@@ -1,5 +1,5 @@
 # Topic-Level Bayesian Surprise and Serendipity for Recommender Systems
-This repository contains the code and dataset for the paper titled "Topic-Level Bayesian Surprise and Serendipity for Recommender Systems." The paper focuses on enhancing recommendation algorithms by incorporating topic-level Bayesian surprise and serendipity measures.
+This repository contains the code and dataset for the paper titled "Topic-Level Bayesian Surprise and Serendipity for Recommender Systems."
 
 ## Machine Configuration:
 The experiments were conducted on a distributed system utilizing a cluster of multiple computers, typically ranging from 10 to 30, which operated simultaneously. Each computer had the following configuration:
