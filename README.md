@@ -1,5 +1,5 @@
 # Topic-Level Bayesian Surprise and Serendipity for Recommender Systems
-This repository contains the code and dataset for the paper titled "Topic-Level Bayesian Surprise and Serendipity for Recommender Systems."
+This repository contains the code and dataset for the paper "Topic-Level Bayesian Surprise and Serendipity for Recommender Systems", Tonmoy Hasan and Razvan Bunescu, ACM RecSys 2023.
 
 ## Machine Configuration:
 The experiments were conducted on a distributed system utilizing a cluster of multiple computers, typically ranging from 10 to 30, which operated simultaneously. Each computer had the following configuration:
@@ -7,7 +7,7 @@ The experiments were conducted on a distributed system utilizing a cluster of mu
 - 384GB RAM (8GB per core)
 - 100GBit EDR Infiniband Interconnect
 
-Running the code on a personal computer or a single machine may significantly increase the processing time, possibly taking 5-10 days to complete some codes. So it is recommended to run the code on a distributed system if you have the opportunity. Please feel free to reach out to us regarding this.
+Running the code on a personal computer or a single machine may significantly increase the processing time, possibly taking 5-10 days to complete some operations. So it is recommended to run the code on a distributed system if you have the opportunity. Please feel free to reach out to us regarding this.
 
 ## Experiment Replication:
 To replicate our experiments, follow the steps below:
@@ -25,9 +25,9 @@ To replicate our experiments, follow the steps below:
 - #### Topic Distribution Creation:
   - Use the pre-trained LDA model to generate topic distributions for all the books in the "Books" set. Save the topic distributions in the "topic_distrs" folder. You can accomplish this by running the "create_topic_distr.py" file.
 - #### Create User Preferences:
-  - We generated user preferences for all 26,374 users using five different models separately, three of which are based on Bayesian Surprise. You can generate user preferences for each model using the provided code in the "create_user_preferences" folder.
+  - We generated time series of user preferences for all 26,374 users using five different models separately, three of which are based on online learning of normally distributed preference vectors. You can generate user preferences for each model using the provided code in the "create_user_preferences" folder.
 - #### Surprising and Serendipitous Item Recommendation:
-  - Run the codes from the "surprise" and "serendipity" folders to get the final results.
+  - Run the code from the "surprise" and "serendipity" folders to get the final results.
 
 ## Annotated Dataset:
 The repository also includes the annotated dataset for four reference users. The files "User1.txt," "User2.txt," "User3.txt," and "User4.txt" contain human annotations for these users. Each file provides the following information in chronological order of the users' reading history:
