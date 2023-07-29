@@ -42,4 +42,4 @@ The repository also includes the annotated dataset for four reference users. The
 For books that are surprising in terms of their topic, the annotation for "Human decision" is "Surprising", otherwise, the annotation is "Not surprising."
 
 
-##### If you have any questions or need assistance, please feel free to reach out to us.
+##### If you have any questions or need assistance, please feel free to reach out to us at thasan1@charlotte.edu
